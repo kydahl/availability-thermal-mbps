@@ -1,0 +1,11 @@
+﻿mosquito_species,pathogen,a,b,c,bc,lf,PDR,pO,EPR,EFOC,EV,pLA,MDR
+Culex pipiens,WNV,y,NA,NA,y,y,y,1,NA,y,y,y,y
+Culex quinquefasciatus,WNV,y,NA,NA,Culex univittatus,y,y,y,y,NA,y,y,y
+Culex tarsalis,WNV,y,y,1,NA,y,y,1,NA,Culex pipiens,Culex pipiens,y,y
+Culex univittatus,WNV,Culex pipiens,NA,NA,y,Culex pipiens,y,1,NA,Culex pipiens,Culex pipiens,Culex pipiens,Culex pipiens
+Culex tarsalis,WEEV,y,y,y,NA,y,y,1,NA,Culex pipiens,Culex pipiens,y,y
+Culex tarsalis,SLEV,y,y,y,NA,y,y,1,NA,Culex pipiens,Culex pipiens,y,y
+Aedes triseriatus,EEEV,Culiseta melanura,NA,NA,y,Culex pipiens,y,Culiseta melanura,NA,Culex pipients,Culex pipiens,y,y
+Culex pipiens,SINV,y,1,y,NA,y,1,1,NA,y,y,y,y
+Aedes taeniorhynchus,SINV,Culex pipiens,1,y,NA,y,1,1,NA,Culex pipiens,Aedes vexans,Aedes vexans,Aedes vexans
+Aedes taeniorhynchus,RVFV,Culex pipiens,NA,NA,y,y,y,1,NA,Culex pipiens,Culex theileri,Aedes vexans,Aedes vexans

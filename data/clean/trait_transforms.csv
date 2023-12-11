@@ -1,0 +1,29 @@
+trait.from,trait.to,final.trait,transform,notes
+GCR,a,a,Identity,"gonotrophic cycle rate, development rate (per day) of the first gonotrophic cycle"
+GCD,a,a,Inverse,"gonotrophic cycle duration, inverse of the gonotrophic cycle rate"
+a,a,a,Identity,biting rate
+b,b,b,Identity,probability of becoming infected from feeding on infectious host
+bc,bc,bc,Identity,probability of becoming infectious from feeding on infectious host
+c,c,c,Identity,probability of transferring infection to host
+e2a,e2a,e2a,Identity,probability of egg developing into an adult
+pEA,e2a,e2a,Identity,probability of egg developing into an adult
+Egg viability,EV,e2a,Multiply_pLA,average proportion of eggs successfully hatching
+pLA,pLA,e2a,NA,probability of larva surviving to adulthood. Accessory trait used to compute e2a with Egg viability or nLR and pLA
+pRH,pRH,e2a,Multiply_nLR_pLA,proportion of rafts that hatch
+EFD,EFD,EFD,Identity,eggs per female per day
+TFD,EFOC,EFD,Multiply_a,"total fecundity, eggs laid per female per gonotrophic cycle (number/female)"
+EFGC,EFOC,EFD,Multiply_a,eggs per female per gonotrophic cycle
+EFOC,EFOC,EFD,Multiply_a,eggs per female per oviposition cycle
+EPR,EPR,EFD,Multiply_pO,eggs per raft
+p/days,lf,lf,Inverse,mortality rate
+1/mu,lf,lf,Identity,inverse of mortality rate (approx. average lifespan)
+prop.dead,lf,lf,NegativeLogDifference,proportion dead after time T
+lf,lf,lf,Identity,lifespan
+MDR,MDR,MDR,Identity,mosquito development rate
+1/MDR,MDR,MDR,Inverse,average development time (approx. = inverse of mosquito development rate)
+nLR,nLR,nLR,NA,number of larvae emerging per viable raft. Accessory trait used to compute EFD with pRH and pLA
+EIP,PDR,PDR,Inverse,extrinsic incubation period
+PDR,PDR,PDR,Identity,parasite development rate
+EIR,PDR,PDR,Identity,extrinsic incubation rate (same as PDR)
+pO,pO,pO,NA,average proportion of females ovipositing at any point in time. Accessory trait used to compute EFD with EPR
+mu,lf,lf,Inverse,mortality rate

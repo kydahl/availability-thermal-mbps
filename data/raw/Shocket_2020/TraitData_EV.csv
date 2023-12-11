@@ -1,0 +1,74 @@
+seriesID,trait.name,T,trait,ErrorPosSI,ErrorNegSI,Trait2.name,Trait,host.code,paras.code,Citation,Figure,Notes
+Shocket,Egg viability,21,0.821,NA,NA,NA,NA,Cmol,NA,Oda_1980_TropMed,Table 2,
+Shocket,Egg viability,25,0.932,NA,NA,NA,NA,Cmol,NA,Oda_1980_TropMed,Table 2,
+Shocket,Egg viability,28,0.495,NA,NA,NA,NA,Cmol,NA,Oda_1980_TropMed,Table 2,
+Shocket,Egg viability,30,0.074,NA,NA,NA,NA,Cmol,NA,Oda_1980_TropMed,Table 2,
+Shocket,Egg viability,21,0.959,NA,NA,NA,NA,Cqui,NA,Oda_1980_TropMed,Table 4,
+Shocket,Egg viability,25,0.87,NA,NA,NA,NA,Cqui,NA,Oda_1980_TropMed,Table 4,
+Shocket,Egg viability,30,0.943,NA,NA,NA,NA,Cqui,NA,Oda_1980_TropMed,Table 4,
+Shocket,Egg viability,10,0.506,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 1,Translated from Chinese paper
+Shocket,Egg viability,15,0.652,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 1,Translated from Chinese paper
+Shocket,Egg viability,20,0.817,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 1,Translated from Chinese paper
+Shocket,Egg viability,25,0.811,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 1,Translated from Chinese paper
+Shocket,Egg viability,30,0.723,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 1,Translated from Chinese paper
+Shocket,Egg viability,35,0.701,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 1,Translated from Chinese paper
+Shocket,Egg viability,40,0,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 1,Translated from Chinese paper
+Numazu_20,Egg viability,32,0.929,0.013,0.016,photoperiod length,16,Ador,NA,McHaffey_&_Harwood_1970_JMedEnt,Figure 3,cumulative over 3 hatch attempts; standard error is 95% confidence interval
+Numazu_20,Egg viability,32,0.928,0.017,0.021,photoperiod length,11,Ador,NA,McHaffey_&_Harwood_1970_JMedEnt,Figure 3,cumulative over 3 hatch attempts; standard error is 95% confidence interval
+Numazu_20,Egg viability,25,0.856,0.019,0.021,photoperiod length,16,Ador,NA,McHaffey_&_Harwood_1970_JMedEnt,Figure 3,cumulative over 3 hatch attempts; standard error is 95% confidence interval
+Numazu_20,Egg viability,25,0.658,0.035,0.026,photoperiod length,11,Ador,NA,McHaffey_&_Harwood_1970_JMedEnt,Figure 3,cumulative over 3 hatch attempts; standard error is 95% confidence interval
+Numazu_20,Egg viability,10,0.343,0.03,0.029,photoperiod length,16,Ador,NA,McHaffey_&_Harwood_1970_JMedEnt,Figure 3,cumulative over 3 hatch attempts; standard error is 95% confidence interval
+Numazu_20,Egg viability,10,0.4,0.035,0.024,photoperiod length,11,Ador,NA,McHaffey_&_Harwood_1970_JMedEnt,Figure 3,cumulative over 3 hatch attempts; standard error is 95% confidence interval
+Shocket,Egg viability,32,0.997,NA,NA,photoperiod length,16,Anig,NA,McHaffey_1972_MosquitoNews,Table 1,cumulative over 3 hatch attempts; standard error is 95% confidence interval
+Shocket,Egg viability,32,0.996,NA,NA,photoperiod length,11,Anig,NA,McHaffey_1972_MosquitoNews,Table 1,cumulative over 3 hatch attempts; standard error is 95% confidence interval
+Shocket,Egg viability,25,0.964,NA,NA,photoperiod length,16,Anig,NA,McHaffey_1972_MosquitoNews,Table 1,cumulative over 3 hatch attempts; standard error is 95% confidence interval
+Shocket,Egg viability,25,0.972,NA,NA,photoperiod length,11,Anig,NA,McHaffey_1972_MosquitoNews,Table 1,cumulative over 3 hatch attempts; standard error is 95% confidence interval
+Shocket,Egg viability,10,0.532,8.2,7.8,photoperiod length,16,Anig,NA,McHaffey_1972_MosquitoNews,Table 1,cumulative over 3 hatch attempts; standard error is 95% confidence interval
+Shocket,Egg viability,10,0.31,6,7,photoperiod length,11,Anig,NA,McHaffey_1972_MosquitoNews,Table 1,cumulative over 3 hatch attempts; standard error is 95% confidence interval
+Shocket,Egg viability,32,0.936,0.015,0.013,photoperiod length,16,Avex,NA,McHaffey_1972_JMedEntom,Figure 1,cumulative over 3 hatch attempts; standard error is 95% confidence interval
+Shocket,Egg viability,32,0.953,0.024,0.009,photoperiod length,11,Avex,NA,McHaffey_1972_JMedEntom,Figure 1,cumulative over 3 hatch attempts; standard error is 95% confidence interval
+Shocket,Egg viability,25,0.916,0.024,0.015,photoperiod length,16,Avex,NA,McHaffey_1972_JMedEntom,Figure 1,cumulative over 3 hatch attempts; standard error is 95% confidence interval
+Shocket,Egg viability,25,0.91,0.019,0.019,photoperiod length,11,Avex,NA,McHaffey_1972_JMedEntom,Figure 1,cumulative over 3 hatch attempts; standard error is 95% confidence interval
+Shocket,Egg viability,10,0.53,0.028,0.032,photoperiod length,16,Avex,NA,McHaffey_1972_JMedEntom,Figure 1,cumulative over 3 hatch attempts; standard error is 95% confidence interval
+Shocket,Egg viability,10,0.646,0.032,0.028,photoperiod length,11,Avex,NA,McHaffey_1972_JMedEntom,Figure 1,cumulative over 3 hatch attempts; standard error is 95% confidence interval
+Shocket,Egg viability,0,0,NA,NA,NA,NA,Cqui,NA,Rayah_1983_NedEntomolVerAmsterdam,Table 1,
+Shocket,Egg viability,10,0,NA,NA,NA,NA,Cqui,NA,Rayah_1983_NedEntomolVerAmsterdam,Table 1,
+Shocket,Egg viability,12,0,NA,NA,NA,NA,Cqui,NA,Rayah_1983_NedEntomolVerAmsterdam,Table 1,
+Shocket,Egg viability,13,0,NA,NA,NA,NA,Cqui,NA,Rayah_1983_NedEntomolVerAmsterdam,Table 1,
+Shocket,Egg viability,15,0.077,NA,NA,NA,NA,Cqui,NA,Rayah_1983_NedEntomolVerAmsterdam,Table 1,
+Shocket,Egg viability,17,0.168,NA,NA,NA,NA,Cqui,NA,Rayah_1983_NedEntomolVerAmsterdam,Table 1,
+Shocket,Egg viability,19,0.206,NA,NA,NA,NA,Cqui,NA,Rayah_1983_NedEntomolVerAmsterdam,Table 1,
+Shocket,Egg viability,22,0.249,NA,NA,NA,NA,Cqui,NA,Rayah_1983_NedEntomolVerAmsterdam,Table 1,
+Shocket,Egg viability,24,0.319,NA,NA,NA,NA,Cqui,NA,Rayah_1983_NedEntomolVerAmsterdam,Table 1,
+Shocket,Egg viability,26,0.383,NA,NA,NA,NA,Cqui,NA,Rayah_1983_NedEntomolVerAmsterdam,Table 1,
+Shocket,Egg viability,28,0.62,NA,NA,NA,NA,Cqui,NA,Rayah_1983_NedEntomolVerAmsterdam,Table 1,
+Shocket,Egg viability,30,0.719,NA,NA,NA,NA,Cqui,NA,Rayah_1983_NedEntomolVerAmsterdam,Table 1,
+Shocket,Egg viability,32,0.855,NA,NA,NA,NA,Cqui,NA,Rayah_1983_NedEntomolVerAmsterdam,Table 1,
+Shocket,Egg viability,33,0.774,NA,NA,NA,NA,Cqui,NA,Rayah_1983_NedEntomolVerAmsterdam,Table 1,
+Shocket,Egg viability,34,0.614,NA,NA,NA,NA,Cqui,NA,Rayah_1983_NedEntomolVerAmsterdam,Table 1,
+Shocket,Egg viability,35,0.546,NA,NA,NA,NA,Cqui,NA,Rayah_1983_NedEntomolVerAmsterdam,Table 1,
+Shocket,Egg viability,37,0.286,NA,NA,NA,NA,Cqui,NA,Rayah_1983_NedEntomolVerAmsterdam,Table 1,
+Shocket,Egg viability,38,0.157,NA,NA,NA,NA,Cqui,NA,Rayah_1983_NedEntomolVerAmsterdam,Table 1,
+Shocket,Egg viability,39,0,NA,NA,NA,NA,Cqui,NA,Rayah_1983_NedEntomolVerAmsterdam,Table 1,
+Shocket,Egg viability,9,0.382,NA,NA,Population,A,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,12,0.984,NA,NA,Population,A,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,15,0.712,NA,NA,Population,A,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,18,0.944,NA,NA,Population,A,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,21,0.889,NA,NA,Population,A,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,24,0.911,NA,NA,Population,A,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,27,0.984,NA,NA,Population,A,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,30,0.958,NA,NA,Population,A,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,33,0.804,NA,NA,Population,A,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,36,0.951,NA,NA,Population,A,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,39,0.924,NA,NA,Population,A,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,9,0,NA,NA,Population,B,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,12,0.478,NA,NA,Population,B,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,15,0.875,NA,NA,Population,B,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,18,0.933,NA,NA,Population,B,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,21,0.882,NA,NA,Population,B,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,24,0.773,NA,NA,Population,B,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,27,0.967,NA,NA,Population,B,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,30,0.962,NA,NA,Population,B,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,33,0.948,NA,NA,Population,B,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,36,0.993,NA,NA,Population,B,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,
+Shocket,Egg viability,39,0,NA,NA,Population,B,Cthe,NA,VanderLinde_1990_JEntSocSAfrica,Figure 5,

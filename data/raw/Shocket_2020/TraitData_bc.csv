@@ -1,0 +1,307 @@
+seriesID,trait.name,T,trait,ErrorPosSI,ErrorNegSI,Trait2.name,Trait,host.code,paras.code,Citation,Figure,Notes,joint.code
+Numazu_11,b,10,0,NA,NA,Days Post Infection,80,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Numazu_11,b,15,0.17,NA,NA,Days Post Infection,72,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Numazu_11,b,20,0.709,NA,NA,Days Post Infection,21,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Numazu_11,b,20,0.407,NA,NA,Days Post Infection,24,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Numazu_11,b,20,0.581,NA,NA,Days Post Infection,27,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Numazu_11,b,25,0.54,NA,NA,Days Post Infection,10,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Numazu_11,b,25,0.617,NA,NA,Days Post Infection,13,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Numazu_11,b,25,0.791,NA,NA,Days Post Infection,16,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Numazu_11,b,25,0.908,NA,NA,Days Post Infection,19,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Numazu_11,b,25,0.929,NA,NA,Days Post Infection,21,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Numazu_11,b,25,0.789,NA,NA,Days Post Infection,24,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Numazu_11,b,30,0.395,NA,NA,Days Post Infection,7,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Numazu_11,b,30,0.801,NA,NA,Days Post Infection,10,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Numazu_11,b,30,0.673,NA,NA,Days Post Infection,13,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Numazu_11,b,30,0.755,NA,NA,Days Post Infection,16,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Numazu_11,b,30,0.763,NA,NA,Days Post Infection,19,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Numazu_11,b,30,0.502,NA,NA,Days Post Infection,21,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Numazu_9,b,10,0.081,NA,NA,Days Post Infection,24,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,10,0.041,NA,NA,Days Post Infection,27,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,10,0.003,NA,NA,Days Post Infection,30,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,10,0.14,NA,NA,Days Post Infection,45,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,15,0.362,NA,NA,Days Post Infection,13,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,15,0.485,NA,NA,Days Post Infection,16,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,15,0.603,NA,NA,Days Post Infection,19,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,15,0.361,NA,NA,Days Post Infection,21,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,15,0.486,NA,NA,Days Post Infection,24,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,15,0.562,NA,NA,Days Post Infection,27,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,15,0.681,NA,NA,Days Post Infection,30,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,20,0.723,NA,NA,Days Post Infection,10,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,20,0.62,NA,NA,Days Post Infection,13,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,20,0.651,NA,NA,Days Post Infection,16,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,20,0.519,NA,NA,Days Post Infection,19,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,20,0.419,NA,NA,Days Post Infection,21,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,20,0.197,NA,NA,Days Post Infection,24,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,20,0.438,NA,NA,Days Post Infection,27,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,25,0.603,NA,NA,Days Post Infection,7,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,25,0.509,NA,NA,Days Post Infection,10,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,25,0.393,NA,NA,Days Post Infection,13,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,25,0.394,NA,NA,Days Post Infection,16,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,25,0.202,NA,NA,Days Post Infection,19,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,25,0.163,NA,NA,Days Post Infection,21,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,30,0.523,NA,NA,Days Post Infection,4,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,30,0.69,NA,NA,Days Post Infection,7,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,30,0.374,NA,NA,Days Post Infection,10,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,30,0.123,NA,NA,Days Post Infection,13,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,30,0.08,NA,NA,Days Post Infection,16,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,30,0.002,NA,NA,Days Post Infection,19,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Numazu_9,b,30,0.001,NA,NA,Days Post Infection,21,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,30,1,NA,NA,Days Post Infection,4,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,30,1,NA,NA,Days Post Infection,7,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,30,1,NA,NA,Days Post Infection,10,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,30,1,NA,NA,Days Post Infection,13,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,30,1,NA,NA,Days Post Infection,16,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,30,1,NA,NA,Days Post Infection,19,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,30,1,NA,NA,Days Post Infection,21,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,25,1,NA,NA,Days Post Infection,4,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,25,1,NA,NA,Days Post Infection,7,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,25,0.97,NA,NA,Days Post Infection,10,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,25,1,NA,NA,Days Post Infection,13,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,25,1,NA,NA,Days Post Infection,16,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,25,1,NA,NA,Days Post Infection,19,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,25,1,NA,NA,Days Post Infection,21,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,20,1,NA,NA,Days Post Infection,7,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,20,0.96,NA,NA,Days Post Infection,10,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,20,0.96,NA,NA,Days Post Infection,13,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,20,0.92,NA,NA,Days Post Infection,16,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,20,1,NA,NA,Days Post Infection,19,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,20,1,NA,NA,Days Post Infection,21,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,20,1,NA,NA,Days Post Infection,24,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,20,1,NA,NA,Days Post Infection,27,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,15,1,NA,NA,Days Post Infection,7,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,15,1,NA,NA,Days Post Infection,10,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,15,1,NA,NA,Days Post Infection,13,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,15,1,NA,NA,Days Post Infection,16,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,15,1,NA,NA,Days Post Infection,19,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,15,1,NA,NA,Days Post Infection,21,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,15,1,NA,NA,Days Post Infection,24,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,15,1,NA,NA,Days Post Infection,27,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,15,1,NA,NA,Days Post Infection,30,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,10,1,NA,NA,Days Post Infection,10,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,10,1,NA,NA,Days Post Infection,16,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,10,1,NA,NA,Days Post Infection,19,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,10,0.96,NA,NA,Days Post Infection,21,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,10,1,NA,NA,Days Post Infection,24,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,10,1,NA,NA,Days Post Infection,27,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,10,1,NA,NA,Days Post Infection,30,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111,c,10,1,NA,NA,Days Post Infection,27,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Mariano_111a,c,30,0.58,NA,NA,Days Post Infection,4,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,30,0.66,NA,NA,Days Post Infection,7,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,30,0.42,NA,NA,Days Post Infection,10,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,30,0.52,NA,NA,Days Post Infection,13,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,30,0.64,NA,NA,Days Post Infection,16,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,30,0.71,NA,NA,Days Post Infection,19,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,30,0.48,NA,NA,Days Post Infection,21,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,25,0.56,NA,NA,Days Post Infection,4,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,25,0.62,NA,NA,Days Post Infection,7,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,25,0.66,NA,NA,Days Post Infection,10,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,25,0.56,NA,NA,Days Post Infection,13,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,25,0.56,NA,NA,Days Post Infection,16,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,25,0.65,NA,NA,Days Post Infection,19,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,25,0.52,NA,NA,Days Post Infection,21,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,25,0.56,NA,NA,Days Post Infection,24,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,20,0.72,NA,NA,Days Post Infection,7,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,20,0.4,NA,NA,Days Post Infection,10,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,20,0.72,NA,NA,Days Post Infection,13,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,20,0.66,NA,NA,Days Post Infection,16,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,20,0.46,NA,NA,Days Post Infection,19,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,20,0.68,NA,NA,Days Post Infection,21,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,20,0.68,NA,NA,Days Post Infection,24,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,20,0.52,NA,NA,Days Post Infection,27,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,15,0.36,NA,NA,Days Post Infection,21,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,15,0.32,NA,NA,Days Post Infection,27,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,15,0.2,NA,NA,Days Post Infection,35,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,15,0.36,NA,NA,Days Post Infection,42,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,15,0.21,NA,NA,Days Post Infection,49,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,15,0.28,NA,NA,Days Post Infection,56,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,15,0.51,NA,NA,Days Post Infection,63,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,15,0.6,NA,NA,Days Post Infection,72,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,10,0.04,NA,NA,Days Post Infection,35,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,10,0.04,NA,NA,Days Post Infection,49,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,10,0,NA,NA,Days Post Infection,63,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Mariano_111a,c,10,0.08,NA,NA,Days Post Infection,79,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+Verwillow_24,b,10,0,NA,NA,Days Post Infection,110,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+Verwillow_24,b,14,0.12,NA,NA,Days Post Infection,36,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+Verwillow_24,b,18,0.3,NA,NA,Days Post Infection,26,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+Verwillow_24,b,18,0.45,NA,NA,Days Post Infection,29,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+Verwillow_24,b,18,0.45,NA,NA,Days Post Infection,33,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+Verwillow_24,b,22,0.59,NA,NA,Days Post Infection,17,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+Verwillow_24,b,22,0.81,NA,NA,Days Post Infection,19,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+Verwillow_24,b,26,0.42,NA,NA,Days Post Infection,9,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+Verwillow_24,b,26,0.79,NA,NA,Days Post Infection,12,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+Verwillow_24,b,26,0.46,NA,NA,Days Post Infection,14,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+Verwillow_24,b,26,0.9,NA,NA,Days Post Infection,16,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+Verwillow_24,b,30,0.6,NA,NA,Days Post Infection,7,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+Verwillow_24,b,30,0.85,NA,NA,Days Post Infection,9,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+Verwillow_24,b,30,0.75,NA,NA,Days Post Infection,12,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+Verwillow_24,b,30,0.75,NA,NA,Days Post Infection,14,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+Mariano_114a,c,18,0.6,NA,NA,Days Post Infection,13-16,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 1,,CtarWEEV
+Mariano_114a,c,25,0.7,NA,NA,Days Post Infection,13-16,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 1,,CtarWEEV
+Mariano_114a,c,32,0.2,NA,NA,Days Post Infection,13-16,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 1,,CtarWEEV
+Mariano_114b,bc,25,0.28,NA,NA,Days Post Infection,13-16,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 1,,CtarWEEV
+Mariano_114b,bc,32,0.07,NA,NA,Days Post Infection,13-16,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 1,,CtarWEEV
+Mariano_114c,c,18,0.89,NA,NA,Days Post Infection,6,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 2,,CtarWEEV
+Mariano_114c,c,18,0.94,NA,NA,Days Post Infection,12,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 2,,CtarWEEV
+Mariano_114c,c,18,0.94,NA,NA,Days Post Infection,19,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 2,,CtarWEEV
+Mariano_114c,c,25,1,NA,NA,Days Post Infection,6,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 2,,CtarWEEV
+Mariano_114c,c,25,0.86,NA,NA,Days Post Infection,12,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 2,,CtarWEEV
+Mariano_114c,c,25,0.8,NA,NA,Days Post Infection,19,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 2,,CtarWEEV
+Mariano_114c,c,32,0.72,NA,NA,Days Post Infection,6,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 2,,CtarWEEV
+Mariano_114c,c,32,0.21,NA,NA,Days Post Infection,12,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 2,,CtarWEEV
+Mariano_114d,bc,18,0.27,NA,NA,Days Post Infection,19,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 2,,CtarWEEV
+Mariano_114d,bc,25,0.31,NA,NA,Days Post Infection,12,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 2,,CtarWEEV
+Mariano_114d,bc,25,0.34,NA,NA,Days Post Infection,19,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 2,,CtarWEEV
+Mariano_114d,bc,32,0.21,NA,NA,Days Post Infection,6,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 2,,CtarWEEV
+Mariano_114d,bc,32,0.04,NA,NA,Days Post Infection,12,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 2,,CtarWEEV
+Verwillow_4,c,15,0.08,NA,NA,days since infectious bloodmeal,24,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_4,c,15,0.04,NA,NA,days since infectious bloodmeal,28,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_4,c,15,0.04,NA,NA,days since infectious bloodmeal,31,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_4,c,15,0.08,NA,NA,days since infectious bloodmeal,34,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_4,c,15,0,NA,NA,days since infectious bloodmeal,40,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_4,c,18,0.12,NA,NA,days since infectious bloodmeal,24,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_4,c,18,0.24,NA,NA,days since infectious bloodmeal,28,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_4,c,18,0.24,NA,NA,days since infectious bloodmeal,31,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_4,c,18,0.2,NA,NA,days since infectious bloodmeal,34,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_4,c,18,0.36,NA,NA,days since infectious bloodmeal,40,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_4,c,22,0.604,NA,NA,days since infectious bloodmeal,24,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_4,c,22,0.765,NA,NA,days since infectious bloodmeal,28,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_4,c,22,0.484,NA,NA,days since infectious bloodmeal,31,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_4,c,22,0.764,NA,NA,days since infectious bloodmeal,34,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_4,c,22,0.336,NA,NA,days since infectious bloodmeal,40,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_4,c,32,0.644,NA,NA,days since infectious bloodmeal,4,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_4,c,32,0.845,NA,NA,days since infectious bloodmeal,6,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_4,c,32,0.965,NA,NA,days since infectious bloodmeal,7,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_4,c,32,0.924,NA,NA,days since infectious bloodmeal,10,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_4,c,32,0.933,NA,NA,days since infectious bloodmeal,14,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_5,c,15,0.082,NA,NA,days since infectious bloodmeal,28,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_5,c,15,0,NA,NA,days since infectious bloodmeal,31,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_5,c,15,0,NA,NA,days since infectious bloodmeal,34,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_5,c,15,0,NA,NA,days since infectious bloodmeal,40,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_5,c,18,0.122,NA,NA,days since infectious bloodmeal,31,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_5,c,18,0.04,NA,NA,days since infectious bloodmeal,34,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_5,c,18,0.162,NA,NA,days since infectious bloodmeal,40,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_5,c,22,0.322,NA,NA,days since infectious bloodmeal,18,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_5,c,22,0.122,NA,NA,days since infectious bloodmeal,21,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_5,c,22,0.364,NA,NA,days since infectious bloodmeal,24,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_5,c,22,0.244,NA,NA,days since infectious bloodmeal,28,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_5,c,22,0.524,NA,NA,days since infectious bloodmeal,31,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_5,c,22,0.322,NA,NA,days since infectious bloodmeal,34,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_5,c,22,0.253,NA,NA,days since infectious bloodmeal,40,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_5,c,32,0.964,NA,NA,days since infectious bloodmeal,6,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_5,c,32,0.884,NA,NA,days since infectious bloodmeal,7,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_5,c,32,1,NA,NA,days since infectious bloodmeal,10,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_5,c,32,1,NA,NA,days since infectious bloodmeal,14,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_6,bc,15,0.04,NA,NA,days post infectious bloodmeal,28,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_6,bc,15,0.04,NA,NA,days post infectious bloodmeal,31,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_6,bc,15,0,NA,NA,days post infectious bloodmeal,34,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_6,bc,15,0,NA,NA,days post infectious bloodmeal,40,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_6,bc,18,0.08,NA,NA,days post infectious bloodmeal,28,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_6,bc,18,0.08,NA,NA,days post infectious bloodmeal,31,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_6,bc,18,0,NA,NA,days post infectious bloodmeal,34,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_6,bc,18,0.04,NA,NA,days post infectious bloodmeal,40,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_6,bc,22,0.28,NA,NA,days post infectious bloodmeal,24,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_6,bc,22,0.52,NA,NA,days post infectious bloodmeal,28,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_6,bc,22,0.319,NA,NA,days post infectious bloodmeal,31,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_6,bc,22,0.519,NA,NA,days post infectious bloodmeal,34,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_6,bc,32,0.241,NA,NA,days post infectious bloodmeal,4,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_6,bc,32,0.281,NA,NA,days post infectious bloodmeal,6,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_6,bc,32,0.281,NA,NA,days post infectious bloodmeal,7,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_6,bc,32,0.481,NA,NA,days post infectious bloodmeal,10,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_7,bc,15,0.04,NA,NA,days post infectious bloodmeal,28,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_7,bc,15,0,NA,NA,days post infectious bloodmeal,31,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_7,bc,15,0,NA,NA,days post infectious bloodmeal,34,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_7,bc,15,0,NA,NA,days post infectious bloodmeal,40,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_7,bc,18,0.04,NA,NA,days post infectious bloodmeal,28,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_7,bc,18,0,NA,NA,days post infectious bloodmeal,31,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_7,bc,18,0,NA,NA,days post infectious bloodmeal,34,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_7,bc,18,0,NA,NA,days post infectious bloodmeal,40,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_7,bc,22,0.24,NA,NA,days post infectious bloodmeal,31,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_7,bc,22,0.2,NA,NA,days post infectious bloodmeal,34,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_7,bc,32,0.241,NA,NA,days post infectious bloodmeal,6,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_7,bc,32,0.161,NA,NA,days post infectious bloodmeal,7,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_7,bc,32,0.441,NA,NA,days post infectious bloodmeal,10,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Numazu_19,c,10,0.089,NA,NA,days post infectious bloodmeal,28,Atae,SINV,Turell_&_Lundstrom_1990_AmericanJofTropicalMedicineandHygiene,Figure 3,Parasite strain noted as Ockelbo virus; acclim temp was rearing temp,AtaeSINV
+Numazu_19,c,17,0.563,NA,NA,days post infectious bloodmeal,14,Atae,SINV,Turell_&_Lundstrom_1990_AmericanJofTropicalMedicineandHygiene,Figure 3,Parasite strain noted as Ockelbo virus; acclim temp was rearing temp,AtaeSINV
+Numazu_19,c,17,0.573,NA,NA,days post infectious bloodmeal,21,Atae,SINV,Turell_&_Lundstrom_1990_AmericanJofTropicalMedicineandHygiene,Figure 3,Parasite strain noted as Ockelbo virus; acclim temp was rearing temp,AtaeSINV
+Numazu_19,c,17,0.691,NA,NA,days post infectious bloodmeal,28,Atae,SINV,Turell_&_Lundstrom_1990_AmericanJofTropicalMedicineandHygiene,Figure 3,Parasite strain noted as Ockelbo virus; acclim temp was rearing temp,AtaeSINV
+Numazu_19,c,24,0.501,NA,NA,days post infectious bloodmeal,14,Atae,SINV,Turell_&_Lundstrom_1990_AmericanJofTropicalMedicineandHygiene,Figure 3,Parasite strain noted as Ockelbo virus; acclim temp was rearing temp,AtaeSINV
+Numazu_19,c,24,0.88,NA,NA,days post infectious bloodmeal,21,Atae,SINV,Turell_&_Lundstrom_1990_AmericanJofTropicalMedicineandHygiene,Figure 3,Parasite strain noted as Ockelbo virus; acclim temp was rearing temp,AtaeSINV
+Shocket_107,bc,21.1,0.329,NA,NA,days post infectious bloodmeal,13,Atri,EEEV,Chamberlain&Sudia_1995_AmJEpi,Figure 4,,AtriEEEV
+Shocket_107,bc,21.1,0.571,NA,NA,days post infectious bloodmeal,17,Atri,EEEV,Chamberlain&Sudia_1995_AmJEpi,Figure 4,,AtriEEEV
+Shocket_107,bc,21.1,0.5,NA,NA,days post infectious bloodmeal,20,Atri,EEEV,Chamberlain&Sudia_1995_AmJEpi,Figure 4,,AtriEEEV
+Shocket_107,bc,21.1,0.569,NA,NA,days post infectious bloodmeal,27,Atri,EEEV,Chamberlain&Sudia_1995_AmJEpi,Figure 4,,AtriEEEV
+Shocket_107,bc,21.1,0.76,NA,NA,days post infectious bloodmeal,34,Atri,EEEV,Chamberlain&Sudia_1995_AmJEpi,Figure 4,,AtriEEEV
+Shocket_107,bc,21.1,0.639,NA,NA,days post infectious bloodmeal,41,Atri,EEEV,Chamberlain&Sudia_1995_AmJEpi,Figure 4,,AtriEEEV
+Shocket_107,bc,26.7,0.4,NA,NA,days post infectious bloodmeal,10,Atri,EEEV,Chamberlain&Sudia_1995_AmJEpi,Figure 4,,AtriEEEV
+Shocket_107,bc,26.7,0.651,NA,NA,days post infectious bloodmeal,13,Atri,EEEV,Chamberlain&Sudia_1995_AmJEpi,Figure 4,,AtriEEEV
+Shocket_107,bc,26.7,0.865,NA,NA,days post infectious bloodmeal,17,Atri,EEEV,Chamberlain&Sudia_1995_AmJEpi,Figure 4,,AtriEEEV
+Shocket_107,bc,26.7,0.865,NA,NA,days post infectious bloodmeal,20,Atri,EEEV,Chamberlain&Sudia_1995_AmJEpi,Figure 4,,AtriEEEV
+Shocket_107,bc,26.7,0.552,NA,NA,days post infectious bloodmeal,27,Atri,EEEV,Chamberlain&Sudia_1995_AmJEpi,Figure 4,,AtriEEEV
+Shocket_107,bc,32.2,0.645,NA,NA,days post infectious bloodmeal,6,Atri,EEEV,Chamberlain&Sudia_1995_AmJEpi,Figure 4,,AtriEEEV
+Shocket_107,bc,32.2,0.82,NA,NA,days post infectious bloodmeal,10,Atri,EEEV,Chamberlain&Sudia_1995_AmJEpi,Figure 4,,AtriEEEV
+Shocket_107,bc,32.2,0.851,NA,NA,days post infectious bloodmeal,13,Atri,EEEV,Chamberlain&Sudia_1995_AmJEpi,Figure 4,,AtriEEEV
+Numazu_35,bc,13,0.25,NA,NA,NA,NA,Atae,RVFV,Turell_Rossi_Bailey_1985_AmJTropMedHyg,Figure 7,"Very few hosts per time point, so grouped them all post-EIP",AtaeRVFV
+Numazu_35,bc,26,0.462,NA,NA,NA,NA,Atae,RVFV,Turell_Rossi_Bailey_1985_AmJTropMedHyg,Figure 7,"Very few hosts per time point, so grouped them all post-EIP",AtaeRVFV
+Numazu_35,bc,33,0.357,NA,NA,NA,NA,Atae,RVFV,Turell_Rossi_Bailey_1985_AmJTropMedHyg,Figure 7,"Very few hosts per time point, so grouped them all post-EIP",AtaeRVFV
+Verwillow_34,c,10,0.431,NA,NA,days post infectious bloodmeal,14,Cpip,SINV,Lundstr_m_1990_AmJTropMedHyg,Figure 1,,CpipSINV
+Verwillow_34,c,10,0.372,NA,NA,days post infectious bloodmeal,21,Cpip,SINV,Lundstr_m_1990_AmJTropMedHyg,Figure 1,,CpipSINV
+Verwillow_34,c,10,0.333,NA,NA,days post infectious bloodmeal,28,Cpip,SINV,Lundstr_m_1990_AmJTropMedHyg,Figure 1,,CpipSINV
+Verwillow_34,c,10,0.3,NA,NA,days post infectious bloodmeal,35,Cpip,SINV,Lundstr_m_1990_AmJTropMedHyg,Figure 1,,CpipSINV
+Verwillow_34,c,17,0.55,NA,NA,days post infectious bloodmeal,7,Cpip,SINV,Lundstr_m_1990_AmJTropMedHyg,Figure 1,,CpipSINV
+Verwillow_34,c,17,0.65,NA,NA,days post infectious bloodmeal,14,Cpip,SINV,Lundstr_m_1990_AmJTropMedHyg,Figure 1,,CpipSINV
+Verwillow_34,c,17,0.431,NA,NA,days post infectious bloodmeal,21,Cpip,SINV,Lundstr_m_1990_AmJTropMedHyg,Figure 1,,CpipSINV
+Verwillow_34,c,17,0.302,NA,NA,days post infectious bloodmeal,28,Cpip,SINV,Lundstr_m_1990_AmJTropMedHyg,Figure 1,,CpipSINV
+Verwillow_34,c,17,0.23,NA,NA,days post infectious bloodmeal,35,Cpip,SINV,Lundstr_m_1990_AmJTropMedHyg,Figure 1,,CpipSINV
+Verwillow_34,c,24,0.301,NA,NA,days post infectious bloodmeal,7,Cpip,SINV,Lundstr_m_1990_AmJTropMedHyg,Figure 1,,CpipSINV
+Verwillow_34,c,24,0.24,NA,NA,days post infectious bloodmeal,14,Cpip,SINV,Lundstr_m_1990_AmJTropMedHyg,Figure 1,,CpipSINV
+Verwillow_34,c,24,0.331,NA,NA,days post infectious bloodmeal,21,Cpip,SINV,Lundstr_m_1990_AmJTropMedHyg,Figure 1,,CpipSINV
+Verwillow_13,c,18,0.136,NA,NA,days since infectious bloodmeal,25,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_13,c,18,0.289,NA,NA,days since infectious bloodmeal,28,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_13,c,18,0.29,NA,NA,days since infectious bloodmeal,32,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_13,c,20,0.422,NA,NA,days since infectious bloodmeal,14,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_13,c,20,0.243,NA,NA,days since infectious bloodmeal,18,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_13,c,20,0.425,NA,NA,days since infectious bloodmeal,21,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_13,c,26,0.331,NA,NA,days since infectious bloodmeal,11,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_13,c,26,0.599,NA,NA,days since infectious bloodmeal,12,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_13,c,26,0.361,NA,NA,days since infectious bloodmeal,14,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_13,c,26,0.774,NA,NA,days since infectious bloodmeal,18,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_13,c,26,0.852,NA,NA,days since infectious bloodmeal,21,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_13,c,26,1,NA,NA,days since infectious bloodmeal,25,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_13,c,26,1,NA,NA,days since infectious bloodmeal,28,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_13,c,26,0.71,NA,NA,days since infectious bloodmeal,32,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_13,c,30,0.832,NA,NA,days since infectious bloodmeal,6,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_13,c,30,0.62,NA,NA,days since infectious bloodmeal,8,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_13,c,30,1,NA,NA,days since infectious bloodmeal,12,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_13,c,30,0.88,NA,NA,days since infectious bloodmeal,14,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_13,c,30,1,NA,NA,days since infectious bloodmeal,18,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_13,c,30,1,NA,NA,days since infectious bloodmeal,21,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+Verwillow_23,bc,14,0.603,NA,NA,days since infectious bloodmeal,36,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,14,0.8,NA,NA,days since infectious bloodmeal,43,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,14,0.402,NA,NA,days since infectious bloodmeal,49,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,14,0.749,NA,NA,days since infectious bloodmeal,56,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,14,1,NA,NA,days since infectious bloodmeal,58,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,14,0.602,NA,NA,days since infectious bloodmeal,65,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,14,1,NA,NA,days since infectious bloodmeal,79,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,14,1,NA,NA,days since infectious bloodmeal,90,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,14,0.334,NA,NA,days since infectious bloodmeal,99,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,14,1,NA,NA,days since infectious bloodmeal,114,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,18,0.598,NA,NA,days since infectious bloodmeal,17,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,18,1,NA,NA,days since infectious bloodmeal,20,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,18,1,NA,NA,days since infectious bloodmeal,22,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,18,0.898,NA,NA,days since infectious bloodmeal,24,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,18,1,NA,NA,days since infectious bloodmeal,29,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,18,0.799,NA,NA,days since infectious bloodmeal,31,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,18,0.9,NA,NA,days since infectious bloodmeal,36,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,18,1,NA,NA,days since infectious bloodmeal,42,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,18,0.8,NA,NA,days since infectious bloodmeal,49,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,18,1,NA,NA,days since infectious bloodmeal,58,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,26,0.75,NA,NA,days since infectious bloodmeal,11,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,26,0.799,NA,NA,days since infectious bloodmeal,13,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,26,1,NA,NA,days since infectious bloodmeal,15,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,26,1,NA,NA,days since infectious bloodmeal,24,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,26,0.8,NA,NA,days since infectious bloodmeal,31,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,30,0.798,NA,NA,days since infectious bloodmeal,13,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,30,1,NA,NA,days since infectious bloodmeal,15,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,30,1,NA,NA,days since infectious bloodmeal,19,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV
+Verwillow_23,bc,30,1,NA,NA,days since infectious bloodmeal,25,Cuni,WNV,Cornel_1993_JMedEntom,Figure 3,,CuniWNV

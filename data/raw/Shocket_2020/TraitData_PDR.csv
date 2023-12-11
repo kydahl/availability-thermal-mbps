@@ -1,0 +1,51 @@
+Ref,Trait Name,T,trait,ErrorPosSI,ErrorNegSI,Trait2.name,Trait,host.code,paras.code,Citation,Figure,Notes,joint.code
+fromNumazu_11,EIP,10,1000,NA,NA,NA,NA,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,No mosquitoes transmitted during experiment,CtarSLEV
+fromNumazu_11,EIP,15,72,NA,NA,NA,NA,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+fromNumazu_11,EIP,20,21,NA,NA,NA,NA,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+fromNumazu_11,EIP,25,10,NA,NA,NA,NA,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+fromNumazu_11,EIP,30,7,NA,NA,NA,NA,Ctar,SLEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarSLEV
+fromNumazu_9,EIP,10,24,NA,NA,NA,NA,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+fromNumazu_9,EIP,15,13,NA,NA,NA,NA,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+fromNumazu_9,EIP,18,12,NA,NA,NA,NA,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+fromNumazu_9,EIP,20,10,NA,NA,NA,NA,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+fromNumazu_9,EIP,25,7,NA,NA,NA,NA,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+fromNumazu_9,EIP,30,4,NA,NA,NA,NA,Ctar,WEEV,Reisen_1993_J_Med_Entomology,Figure 1,,CtarWEEV
+Verwillow_25,EIP,10,1000,NA,NA,NA,NA,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,No mosquitoes transmitted during experiment (110 days),CtarWNV
+Verwillow_25,EIP,14,36,NA,NA,NA,NA,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+Verwillow_25,EIP,18,26,NA,NA,NA,NA,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+Verwillow_25,EIP,22,17,NA,NA,NA,NA,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+Verwillow_25,EIP,26,9,NA,NA,NA,NA,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+Verwillow_25,EIP,30,7,NA,NA,NA,NA,Ctar,WNV,Reisen_2006_JMedEntomol,Figure 4,,CtarWNV
+fromMariano114,EIP,18,19,NA,NA,NA,NA,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 2,,CtarWEEV
+fromMariano115,EIP,25,12,NA,NA,NA,NA,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 2,,CtarWEEV
+fromMariano116,EIP,32,6,NA,NA,NA,NA,Ctar,WEEV,Kramer_et_al_1983_AmJTropMedHyg,Figure 2,,CtarWEEV
+Verwillow_8,EIP,15,28,days,NA,NA,NA,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_8,EIP,18,28,days,NA,NA,NA,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_8,EIP,22,24,days,NA,NA,NA,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_8,EIP,32,4,days,NA,NA,NA,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,WN02-1956 strain of WNV,CpipWNV
+Verwillow_9,EIP,15,28,days,NA,NA,NA,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_9,EIP,18,28,days,NA,NA,NA,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_9,EIP,22,31,days,NA,NA,NA,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+Verwillow_9,EIP,32,6,days,NA,NA,NA,Cpip,WNV,Kilpatrick_2008_PLOSPathogens,Figure 1,NY99-3356 strain of WNV,CpipWNV
+fromShocket_107,EIP,21.1,13,days,NA,NA,NA,Atri,EEEV,Chamberlain&Sudia_1995_AmJEpi,Figure 4,,AtriEEEV
+fromShocket_107,EIP,26.7,10,days,NA,NA,NA,Atri,EEEV,Chamberlain&Sudia_1995_AmJEpi,Figure 4,,AtriEEEV
+fromShocket_107,EIP,32.2,6,days,NA,NA,NA,Atri,EEEV,Chamberlain&Sudia_1995_AmJEpi,Figure 4,,AtriEEEV
+fromNumazu_19,EIP,10,28,days,NA,NA,NA,Atae,SINV,Turell_&_Lundstrom_1990_AmericanJofTropicalMedicineandHygiene,Figure 3,,AtaeSINV
+fromNumazu_19,EIP,17,14,days,NA,NA,NA,Atae,SINV,Turell_&_Lundstrom_1990_AmericanJofTropicalMedicineandHygiene,Figure 3,,AtaeSINV
+fromNumazu_19,EIP,24,14,days,NA,NA,NA,Atae,SINV,Turell_&_Lundstrom_1990_AmericanJofTropicalMedicineandHygiene,Figure 3,,AtaeSINV
+fromNumazu_35,EIP,13,21,days,NA,NA,NA,Atae,RVFV,Turell_Rossi_Bailey_1985_AmJTropMedHyg,Figure 7,,AtaeRVFV
+fromNumazu_35,EIP,26,3,days,NA,NA,NA,Atae,RVFV,Turell_Rossi_Bailey_1985_AmJTropMedHyg,Figure 7,,AtaeRVFV
+fromNumazu_35,EIP,33,3,days,NA,NA,NA,Atae,RVFV,Turell_Rossi_Bailey_1985_AmJTropMedHyg,Figure 7,,AtaeRVFV
+fromVerwillow_13,EIP,18,25,days,NA,NA,NA,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+fromVerwillow_13,EIP,20,14,days,NA,NA,NA,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+fromVerwillow_13,EIP,26,11,days,NA,NA,NA,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+fromVerwillow_13,EIP,30,6,days,NA,NA,NA,Cpip,WNV,Dohm_2002_JMedEntomol,Figure 1,,CpipWNV
+fromVerwillow_23,EIP,14,36,days,NA,NA,NA,Cuni,WNV,Cornel_1993_JMedEntom,Figure 4,,CuniWNV
+fromVerwillow_24,EIP,18,17,days,NA,NA,NA,Cuni,WNV,Cornel_1993_JMedEntom,Figure 4,,CuniWNV
+fromVerwillow_25,EIP,26,11,days,NA,NA,NA,Cuni,WNV,Cornel_1993_JMedEntom,Figure 4,,CuniWNV
+fromVerwillow_26,EIP,30,13,days,NA,NA,NA,Cuni,WNV,Cornel_1993_JMedEntom,Figure 4,,CuniWNV
+Shocket,EIP,15,1000,days,NA,NA,NA,Cqui,WNV,Paull_2017_ProcB,Figure 1,,CquiWNV
+Shocket,EIP,20,1000,days,NA,NA,NA,Cqui,WNV,Paull_2017_ProcB,Figure 1,,CquiWNV
+Shocket,EIP,24,28,days,NA,NA,NA,Cqui,WNV,Paull_2017_ProcB,Figure 1,,CquiWNV
+Shocket,EIP,27,14,days,NA,NA,NA,Cqui,WNV,Paull_2017_ProcB,Figure 1,,CquiWNV
+Shocket,EIP,32,10,days,NA,NA,NA,Cqui,WNV,Paull_2017_ProcB,Figure 1,,CquiWNV

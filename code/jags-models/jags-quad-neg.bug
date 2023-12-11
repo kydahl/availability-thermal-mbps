@@ -1,0 +1,14 @@
+model {
+  # Likelihood
+  for (i in 1:N) {
+    Y[i] ~ dnorm(mu[i], tau)T(0,)
+    mu.temp[i] <- -1 * c*(T[i]-T0)*(T[i]-Tm)
+    mu[i]<- mu.temp[i]*(mu.temp[i]>0) + 0*(mu.temp[i]<0)
+  }
+  # Prior
+  c ~ dunif(0, 1)
+  T0 ~ dunif(0, 24)
+  Tm ~ dunif(26, 50)
+  sigma ~ dunif(0, 1000)
+  tau <- 1 / (sigma * sigma)
+}

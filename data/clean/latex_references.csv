@@ -1,0 +1,65 @@
+Mosquito species,Parasite,traits,LaTeX_cite
+Aedes aegypti,DENV,"PDR, b, c","\cite{Carrington2013-yl, Focks1995-hh, McLean1974-gq, McLean1975-dm, Watts1987-ev, Alto2013-wu, Lambrechts2011-qz}"
+Aedes aegypti,YFV,PDR,\cite{Davis1932-bs}
+Aedes aegypti,ZIKV,"PDR, bc",\cite{Tesla2018-vc}
+Aedes aegypti,NA,"lf, EFD, a, MDR, e2a","\cite{Beserra2009-cw, Yang2009-fi, Focks1993-jf, Morin2015-an, Couret2014-ny, Eisen2014-fl, Kamimura2002-ac, Rueda1990-zf, Tun-Lin2000-ql, Westbrook2010-zb, Tesla2018-vc}"
+Aedes albopictus,CHIKV,"b, c","\cite{Westbrook2010-gc, Westbrook2010-zb}"
+Aedes albopictus,DENV,"PDR, b, c","\cite{Xiao2014-oa, Alto2013-wu}"
+Aedes albopictus,none,EFD,\cite{Delatte2009-gq}
+Aedes albopictus,NA,"MDR, lf, EFD, a, e2a","\cite{Calado2002-cg, Yee2017-bj, Calado2002-ig, Ezeakacha2015-mc, Delatte2009-gq, Alto2001-nq, Briegel2001-an, Muturi2011-xd, Westbrook2010-gc, Westbrook2010-zb, Wiwatanaratanabutr2006-ja, Teng2000-mc}"
+Aedes dorsalis,NA,"EFD, e2a, pO","\cite{Parker1982-yi, McHaffey1970-me}"
+Aedes nigromaculis,NA,"MDR, e2a","\cite{Brust1967-bc, McHaffey1972-dg}"
+Aedes notoscriptus,NA,"MDR, e2a",\cite{Williams2011-lc}
+Aedes sollicitans,NA,"MDR, e2a",\cite{Shelton1973-xv}
+Aedes spp.,other,PDR,"\cite{Anderson2006-xl, Blanc1930-vh, Rohani2009-lo, Salazar2007-yd, Watts1987-ev}"
+Aedes spp.,NA,"MDR, lf, EFD, a, e2a","\cite{Joshi1996-eq, Calado2002-ig, Calado2002-cg, Lardeux2008-wv, Jalil1972-xs}"
+Aedes taeniorhynchus,RVFV,"PDR, bc",\cite{Turell1985-xv}
+Aedes taeniorhynchus,SINV,"PDR, c",\cite{Turell1990-ee}
+Aedes taeniorhynchus,NA,lf,\cite{Nayar1972-mz}
+Aedes triseriatus,EEEV,"PDR, bc",\cite{Chamberlain1955-az}
+Aedes triseriatus,NA,"MDR, e2a","\cite{Shelton1973-xv, Teng2000-mc}"
+Aedes vexans,NA,"MDR, e2a","\cite{Brust1967-bc, Trpis1970-ek, McHaffey1972-do}"
+Anopheles albimanus,Plasmodium falciparum,PDR,\cite{Velez2008-pt}
+Anopheles albimanus,none,"MDR, a, e2a","\cite{Mahmood1997-jw, Velez2008-pt, Grieco2003-ln}"
+Anopheles arabiensis,none,"EFD, MDR, a, e2a","\cite{Afrane2007-bb, Maharaj1996-ta, Kirby2009-zx, Lyons2013-bm}"
+Anopheles atroparvus,Plasmodium vivax and plasmodium malarie and plasmodium ovale,PDR,\cite{Shute1952-fg}
+Anopheles culicifacies,Plasmodium falciparum and plasmodium vivax,PDR,\cite{Siddons1944-aa}
+Anopheles culicifacies,Plasmodium malariae,PDR,\cite{Siddons1944-aa}
+Anopheles funestus,none,"MDR, e2a",\cite{Lyons2013-bm}
+Anopheles gambiae,Plasmodium berghei,bc,\cite{Barreaux2016-hg}
+Anopheles gambiae,Plasmodium falciparum,PDR,"\cite{Vaughan1992-fm, Afrane2008-mj}"
+Anopheles gambiae,none,"EFD, MDR, e2a, lf","\cite{Christiansen-Jucht2015-mu, Mala2014-yw, Olayemi2009-pi, NA, Bayoh2003-ne, Kirby2009-zx, Murdock2016-fb, Bayoh2001-mj}"
+Anopheles gambiae,NA,EFD,\cite{Christiansen-Jucht2015-sj}
+Anopheles maculipennies,Plasmodium malariae,PDR,\cite{Shute1952-fg}
+Anopheles pseudopunctipennis,none,a,\cite{Lardeux2008-wv}
+Anopheles quadrimaculatus,Plasmodium malariae,PDR,\cite{Boyd1933-jt}
+Anopheles quadrimaculatus,Plasmodium vivax,"PDR, bc","\cite{Boyd1932-zx, Stratman-Thomas1940-ty}"
+Anopheles quadrimaculatus,none,"MDR, e2a",\cite{Love1957-dm}
+Anopheles stephensi,Plasmodium falciparum,"PDR, bc","\cite{Eling2001-um, Shapiro2017-fl, Thomas2018-xe, Waite2019-gx}"
+Anopheles stephensi,Plasmodium malariae,PDR,\cite{Knowles1943-fw}
+Anopheles stephensi,Plasmodium vivax,PDR,\cite{Thomas2018-xe}
+Anopheles stephensi,Plasmodium vivax and plasmodium malarie and plasmodium falciparum,PDR,\cite{Knowles1943-fw}
+Anopheles stephensi,Plasmodium yoelii,PDR,"\cite{Paaijmans2011-xf, Paaijmans2013-ne}"
+Anopheles stephensi,none,"EFD, MDR, a, e2a, lf","\cite{Murdock2019-ql, Paaijmans2013-ne, Shapiro2017-fl, Murdock2016-fb, Miazgowicz2019-gv}"
+Anopheles superpictus,NA,EFD,\cite{Aytekin2009-yc}
+Culex annulirostris,MVE,"PDR, bc",\cite{Kay1989-ah}
+Culex annulirostris,NA,"MDR, lf, EFD, a, nLR, e2a","\cite{McDONALD1980-xz, Mottram1986-vc, Rae1990-lo, Russell1986-yh}"
+Culex pipiens,SINV,c,\cite{Lundstrom1990-cp}
+Culex pipiens,WNV,"PDR, bc, c","\cite{Dohm2002-yw, Kilpatrick2008-co}"
+Culex pipiens,NA,"MDR, lf, EFD, e2a, a, pO","\cite{Ciota2014-ae, Ju-lin2017-ky, Loetti2011-fb, Madder1983-mn, Mpho2002-mj, Mpho2002-rn, Ruybal2016-ds, Tekle1960-xy, Andreadis2014-if}"
+Culex pipiens molestus,NA,"MDR, lf, EFD, e2a, pO","\cite{Kiarie-Makara2015-co, Olejnicek2000-hr, Oda1999-xw, Oda1980-ha}"
+Culex pipiens pallens,NA,"MDR, lf, EFD, a, e2a","\cite{Kiarie-Makara2015-co, Mogi1992-ua}"
+Culex quinquefasciatus,WNV,PDR,\cite{Paull2017-ps}
+Culex quinquefasciatus,NA,"MDR, lf, EFD, e2a, a, pO","\cite{Ciota2014-ae, Mogi1992-ua, Mpho2001-wt, Rueda1990-zf, Shelton1973-xv, Tekle1960-xy, Oda1999-xw, Oda1980-ha, Rayah1983-tk, Reisen1992-cd}"
+Culex restuans,NA,"MDR, lf, e2a","\cite{Buth1990-sw, Ciota2014-ae, Madder1983-mn, Muturi2011-xd, Shelton1973-xv}"
+Culex tarsalis,SLEV,"PDR, b, c","\cite{Reisen1993-ck, Reisen2006-cn}"
+Culex tarsalis,WEEV,"PDR, b, bc, c","\cite{Kramer1983-di, Reisen1993-ck, Reisen2006-cn}"
+Culex tarsalis,WNV,"MDR, PDR, b","\cite{Dodson2012-nz, Reisen2006-cn}"
+Culex tarsalis,WNV-NY99,PDR,\cite{Reisen2006-cn}
+Culex tarsalis,NA,"MDR, lf, a, e2a","\cite{Buth1990-sw, Reisen1995-gy, Reisen1992-cd, Dodson2012-nz}"
+Culex theileri,NA,e2a,\cite{Van_der_Linde1990-jd}
+Culex univitattus,WNV-SA,PDR,\cite{Reisen2006-cn}
+Culex univittatus,WNV,"PDR, bc",\cite{Cornel1993-cu}
+Culiseta melanura,NA,"MDR, a, e2a, pO","\cite{Mahmood1998-xd, Mahmood1997-jy}"
+Ochlerotatus camptorhynchus,NA,"MDR, e2a",\cite{Barton2005-nv}
+Ochlerotatus vigilax,RRV,"PDR, bc",\cite{Kay2002-li}

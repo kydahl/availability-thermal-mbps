@@ -1,0 +1,55 @@
+trait.name,T,trait,ref,trait2,trait2.name,mosquito_species,pathogen
+a,15,0.078125,"Lardeux et al., 2008",,,Anopheles pseudopunctipennis,none
+a,20,0.15625,"Lardeux et al., 2008",,,Anopheles pseudopunctipennis,none
+a,23,0.196078,"Lardeux et al., 2008",,,Anopheles pseudopunctipennis,none
+a,25,0.285714,"Lardeux et al., 2008",,,Anopheles pseudopunctipennis,none
+a,27,0.30303,"Lardeux et al., 2008",,,Anopheles pseudopunctipennis,none
+a,29,0.37037,"Lardeux et al., 2008",,,Anopheles pseudopunctipennis,none
+a,31,0.47619,"Lardeux et al., 2008",,,Anopheles pseudopunctipennis,none
+a,33,0.416667,"Lardeux et al., 2008",,,Anopheles pseudopunctipennis,none
+a,35,0.434783,"Lardeux et al., 2008",,,Anopheles pseudopunctipennis,none
+bc,32,0,"Stratman-Thomas, 1940",,,Anopheles quadrimaculatus,Plasmodium vivax
+bc,30,78,"Stratman-Thomas, 1940",,,Anopheles quadrimaculatus,Plasmodium vivax
+bc,28,73,"Stratman-Thomas, 1940",,,Anopheles quadrimaculatus,Plasmodium vivax
+bc,26,100,"Stratman-Thomas, 1940",,,Anopheles quadrimaculatus,Plasmodium vivax
+bc,23.5,79,"Stratman-Thomas, 1940",,,Anopheles quadrimaculatus,Plasmodium vivax
+bc,22.5,89,"Stratman-Thomas, 1940",,,Anopheles quadrimaculatus,Plasmodium vivax
+bc,16,100,"Stratman-Thomas, 1940",,,Anopheles quadrimaculatus,Plasmodium vivax
+bc,13,0,"Stratman-Thomas, 1940",,,Anopheles quadrimaculatus,Plasmodium vivax
+EIP,23,15,"Eling et al., 2001",,,Anopheles stephensi,Plasmodium falciparum
+EIP,26,11,"Eling et al., 2001",,,Anopheles stephensi,Plasmodium falciparum
+EIP,28,9,"Eling et al., 2001",,,Anopheles stephensi,Plasmodium falciparum
+EIP,21.1,14,"Siddons, 1944",,,Anopheles culicifacies,Plasmodium falciparum and plasmodium vivax
+EIP,26.7,12,"Siddons, 1944",,,Anopheles culicifacies,Plasmodium falciparum and plasmodium vivax
+EIP,25,10,"Shute & Maryon, 1952",,,Anopheles atroparvus,Plasmodium vivax and plasmodium malarie and plasmodium ovale
+EIP,21.1,14,"Knowles & Basu, 1943",,,Anopheles stephensi,Plasmodium vivax and plasmodium malarie and plasmodium falciparum
+EIP,26.7,10,"Knowles & Basu, 1943",,,Anopheles stephensi,Plasmodium vivax and plasmodium malarie and plasmodium falciparum
+EIP,32.2,9,"Knowles & Basu, 1943",,,Anopheles stephensi,Plasmodium vivax and plasmodium malarie and plasmodium falciparum
+EIP,27,13,"Vaughan et al., 1992",,,Anopheles gambiae,Plasmodium falciparum
+EIP,22,22,"Boyd & Stratman-Thomas, 1933",,,Anopheles quadrimaculatus,Plasmodium malariae
+EIP,15.3,0,"Siddons, 1944",,,Anopheles culicifacies,Plasmodium falciparum and plasmodium vivax
+EIP,34.4,0,"Siddons, 1944",,,Anopheles culicifacies,Plasmodium falciparum and plasmodium vivax
+pEA,16,0,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+pEA,18,0.42,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+pEA,20,0.7,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+pEA,22,0.76,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+pEA,24,0.787,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+pEA,26,0.727,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+pEA,28,0.66,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+pEA,30,0.273,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+pEA,32,0.347,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+pEA,34,0,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+MDR,16,0,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+MDR,18,0.042918,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+MDR,20,0.04902,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+MDR,22,0.057143,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+MDR,24,0.074074,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+MDR,26,0.086957,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+MDR,28,0.102041,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+MDR,30,0.1,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+MDR,32,0.098039,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+MDR,34,0,"Bayoh & Linsday, 2003",,,Anopheles gambiae,none
+EFD,20,13.08,"Delatte et al., 2009",,,Aedes albopictus,none
+EFD,25,23.14,"Delatte et al., 2009",,,Aedes albopictus,none
+EFD,30,22.13,"Delatte et al., 2009",,,Aedes albopictus,none
+EFD,35,16.91,"Delatte et al., 2009",,,Aedes albopictus,none

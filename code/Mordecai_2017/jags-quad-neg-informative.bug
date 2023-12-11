@@ -1,0 +1,15 @@
+model {
+  
+  for (i in 1:N) {
+    Y[i] ~ dnorm(mu[i], tau)T(0,)
+    mu[i] <- -n.qd*(T[i]-T0)*(T[i]-Tm)*((T[i]>T0))*((T[i]<Tm))
+  }
+
+  qd<- -n.qd
+  T0  ~ dgamma(hypers[1,1], hypers[2,1])
+  Tm ~ dgamma(hypers[1,2], hypers[2,2])
+  n.qd  ~ dgamma(hypers[1,3], hypers[2,3])
+  sigma<-1/tau
+  tau ~ dgamma(hypers[1,5], hypers[2,5])
+
+}

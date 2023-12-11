@@ -1,0 +1,188 @@
+Mosquito species,Parasite,Source,Trait names,Citation key,Reference
+Aedes aegypti,DENV,Mordecai 2017,"c, b",Alto2013-wu,Alto&Bettinardi_2013_AJTMH
+Aedes aegypti,DENV,Mordecai 2017,"c, b, EIP",Carrington2013-yl,Carrington_et_al_2013_PNTD
+Aedes aegypti,DENV,Mordecai 2017,EIP,Focks1995-hh,Focks_et_al_1995_AJTMH
+Aedes aegypti,DENV,Mordecai 2017,"c, b",Lambrechts2011-qz,Lambrects_et_al_2011_PNAS
+Aedes aegypti,DENV,Mordecai 2017,EIP,McLean1975-dm,McLeah_et_al_1975_MosquitoNews
+Aedes aegypti,DENV,Mordecai 2017,EIP,McLean1974-gq,McLean_et_al_1974_CanJMicobiol
+Aedes aegypti,DENV,Mordecai 2017,"EIP, c, b",Watts1987-ev,Watts_et_al_1987_AJTMH
+Aedes aegypti,NA,Mordecai 2017,"1/mu, EFD",Beserra2009-cw,Beserra_2009
+Aedes aegypti,NA,Mordecai 2017,MDR,Couret2014-ny,Couret_et_al_2007_PLOS
+Aedes aegypti,NA,Mordecai 2017,"MDR, pEA",Eisen2014-fl,Eisen_et_al_2014
+Aedes aegypti,NA,Mordecai 2017,GCR,Focks1993-jf,Focks_et_al_1993a_JMedEntom
+Aedes aegypti,NA,Mordecai 2017,"MDR, pEA",Kamimura2002-ac,Kamimura_et_al_2002_JapanSocMedEnt&Zoo
+Aedes aegypti,NA,Mordecai 2017,GCR,Morin2015-an,Morin_et_al_2015
+Aedes aegypti,NA,Mordecai 2017,"MDR, pEA",Rueda1990-zf,Rueda_et_al_1990_EntSocAm
+Aedes aegypti,NA,Tesla 2018,lf,Tesla2018-vc,Tesla 2018
+Aedes aegypti,NA,Mordecai 2017,"MDR, pEA",Tun-Lin2000-ql,Tun-Lin_et_al_2000_MedVetEnto
+Aedes aegypti,NA,Mordecai 2017,"pEA, MDR",Westbrook2010-zb,Westbrook_Thesis_2010
+Aedes aegypti,NA,Mordecai 2017,"p/days, EFD",Yang2009-fi,Yang_et_al_2008_EpidInfect
+Aedes aegypti,YFV,Mordecai 2017,PDR,Davis1932-bs,Davis_1932_AmJEpidemiology
+Aedes aegypti,ZIKV,Tesla 2018,"bc, EIR",Tesla2018-vc,Tesla 2018
+Aedes albopictus,CHIKV,Mordecai 2017,c,Westbrook2010-zb,Westbrook_Thesis_2010
+Aedes albopictus,CHIKV,Mordecai 2017,"b, c",Westbrook2010-gc,Westbrook_et_al_2010_VecBorn&ZooDis
+Aedes albopictus,DENV,Mordecai 2017,"c, b",Alto2013-wu,Alto&Bettinardi_2013_AJTMH
+Aedes albopictus,DENV,Mordecai 2017,"EIP, b, c",Xiao2014-oa,Xiao_et_al_2014_Arch Virol
+Aedes albopictus,NA,Mordecai 2017,prop.dead,Alto2001-nq,Alto_et_al_2001b
+Aedes albopictus,NA,Mordecai 2017,MDR,Alto2001-nq,Alto_et_al_2001b_JMedEnto
+Aedes albopictus,NA,Mordecai 2017,MDR,Briegel2001-an,Briegel_etal_2001_JMedEnto
+Aedes albopictus,NA,Mordecai 2017,"1/mu, EFD",Calado2002-ig,Calado_Navarro-Silva_2002_RevistaBrasileraDeEntomologia
+Aedes albopictus,NA,Mordecai 2017,1/MDR,Calado2002-cg,Calado_Navarro-Silva_2002b_RevSaudaPublica
+Aedes albopictus,NA,Mordecai 2017,"pEA, TFD, GCD, MDR",Delatte2009-gq,Delatte_etal_2009_JMedEnto
+Aedes albopictus,NA,Mordecai 2017,"MDR, TFD, 1/mu",Ezeakacha2015-mc,Ezeakacha_Dissertation_2015
+Aedes albopictus,NA,Mordecai 2017,"pEA, MDR",Muturi2011-xd,Muturi_et_al_2011_JMedEnto
+Aedes albopictus,NA,Mordecai 2017,pEA,Teng2000-mc,Teng_Apperson_2000_JMedEnto
+Aedes albopictus,NA,Mordecai 2017,"pEA, MDR",Westbrook2010-zb,Westbrook_Thesis_2010
+Aedes albopictus,NA,Mordecai 2017,MDR,Westbrook2010-gc,Westbrook_et_al_2010_VecBorn&ZooDis
+Aedes albopictus,NA,Mordecai 2017,"pEA, MDR",Wiwatanaratanabutr2006-ja,Witwatana_Kittayaong_2006_Med&VetEnt
+Aedes albopictus,NA,Mordecai 2017,"1/MDR, TFD",Yee2017-bj,Yee_et al_2016 JAE_in_review
+Aedes albopictus,none,Mordecai 2013,EFD,Delatte2009-gq,"Delatte et al., 2009"
+Aedes dorsalis,NA,Shocket 2020,Egg viability,McHaffey1970-me,McHaffey_&_Harwood_1970_JMedEnt
+Aedes dorsalis,NA,Shocket 2020,"EPR, pO",Parker1982-yi,Parker_1982_AnnEntomolSocAm
+Aedes nigromaculis,NA,Shocket 2020,1/MDR,Brust1967-bc,Brust_1967_CanEntomol
+Aedes nigromaculis,NA,Shocket 2020,pLA,Brust1967-bc,Brust_1967_TheCanadianEntomologist
+Aedes nigromaculis,NA,Shocket 2020,Egg viability,McHaffey1972-dg,McHaffey_1972_MosquitoNews
+Aedes notoscriptus,NA,Shocket 2018,"pLA, 1/MDR",Williams2011-lc,Williams_2011_AusJEntrom
+Aedes sollicitans,NA,Shocket 2020,"1/MDR, pLA",Shelton1973-xv,Shelton_1973_MosquitoNews
+Aedes spp.,NA,Mordecai 2017,EFD,Calado2002-ig,Calado&Navarro-Silva_2002
+Aedes spp.,NA,Mordecai 2017,a,Calado2002-cg,Callado (2002)
+Aedes spp.,NA,Mordecai 2017,"e2a, mdr",Jalil1972-xs,Jalil 1972
+Aedes spp.,NA,Mordecai 2017,"1/MDR, 1/mu, EFD",Joshi1996-eq,Joshi_1996
+Aedes spp.,NA,Mordecai 2017,a,Lardeux2008-wv,Lardeux et al 2008
+Aedes spp.,other,Mordecai 2017,EIP,Anderson2006-xl,Anderson_2006
+Aedes spp.,other,Mordecai 2017,EIP,Blanc1930-vh,Blanc_1930
+Aedes spp.,other,Mordecai 2017,EIP,Rohani2009-lo,Rohani_2009
+Aedes spp.,other,Mordecai 2017,EIP,Salazar2007-yd,Salazar_2007
+Aedes spp.,other,Mordecai 2017,EIP,Watts1987-ev,Watts_1987
+Aedes taeniorhynchus,NA,Shocket 2020,1/mu,Nayar1972-mz,Nayar_1972_J.Insect.Physiol.
+Aedes taeniorhynchus,RVFV,Shocket 2020,"bc, EIP",Turell1985-xv,Turell_Rossi_Bailey_1985_AmJTropMedHyg
+Aedes taeniorhynchus,SINV,Shocket 2020,"c, EIP",Turell1990-ee,Turell_&_Lundstrom_1990_AmericanJofTropicalMedicineandHygiene
+Aedes triseriatus,EEEV,Shocket 2020,"bc, EIP",Chamberlain1955-az,Chamberlain&Sudia_1995_AmJEpi
+Aedes triseriatus,NA,Shocket 2020,"1/MDR, pLA",Shelton1973-xv,Shelton_1973_MosquitoNews
+Aedes triseriatus,NA,Shocket 2020,pLA,Teng2000-mc,TengApperson_2000_J.Med.Entomol.
+Aedes vexans,NA,Shocket 2020,1/MDR,Brust1967-bc,Brust_1967_CanEntomol
+Aedes vexans,NA,Shocket 2020,pLA,Brust1967-bc,Brust_1967_TheCanadianEntomologist
+Aedes vexans,NA,Shocket 2020,Egg viability,McHaffey1972-do,McHaffey_1972_JMedEntom
+Aedes vexans,NA,Shocket 2020,"1/MDR, pLA",Trpis1970-ek,Trpis&Shemanchuk_1970_TheCanadianEntomologist
+Anopheles arabiensis,none,Villena 2022,"e2a, EFD, MDR",Afrane2007-bb,Afrane et al. 2007
+Anopheles gambiae,Plasmodium falciparum,Villena 2022,PDR,Afrane2008-mj,Afrane et al. 2008
+Anopheles gambiae,Plasmodium berghei,Villena 2022,bc,Barreaux2016-hg,Barreaux et al. 2016
+Anopheles gambiae,none,Villena 2022,mu,Bayoh2001-mj,Bayoh 2001
+Anopheles gambiae,none,Villena 2022,"e2a, MDR",Bayoh2003-ne,Bayoh and Lindsay 2003
+Anopheles quadrimaculatus,Plasmodium vivax,Villena 2022,PDR,Boyd1932-zx,Boyd 1932
+Anopheles quadrimaculatus,Plasmodium malariae,Villena 2022,PDR,Boyd1933-jt,Boyd and Stratman-Thomas 1933
+Anopheles gambiae,none,Villena 2022,"EFD, MDR",Christiansen-Jucht2015-mu,Christiansen-Jucht 2015
+Anopheles atroparvus,Plasmodium vivax and plasmodium malarie and plasmodium ovale,Mordecai 2013,EIP,Shute1952-fg,"Shute & Maryon, 1952"
+Anopheles culicifacies,Plasmodium falciparum and plasmodium vivax,Mordecai 2013,EIP,Siddons1944-aa,"Siddons, 1944"
+Anopheles stephensi,Plasmodium falciparum,Villena 2022,PDR,Eling2001-um,Eling et al 2001
+Anopheles albimanus,none,Villena 2022,e2a,Grieco2003-ln,Grieco et al. 2003
+Anopheles gambiae,NA,Dahlin 2023,EFGC,Christiansen-Jucht2015-sj,Christiansen-Jucht_2015_Parasites&Vectors
+Anopheles gambiae,none,Mordecai 2013,"pEA, MDR",Bayoh2003-ne,"Bayoh & Linsday, 2003"
+Anopheles stephensi,none,Villena 2022,mu,Miazgowicz2019-gv,Kerri 2019
+Anopheles arabiensis,none,Villena 2022,"e2a, MDR",Kirby2009-zx,Kirby and Lindsay 2009
+Anopheles gambiae,none,Villena 2022,"e2a, MDR",Kirby2009-zx,Kirby and Lindsay 2009
+Anopheles stephensi,Plasmodium malariae,Villena 2022,PDR,Knowles1943-fw,Knowles and Basu 1943
+Anopheles pseudopunctipennis,none,Villena 2022,a,Lardeux2008-wv,Lardeux et al 2008
+Anopheles quadrimaculatus,none,Villena 2022,"e2a, MDR",Love1957-dm,Love and Whelchel 1957
+Anopheles arabiensis,none,Villena 2022,"e2a, MDR",Lyons2013-bm,Lyons et al. 2013
+Anopheles funestus,none,Villena 2022,"e2a, MDR",Lyons2013-bm,Lyons et al. 2013
+Anopheles arabiensis,none,Villena 2022,"e2a, EFD, a",Maharaj1996-ta,Maharaj 1996
+Anopheles albimanus,none,Villena 2022,"e2a, MDR",Mahmood1997-jw,Mahmood 1997
+Anopheles gambiae,none,Villena 2022,EFD,Mala2014-yw,Mala et al. 2014
+Anopheles gambiae,none,Villena 2022,EFD,,Mala et al. 2015
+Anopheles gambiae,none,Villena 2022,EFD,,Mala et al. 2016
+Anopheles gambiae,Plasmodium falciparum,Mordecai 2013,EIP,Vaughan1992-fm,"Vaughan et al., 1992"
+Anopheles gambiae,none,Villena 2022,EFD,,Mala et al. 2017
+Anopheles gambiae,none,Villena 2022,e2a,Murdock2016-fb,Murdock et al. 2016
+Anopheles stephensi,none,Villena 2022,e2a,Murdock2016-fb,Murdock et al. 2016
+Anopheles stephensi,none,Villena 2022,EFD,Murdock2019-ql,Murdock et al. 2019
+Anopheles gambiae,none,Villena 2022,"e2a, EFD, MDR",Olayemi2009-pi,Olayemi and Ande 2009
+Anopheles pseudopunctipennis,none,Mordecai 2013,a,Lardeux2008-wv,"Lardeux et al., 2008"
+Anopheles stephensi,Plasmodium yoelii,Villena 2022,PDR,Paaijmans2011-xf,Paaijmans et al. 2011
+Anopheles quadrimaculatus,Plasmodium malariae,Mordecai 2013,EIP,Boyd1933-jt,"Boyd & Stratman-Thomas, 1933"
+Anopheles stephensi,none,Villena 2022,"e2a, a, MDR",Paaijmans2013-ne,Paaijmans et al. 2013
+Anopheles stephensi,Plasmodium yoelii,Villena 2022,PDR,Paaijmans2013-ne,Paaijmans et al. 2013
+Anopheles albimanus,none,Villena 2022,"a, MDR",Velez2008-pt,Poveda et al. 2008
+Anopheles quadrimaculatus,Plasmodium vivax,Mordecai 2013,bc,Stratman-Thomas1940-ty,"Stratman-Thomas, 1940"
+Anopheles albimanus,Plasmodium falciparum,Villena 2022,PDR,Velez2008-pt,Poveda et al. 2008
+Anopheles stephensi,none,Villena 2022,"a, mu",Shapiro2017-fl,Shapiro et al. 2017
+Anopheles stephensi,Plasmodium falciparum,Villena 2022,"PDR, bc",Shapiro2017-fl,Shapiro et al. 2017
+Anopheles maculipennies,Plasmodium malariae,Villena 2022,PDR,Shute1952-fg,Shute and Maryon 1952
+Anopheles culicifacies,Plasmodium malariae,Villena 2022,PDR,Siddons1944-aa,Siddons 1944
+Anopheles quadrimaculatus,Plasmodium vivax,Villena 2022,"PDR, bc",Stratman-Thomas1940-ty,Stratman-Thomas 1940
+Anopheles stephensi,Plasmodium falciparum,Mordecai 2013,EIP,Eling2001-um,"Eling et al., 2001"
+Anopheles stephensi,Plasmodium falciparum,Villena 2022,PDR,Thomas2018-xe,Thomas et al. 2018
+Anopheles stephensi,Plasmodium vivax,Villena 2022,PDR,Thomas2018-xe,Thomas et al. 2018
+Anopheles gambiae,Plasmodium falciparum,Villena 2022,PDR,Vaughan1992-fm,Vaughan et al 1992
+Anopheles stephensi,Plasmodium falciparum,Villena 2022,PDR,Waite2019-gx,Waite et al. 2019
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Anopheles stephensi,Plasmodium vivax and plasmodium malarie and plasmodium falciparum,Mordecai 2013,EIP,Knowles1943-fw,"Knowles & Basu, 1943"
+,,,,,
+,,,,,
+Anopheles superpictus,NA,Dahlin 2023,TFD,Aytekin2009-yc,Aytekin_2009_JOVE
+Culex annulirostris,MVE,Shocket 2018,"EIP, bc",Kay1989-ah,Kay_1989_MedVetEntom
+Culex annulirostris,NA,Shocket 2018,"pLA, pRH, 1/MDR, 1/mu, EFD",McDONALD1980-xz,McDonald_1980_AusJofEco
+Culex annulirostris,NA,Shocket 2018,"pRH, nLR, pLA, 1/MDR",Mottram1986-vc,Mottram_1986_JAustEntSoc
+Culex annulirostris,NA,Shocket 2018,"pLA, 1/MDR",Rae1990-lo,Rae_1990_J_Med_Entom
+Culex annulirostris,NA,Shocket 2018,GCD,Russell1986-yh,Russell_1986_AusJEntom
+Culex pipiens,NA,Shocket 2020,1/mu,Andreadis2014-if,Andreadis_2014_ParasRes
+Culex pipiens,NA,Shocket 2020,"pO, 1/mu, 1/MDR, pLA",Ciota2014-ae,Ciota_2014_JMedEntom
+Culex pipiens,NA,Shocket 2020,"GCD, EFOC, Egg viability, 1/MDR, pLA",Ju-lin2017-ky,Ju-lin_2017_ChinJVectorBiol&Control
+Culex pipiens,NA,Shocket 2020,"1/MDR, pLA",Loetti2011-fb,Loetti_2011_JNatHist
+Culex pipiens,NA,Shocket 2020,"GCD, 1/MDR, pLA",Madder1983-mn,Madder_1983_JMedEntom
+Culex pipiens,NA,Shocket 2020,"1/MDR, pLA",Mpho2002-mj,Mpho_2002_EuroJEntom
+Culex pipiens,NA,Shocket 2020,"1/MDR, pLA",Mpho2002-rn,Mpho_2002_Heredity
+Culex pipiens,NA,Shocket 2020,"1/MDR, pLA",Ruybal2016-ds,Ruybal_2016_Paras&Vec
+Culex pipiens,NA,Shocket 2020,"GCD, 1/mu",Ruybal2016-ds,Ruybal_2016_Parasites&Vectors
+Culex pipiens,NA,Shocket 2020,"GCD, 1/MDR, pLA",Tekle1960-xy,Teckle_1960_AJTMH
+Culex pipiens,NA,Shocket 2020,pO,Tekle1960-xy,Tekle_1960_AJTMH
+Culex pipiens,SINV,Shocket 2020,c,Lundstrom1990-cp,Lundstr_m_1990_AmJTropMedHyg
+Culex pipiens,WNV,Shocket 2020,"c, EIP",Dohm2002-yw,Dohm_2002_JMedEntomol
+Culex pipiens,WNV,Shocket 2020,"c, bc, EIP",Kilpatrick2008-co,Kilpatrick_2008_PLOSPathogens
+Culex pipiens molestus,NA,Shocket 2020,"1/mu, 1/MDR",Kiarie-Makara2015-co,KiarieMakura_2015_Jpharm&BioSciences
+Culex pipiens molestus,NA,Shocket 2020,"EPR, pO",Oda1980-ha,Oda_1980_JTropMed
+Culex pipiens molestus,NA,Shocket 2020,"1/mu, pLA",Oda1999-xw,Oda_1999_JAMMosqControlAssoc
+Culex pipiens molestus,NA,Shocket 2020,"1/MDR, pLA",Olejnicek2000-hr,Olejnicek&Gelbic_2000_JofVectorEcology
+Culex pipiens pallens,NA,Shocket 2020,"1/mu, 1/MDR",Kiarie-Makara2015-co,KiarieMakura_2015_Jpharm&BioSciences
+Culex pipiens pallens,NA,Shocket 2020,"GCD, EPR, 1/MDR, pLA",Mogi1992-ua,Mogi_1992_AnnalsoftheEnt.SocietyofAmerica
+Culex quinquefasciatus,NA,Shocket 2020,"pO, 1/mu, 1/MDR, pLA",Ciota2014-ae,Ciota_2014_JMedEntom
+Culex quinquefasciatus,NA,Shocket 2020,"EPR, 1/MDR, pLA",Mogi1992-ua,Mogi_1992_AnnalsoftheEnt.SocietyofAmerica
+Culex quinquefasciatus,NA,Shocket 2020,"1/MDR, pLA",Mpho2001-wt,Mpho_2001_Chemosphere
+Culex quinquefasciatus,NA,Shocket 2020,"EPR, pO",Oda1980-ha,Oda_1980_JTropMed
+Culex quinquefasciatus,NA,Shocket 2020,"1/mu, pLA",Oda1999-xw,Oda_1999_JAMMosqControlAssoc
+Culex quinquefasciatus,NA,Shocket 2020,Egg viability,Rayah1983-tk,Rayah_1983_NedEntomolVerAmsterdam
+Culex quinquefasciatus,NA,Shocket 2020,GCD,Reisen1992-cd,Reisen_1992_JMedEntomol
+Culex quinquefasciatus,NA,Shocket 2020,pLA,Rueda1990-zf,"Rueda,Patel,Axtell,&Stinner_1990_JournalofMedicalEntomology"
+Culex quinquefasciatus,NA,Shocket 2020,1/MDR,Rueda1990-zf,Rueda_Patel_Axtell_Stinner_1990_JMedEntomol
+Culex quinquefasciatus,NA,Shocket 2020,"1/MDR, pLA",Shelton1973-xv,Shelton_1973_MosquitoNews
+Culex quinquefasciatus,NA,Shocket 2020,"GCD, 1/MDR, pLA",Tekle1960-xy,Teckle_1960_AJTMH
+Culex quinquefasciatus,NA,Shocket 2020,pO,Tekle1960-xy,Tekle_1960_AJTMH
+Culex quinquefasciatus,WNV,Shocket 2020,EIP,Paull2017-ps,Paull_2017_ProcB
+Culex restuans,NA,Shocket 2020,"1/MDR, pLA",Buth1990-sw,Buth_1990_JAMCA
+Culex restuans,NA,Shocket 2020,"1/mu, 1/MDR, pLA",Ciota2014-ae,Ciota_2014_JMedEntom
+Culex restuans,NA,Shocket 2020,"1/MDR, pLA",Madder1983-mn,Madder_1983_JMedEntom
+Culex restuans,NA,Shocket 2020,"1/MDR, pLA",Muturi2011-xd,Muturi_2011_JMedEntom
+Culex restuans,NA,Shocket 2020,"1/MDR, pLA",Shelton1973-xv,Shelton_1973_MosquitoNews
+Culex tarsalis,NA,Shocket 2020,"1/MDR, pLA",Buth1990-sw,Buth_1990_JAMCA
+Culex tarsalis,NA,Shocket 2020,pLA,Dodson2012-nz,Dodson_2012_Parasites&Vectors
+Culex tarsalis,NA,Shocket 2020,GCD,Reisen1992-cd,Reisen_1992_JMedEntomol
+Culex tarsalis,NA,Shocket 2020,"1/mu, 1/MDR, pLA",Reisen1995-gy,Reisen_1995_JMedEntomol
+Culex tarsalis,SLEV,Shocket 2020,"b, c, EIP",Reisen1993-ck,Reisen_1993_J_Med_Entomology
+Culex tarsalis,SLEV,Mordecai 2017,PDR,Reisen2006-cn,Reisen_etal_2006_JMedEntom
+Culex tarsalis,WEEV,Shocket 2020,"c, bc, EIP",Kramer1983-di,Kramer_et_al_1983_AmJTropMedHyg
+Culex tarsalis,WEEV,Shocket 2020,"b, c, EIP",Reisen1993-ck,Reisen_1993_J_Med_Entomology
+Culex tarsalis,WEEV,Mordecai 2017,PDR,Reisen2006-cn,Reisen_etal_2006_JMedEntom
+Culex tarsalis,WNV,Shocket 2020,1/MDR,Dodson2012-nz,Dodson_2012_Parasites&Vectors
+Culex tarsalis,WNV,Shocket 2020,"b, EIP",Reisen2006-cn,Reisen_2006_JMedEntomol
+Culex tarsalis,WNV-NY99,Mordecai 2017,PDR,Reisen2006-cn,Reisen_etal_2006_JMedEntom
+Culex theileri,NA,Shocket 2020,Egg viability,Van_der_Linde1990-jd,VanderLinde_1990_JEntSocSAfrica
+Culex univitattus,WNV-SA,Mordecai 2017,PDR,Reisen2006-cn,Reisen_etal_2006_JMedEntom
+Culex univittatus,WNV,Shocket 2020,"bc, EIP",Cornel1993-cu,Cornel_1993_JMedEntom
+Culiseta melanura,NA,Shocket 2020,"GCD, pO",Mahmood1997-jy,Mahmood_1997_JAMCA
+Culiseta melanura,NA,Shocket 2020,"1/MDR, pLA",Mahmood1998-xd,Mahmood_1998_JMedEntom
+Ochlerotatus camptorhynchus,NA,Shocket 2018,"1/MDR, pLA",Barton2005-nv,Barton_2005_ProcLSNSW
+Ochlerotatus vigilax,RRV,Shocket 2018,"EIP, bc",Kay2002-li,Kay_&_Jennings_2002_J_Med_Entom

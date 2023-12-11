@@ -1,0 +1,265 @@
+trait.name,T,trait,ref,trait2,trait2.name,host.code,paras.code,notes
+EIP,18,5,Kay_&_Jennings_2002_J_Med_Entom,NA,NA,Ovig,RRV,
+EIP,25,4,Kay_&_Jennings_2002_J_Med_Entom,NA,NA,Ovig,RRV,
+EIP,32,3,Kay_&_Jennings_2002_J_Med_Entom,NA,NA,Ovig,RRV,
+EIP,45,100,NA,NA,NA,Ovig,RRV,
+bc,18,0.6,Kay_&_Jennings_2002_J_Med_Entom,5,days post exposure,Ovig,RRV,
+bc,18,0.8,Kay_&_Jennings_2002_J_Med_Entom,7,days post exposure,Ovig,RRV,
+bc,18,0.7,Kay_&_Jennings_2002_J_Med_Entom,9,days post exposure,Ovig,RRV,
+bc,18,0.9,Kay_&_Jennings_2002_J_Med_Entom,12,days post exposure,Ovig,RRV,
+bc,18,1,Kay_&_Jennings_2002_J_Med_Entom,14,days post exposure,Ovig,RRV,
+bc,18,0.6,Kay_&_Jennings_2002_J_Med_Entom,16,days post exposure,Ovig,RRV,
+bc,18,0.9,Kay_&_Jennings_2002_J_Med_Entom,18,days post exposure,Ovig,RRV,
+bc,18,0.8,Kay_&_Jennings_2002_J_Med_Entom,20,days post exposure,Ovig,RRV,
+bc,18,0.9,Kay_&_Jennings_2002_J_Med_Entom,25,days post exposure,Ovig,RRV,
+bc,18,1,Kay_&_Jennings_2002_J_Med_Entom,30,days post exposure,Ovig,RRV,
+bc,18,0.9,Kay_&_Jennings_2002_J_Med_Entom,35,days post exposure,Ovig,RRV,
+bc,25,1,Kay_&_Jennings_2002_J_Med_Entom,4,days post exposure,Ovig,RRV,
+bc,25,1,Kay_&_Jennings_2002_J_Med_Entom,5,days post exposure,Ovig,RRV,
+bc,25,1,Kay_&_Jennings_2002_J_Med_Entom,6,days post exposure,Ovig,RRV,
+bc,25,0.8,Kay_&_Jennings_2002_J_Med_Entom,7,days post exposure,Ovig,RRV,
+bc,25,1,Kay_&_Jennings_2002_J_Med_Entom,8,days post exposure,Ovig,RRV,
+bc,25,0.825,Kay_&_Jennings_2002_J_Med_Entom,9,days post exposure,Ovig,RRV,
+bc,25,0.8,Kay_&_Jennings_2002_J_Med_Entom,10,days post exposure,Ovig,RRV,
+bc,25,1,Kay_&_Jennings_2002_J_Med_Entom,12,days post exposure,Ovig,RRV,
+bc,25,1,Kay_&_Jennings_2002_J_Med_Entom,14,days post exposure,Ovig,RRV,
+bc,25,0.825,Kay_&_Jennings_2002_J_Med_Entom,16,days post exposure,Ovig,RRV,
+bc,25,0.825,Kay_&_Jennings_2002_J_Med_Entom,18,days post exposure,Ovig,RRV,
+bc,25,1,Kay_&_Jennings_2002_J_Med_Entom,20,days post exposure,Ovig,RRV,
+bc,25,1,Kay_&_Jennings_2002_J_Med_Entom,25,days post exposure,Ovig,RRV,
+bc,32,0.6,Kay_&_Jennings_2002_J_Med_Entom,3,days post exposure,Ovig,RRV,
+bc,32,0.6,Kay_&_Jennings_2002_J_Med_Entom,5,days post exposure,Ovig,RRV,
+bc,32,0.8,Kay_&_Jennings_2002_J_Med_Entom,7,days post exposure,Ovig,RRV,
+bc,32,1,Kay_&_Jennings_2002_J_Med_Entom,9,days post exposure,Ovig,RRV,
+bc,32,0.75,Kay_&_Jennings_2002_J_Med_Entom,12,days post exposure,Ovig,RRV,
+bc,32,1,Kay_&_Jennings_2002_J_Med_Entom,14,days post exposure,Ovig,RRV,
+bc,32,0.825,Kay_&_Jennings_2002_J_Med_Entom,16,days post exposure,Ovig,RRV,
+bc,32,0.8,Kay_&_Jennings_2002_J_Med_Entom,20,days post exposure,Ovig,RRV,
+bc,18,0.86,Kay_&_Jennings_2002_J_Med_Entom,NA,NA,Ovig,RRV,
+bc,25,1,Kay_&_Jennings_2002_J_Med_Entom,NA,NA,Ovig,RRV,
+bc,32,0.75,Kay_&_Jennings_2002_J_Med_Entom,NA,NA,Ovig,RRV,
+pEA,18,0.045,Rae_1990_J_Med_Entom,NA,NA,Cann,NA,pLA
+pEA,24.5,0.84,Rae_1990_J_Med_Entom,NA,NA,Cann,NA,pLA
+pEA,28.5,0.92,Rae_1990_J_Med_Entom,NA,NA,Cann,NA,pLA
+pEA,35,0.965,Rae_1990_J_Med_Entom,NA,NA,Cann,NA,pLA
+1/MDR,18,30,Rae_1990_J_Med_Entom,NA,NA,Cann,NA,
+1/MDR,24.5,11.5,Rae_1990_J_Med_Entom,NA,NA,Cann,NA,
+1/MDR,28.5,9.25,Rae_1990_J_Med_Entom,NA,NA,Cann,NA,
+1/MDR,35,6,Rae_1990_J_Med_Entom,NA,NA,Cann,NA,
+pEA,10,0,McDonald_1980_AusJofEco,NA,NA,Cann,NA,pLA
+pEA,15,0.05,McDonald_1980_AusJofEco,NA,NA,Cann,NA,pLA
+pEA,20,0.59,McDonald_1980_AusJofEco,NA,NA,Cann,NA,pLA
+pEA,25,0.65,McDonald_1980_AusJofEco,NA,NA,Cann,NA,pLA
+pEA,30,0.56,McDonald_1980_AusJofEco,NA,NA,Cann,NA,pLA
+pEA,35,0.25,McDonald_1980_AusJofEco,NA,NA,Cann,NA,pLA
+pEA,40,0,McDonald_1980_AusJofEco,NA,NA,Cann,NA,pLA
+pEA,20,0.893,McDonald_1980_AusJofEco,NA,NA,Cann,NA,pRH
+pEA,25,0.884,McDonald_1980_AusJofEco,NA,NA,Cann,NA,pRH
+pEA,30,0.681,McDonald_1980_AusJofEco,NA,NA,Cann,NA,pRH
+1/MDR,10,1000,McDonald_1980_AusJofEco,NA,NA,Cann,NA,was originally MDR = 0 now 1/MDR = 1000
+1/MDR,15,37,McDonald_1980_AusJofEco,NA,NA,Cann,NA,
+1/MDR,20,16.82,McDonald_1980_AusJofEco,NA,NA,Cann,NA,
+1/MDR,25,13.48,McDonald_1980_AusJofEco,NA,NA,Cann,NA,
+1/MDR,30,9.25,McDonald_1980_AusJofEco,NA,NA,Cann,NA,
+1/MDR,35,8.57,McDonald_1980_AusJofEco,NA,NA,Cann,NA,
+1/MDR,40,1000,McDonald_1980_AusJofEco,NA,NA,Cann,NA,was originally MDR = 0 now 1/MDR = 1000
+1/mu,10,0,NA,NA,NA,Cann,NA,
+1/mu,20,23.4,McDonald_1980_AusJofEco,NA,NA,Cann,NA,
+1/mu,25,25.3,McDonald_1980_AusJofEco,NA,NA,Cann,NA,
+1/mu,30,14.7,McDonald_1980_AusJofEco,NA,NA,Cann,NA,
+1/mu,40,0,NA,NA,NA,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,1,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,3,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,5,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,7,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,9,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,11,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,13,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,15,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,17,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,19,days post pupation,Cann,NA,
+EFD,20,1,McDonald_1980_AusJofEco,20,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,22,days post pupation,Cann,NA,
+EFD,20,1.4,McDonald_1980_AusJofEco,24,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,26,days post pupation,Cann,NA,
+EFD,20,3.6,McDonald_1980_AusJofEco,28,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,30,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,32,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,34,days post pupation,Cann,NA,
+EFD,20,2,McDonald_1980_AusJofEco,36,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,38,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,40,days post pupation,Cann,NA,
+EFD,20,8,McDonald_1980_AusJofEco,42,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,44,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,46,days post pupation,Cann,NA,
+EFD,20,3.8,McDonald_1980_AusJofEco,48,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,50,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,52,days post pupation,Cann,NA,
+EFD,20,13.8,McDonald_1980_AusJofEco,54,days post pupation,Cann,NA,
+EFD,20,8.4,McDonald_1980_AusJofEco,56,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,58,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,60,days post pupation,Cann,NA,
+EFD,20,22,McDonald_1980_AusJofEco,62,days post pupation,Cann,NA,
+EFD,20,25.6,McDonald_1980_AusJofEco,64,days post pupation,Cann,NA,
+EFD,20,0,McDonald_1980_AusJofEco,66,days post pupation,Cann,NA,
+EFD,25,0,McDonald_1980_AusJofEco,1,days post pupation,Cann,NA,
+EFD,25,0,McDonald_1980_AusJofEco,3,days post pupation,Cann,NA,
+EFD,25,0,McDonald_1980_AusJofEco,5,days post pupation,Cann,NA,
+EFD,25,0,McDonald_1980_AusJofEco,7,days post pupation,Cann,NA,
+EFD,25,0.6,McDonald_1980_AusJofEco,8,days post pupation,Cann,NA,
+EFD,25,0.8,McDonald_1980_AusJofEco,10,days post pupation,Cann,NA,
+EFD,25,3.6,McDonald_1980_AusJofEco,12,days post pupation,Cann,NA,
+EFD,25,0.6,McDonald_1980_AusJofEco,14,days post pupation,Cann,NA,
+EFD,25,1.8,McDonald_1980_AusJofEco,16,days post pupation,Cann,NA,
+EFD,25,6.8,McDonald_1980_AusJofEco,18,days post pupation,Cann,NA,
+EFD,25,3.6,McDonald_1980_AusJofEco,20,days post pupation,Cann,NA,
+EFD,25,5.8,McDonald_1980_AusJofEco,22,days post pupation,Cann,NA,
+EFD,25,1.6,McDonald_1980_AusJofEco,24,days post pupation,Cann,NA,
+EFD,25,0.6,McDonald_1980_AusJofEco,26,days post pupation,Cann,NA,
+EFD,25,1.6,McDonald_1980_AusJofEco,28,days post pupation,Cann,NA,
+EFD,25,0.8,McDonald_1980_AusJofEco,30,days post pupation,Cann,NA,
+EFD,25,2.5,McDonald_1980_AusJofEco,32,days post pupation,Cann,NA,
+EFD,25,4.2,McDonald_1980_AusJofEco,34,days post pupation,Cann,NA,
+EFD,25,6.8,McDonald_1980_AusJofEco,36,days post pupation,Cann,NA,
+EFD,25,8.6,McDonald_1980_AusJofEco,38,days post pupation,Cann,NA,
+EFD,25,15.6,McDonald_1980_AusJofEco,40,days post pupation,Cann,NA,
+EFD,25,13.8,McDonald_1980_AusJofEco,42,days post pupation,Cann,NA,
+EFD,25,13.9,McDonald_1980_AusJofEco,44,days post pupation,Cann,NA,
+EFD,25,14,McDonald_1980_AusJofEco,46,days post pupation,Cann,NA,
+EFD,25,11,McDonald_1980_AusJofEco,48,days post pupation,Cann,NA,
+EFD,25,5,McDonald_1980_AusJofEco,50,days post pupation,Cann,NA,
+EFD,25,8,McDonald_1980_AusJofEco,52,days post pupation,Cann,NA,
+EFD,25,7,McDonald_1980_AusJofEco,54,days post pupation,Cann,NA,
+EFD,25,2.6,McDonald_1980_AusJofEco,56,days post pupation,Cann,NA,
+EFD,25,8.8,McDonald_1980_AusJofEco,58,days post pupation,Cann,NA,
+EFD,25,22,McDonald_1980_AusJofEco,60,days post pupation,Cann,NA,
+EFD,25,70,McDonald_1980_AusJofEco,62,days post pupation,Cann,NA,
+EFD,25,9.2,McDonald_1980_AusJofEco,64,days post pupation,Cann,NA,
+EFD,25,0,McDonald_1980_AusJofEco,66,days post pupation,Cann,NA,
+EFD,30,0,McDonald_1980_AusJofEco,1,days post pupation,Cann,NA,
+EFD,30,0,McDonald_1980_AusJofEco,3,days post pupation,Cann,NA,
+EFD,30,0,McDonald_1980_AusJofEco,5,days post pupation,Cann,NA,
+EFD,30,0,McDonald_1980_AusJofEco,7,days post pupation,Cann,NA,
+EFD,30,0,McDonald_1980_AusJofEco,9,days post pupation,Cann,NA,
+EFD,30,0.34,McDonald_1980_AusJofEco,11,days post pupation,Cann,NA,
+EFD,30,0.68,McDonald_1980_AusJofEco,13,days post pupation,Cann,NA,
+EFD,30,1.86,McDonald_1980_AusJofEco,15,days post pupation,Cann,NA,
+EFD,30,1.49,McDonald_1980_AusJofEco,17,days post pupation,Cann,NA,
+EFD,30,1.12,McDonald_1980_AusJofEco,19,days post pupation,Cann,NA,
+EFD,30,1.16,McDonald_1980_AusJofEco,21,days post pupation,Cann,NA,
+EFD,30,0.02,McDonald_1980_AusJofEco,23,days post pupation,Cann,NA,
+EFD,30,1.38,McDonald_1980_AusJofEco,25,days post pupation,Cann,NA,
+EFD,30,3.42,McDonald_1980_AusJofEco,27,days post pupation,Cann,NA,
+EFD,30,3.2,McDonald_1980_AusJofEco,29,days post pupation,Cann,NA,
+EFD,30,3.68,McDonald_1980_AusJofEco,31,days post pupation,Cann,NA,
+EFD,30,2.99,McDonald_1980_AusJofEco,33,days post pupation,Cann,NA,
+EFD,30,2.3,McDonald_1980_AusJofEco,35,days post pupation,Cann,NA,
+pEA,15,0,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,pRH
+pEA,20,0.575,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,pRH
+pEA,25,0.85,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,pRH
+pEA,30,0.825,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,pRH
+pEA,35,0.45,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,pRH
+pEA,40,0,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,pRH
+pEA,15,0,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,nLR
+pEA,20,139.8,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,nLR
+pEA,25,258.8,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,nLR
+pEA,30,260.8,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,nLR
+pEA,35,102.6,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,nLR
+pEA,40,0,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,nLR
+pEA,15,0,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,pLA
+pEA,20,0.325,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,pLA
+pEA,25,0.835,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,pLA
+pEA,30,0.79,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,pLA
+pEA,35,0.49,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,pLA
+pEA,40,0,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,pLA
+1/MDR,15,1000,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,was originally MDR = 0 now 1/MDR = 1000
+1/MDR,20,25.3,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,
+1/MDR,25,16.7,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,
+1/MDR,30,10.8,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,
+1/MDR,35,7.1,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,
+1/MDR,40,1000,Mottram_1986_JAustEntSoc,NA,NA,Cann,NA,was originally MDR = 0 now 1/MDR = 1000
+GCD,18.5,5,Russell_1986_AusJEntom,NA,NA,Cann,NA,
+GCD,18.5,7,Russell_1986_AusJEntom,NA,NA,Cann,NA,
+GCD,21,5,Russell_1986_AusJEntom,NA,NA,Cann,NA,
+GCD,21,6,Russell_1986_AusJEntom,NA,NA,Cann,NA,
+GCD,23.5,4,Russell_1986_AusJEntom,NA,NA,Cann,NA,
+GCD,23.5,6,Russell_1986_AusJEntom,NA,NA,Cann,NA,
+GCD,24.5,4,Russell_1986_AusJEntom,NA,NA,Cann,NA,
+GCD,24.5,5,Russell_1986_AusJEntom,NA,NA,Cann,NA,
+GCD,23.5,4,Russell_1986_AusJEntom,NA,NA,Cann,NA,
+GCD,23.5,5,Russell_1986_AusJEntom,NA,NA,Cann,NA,
+GCD,21.5,4,Russell_1986_AusJEntom,NA,NA,Cann,NA,
+GCD,21.5,6,Russell_1986_AusJEntom,NA,NA,Cann,NA,
+GCD,19,5,Russell_1986_AusJEntom,NA,NA,Cann,NA,
+GCD,19,7,Russell_1986_AusJEntom,NA,NA,Cann,NA,
+GCD,14,7,Russell_1986_AusJEntom,NA,NA,Cann,NA,
+GCD,14,12,Russell_1986_AusJEntom,NA,NA,Cann,NA,
+GCD,40,1000,NA,NA,NA,Cann,NA,
+EIP,20,10,Kay_1989_MedVetEntom,NA,NA,Cann,MVE,
+EIP,20,14,Kay_1989_MedVetEntom,NA,NA,Cann,MVE,
+EIP,27,10,Kay_1989_MedVetEntom,NA,NA,Cann,MVE,
+EIP,27,7,Kay_1989_MedVetEntom,NA,NA,Cann,MVE,
+EIP,33.5,4,Kay_1989_MedVetEntom,NA,NA,Cann,MVE,
+EIP,45,1000,NA,NA,NA,Cann,MVE,
+bc,0,0,NA,NA,NA,Cann,MVE,
+bc,20,0.7,Kay_1989_MedVetEntom,10,days post exposure,Cann,MVE,
+bc,20,0.77,Kay_1989_MedVetEntom,15,days post exposure,Cann,MVE,
+bc,20,0.75,Kay_1989_MedVetEntom,18,days post exposure,Cann,MVE,
+bc,20,0.9,Kay_1989_MedVetEntom,21,days post exposure,Cann,MVE,
+bc,20,0.92,Kay_1989_MedVetEntom,14,days post exposure,Cann,MVE,
+bc,20,0.87,Kay_1989_MedVetEntom,15,days post exposure,Cann,MVE,
+bc,20,0.93,Kay_1989_MedVetEntom,18,days post exposure,Cann,MVE,
+bc,20,0.93,Kay_1989_MedVetEntom,21,days post exposure,Cann,MVE,
+bc,27,0.75,Kay_1989_MedVetEntom,10,days post exposure,Cann,MVE,
+bc,27,0.84,Kay_1989_MedVetEntom,15,days post exposure,Cann,MVE,
+bc,27,1,Kay_1989_MedVetEntom,18,days post exposure,Cann,MVE,
+bc,27,0.5,Kay_1989_MedVetEntom,7,days post exposure,Cann,MVE,
+bc,27,0.52,Kay_1989_MedVetEntom,10,days post exposure,Cann,MVE,
+bc,27,0.83,Kay_1989_MedVetEntom,14,days post exposure,Cann,MVE,
+bc,27,0.87,Kay_1989_MedVetEntom,15,days post exposure,Cann,MVE,
+bc,27,1,Kay_1989_MedVetEntom,18,days post exposure,Cann,MVE,
+bc,33.5,0.78,Kay_1989_MedVetEntom,4,days post exposure,Cann,MVE,
+bc,33.5,1,Kay_1989_MedVetEntom,7,days post exposure,Cann,MVE,
+bc,33.5,0.9,Kay_1989_MedVetEntom,10,days post exposure,Cann,MVE,
+bc,50,0,NA,NA,NA,Cann,MVE,
+pEA,0,0,NA,NA,NA,Anot,NA,pLA
+pEA,15,1,Williams_2011_AusJEntrom,Tap,water type,Anot,NA,pLA
+pEA,18,0.73,Williams_2011_AusJEntrom,Tap,water type,Anot,NA,pLA
+pEA,25,0.67,Williams_2011_AusJEntrom,Tap,water type,Anot,NA,pLA
+pEA,29,1,Williams_2011_AusJEntrom,Tap,water type,Anot,NA,pLA
+pEA,35,0,Williams_2011_AusJEntrom,Tap,water type,Anot,NA,pLA
+pEA,0,0,NA,NA,NA,Anot,NA,pLA
+pEA,15,1,Williams_2011_AusJEntrom,Rain,water type,Anot,NA,pLA
+pEA,18,0.867,Williams_2011_AusJEntrom,Rain,water type,Anot,NA,pLA
+pEA,25,1,Williams_2011_AusJEntrom,Rain,water type,Anot,NA,pLA
+pEA,29,1,Williams_2011_AusJEntrom,Rain,water type,Anot,NA,pLA
+pEA,35,0,Williams_2011_AusJEntrom,Rain,water type,Anot,NA,pLA
+1/MDR,15,48.8,Williams_2011_AusJEntrom,Tap,water type,Anot,NA,
+1/MDR,18,40.8,Williams_2011_AusJEntrom,Tap,water type,Anot,NA,
+1/MDR,25,27.7,Williams_2011_AusJEntrom,Tap,water type,Anot,NA,
+1/MDR,29,7.6,Williams_2011_AusJEntrom,Tap,water type,Anot,NA,
+1/MDR,40,1000,NA,NA,NA,Anot,NA,
+1/MDR,15,15.5,Williams_2011_AusJEntrom,Rain,water type,Anot,NA,
+1/MDR,18,16.2,Williams_2011_AusJEntrom,Rain,water type,Anot,NA,
+1/MDR,25,10,Williams_2011_AusJEntrom,Rain,water type,Anot,NA,
+1/MDR,29,6.8,Williams_2011_AusJEntrom,Rain,water type,Anot,NA,
+1/MDR,40,1000,NA,NA,NA,Anot,NA,
+EFD,15,104,Williams_2011_AusJEntrom,Tap,water type,Anot,NA,
+EFD,18,109.8,Williams_2011_AusJEntrom,Tap,water type,Anot,NA,
+EFD,25,108,Williams_2011_AusJEntrom,Tap,water type,Anot,NA,
+EFD,29,103.4,Williams_2011_AusJEntrom,Tap,water type,Anot,NA,
+EFD,15,121.6,Williams_2011_AusJEntrom,Rain,water type,Anot,NA,
+EFD,18,142.2,Williams_2011_AusJEntrom,Rain,water type,Anot,NA,
+EFD,25,139.4,Williams_2011_AusJEntrom,Rain,water type,Anot,NA,
+EFD,29,118.6,Williams_2011_AusJEntrom,Rain,water type,Anot,NA,
+1/MDR,15,37.1,Barton_2005_ProcLSNSW,NA,NA,Ocam,NA,
+1/MDR,20,26.5,Barton_2005_ProcLSNSW,NA,NA,Ocam,NA,
+1/MDR,25,20.2,Barton_2005_ProcLSNSW,NA,NA,Ocam,NA,
+1/MDR,30,13.3,Barton_2005_ProcLSNSW,NA,NA,Ocam,NA,
+1/MDR,35,12.1,Barton_2005_ProcLSNSW,NA,NA,Ocam,NA,
+1/MDR,40,1000,NA,NA,NA,Ocam,NA,
+pEA,15,0.689,Barton_2005_ProcLSNSW,NA,NA,Ocam,NA,pLA
+pEA,20,0.844,Barton_2005_ProcLSNSW,NA,NA,Ocam,NA,pLA
+pEA,25,0.761,Barton_2005_ProcLSNSW,NA,NA,Ocam,NA,pLA
+pEA,30,0.528,Barton_2005_ProcLSNSW,NA,NA,Ocam,NA,pLA
+pEA,35,0.356,Barton_2005_ProcLSNSW,NA,NA,Ocam,NA,pLA

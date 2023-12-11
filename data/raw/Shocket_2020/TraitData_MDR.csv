@@ -1,0 +1,255 @@
+seriesID,trait.name,T,trait,ErrorPosSI,ErrorNegSI,Trait2.name,Trait,host.code,paras.code,Citation,Figure,Notes
+Verwillow_15,1/MDR,25,18.24,0.42,0.42,NA,NA,Cpip,NA,Mpho_2002_Heredity,Results text,
+Verwillow_15,1/MDR,30,15.86,0.46,0.46,NA,NA,Cpip,NA,Mpho_2002_Heredity,Results text,
+Verwillow_15,1/MDR,37,14.98,0.42,0.42,NA,NA,Cpip,NA,Mpho_2002_Heredity,Results text,
+Shocket,1/MDR,25,21.72,0.277,0.277,Population,Kotta (field derived strain),Cpip,NA,Mpho_2002_EuroJEntom,Table 1,
+Shocket,1/MDR,30,18.33,0.191,0.191,Population,Kotta (field derived strain),Cpip,NA,Mpho_2002_EuroJEntom,Table 1,
+Shocket,1/MDR,37,16.23,0.422,0.422,Population,Kotta (field derived strain),Cpip,NA,Mpho_2002_EuroJEntom,Table 1,
+Shocket,1/MDR,25,19.34,0.644,0.644,Population,Temix (insecticide resistant lab strain),Cpip,NA,Mpho_2002_EuroJEntom,Table 1,
+Shocket,1/MDR,30,14.55,0.653,0.653,Population,Temix (insecticide resistant lab strain),Cpip,NA,Mpho_2002_EuroJEntom,Table 1,
+Shocket,1/MDR,37,14.22,0.361,0.361,Population,Temix (insecticide resistant lab strain),Cpip,NA,Mpho_2002_EuroJEntom,Table 1,
+Shocket,1/MDR,25,20.06,0.16,0.16,Population,S-lab (standard lab strain),Cpip,NA,Mpho_2002_EuroJEntom,Table 1,
+Shocket,1/MDR,30,16.5,0.204,0.204,Population,S-lab (standard lab strain),Cpip,NA,Mpho_2002_EuroJEntom,Table 1,
+Shocket,1/MDR,37,12.67,0.167,0.167,Population,S-lab (standard lab strain),Cpip,NA,Mpho_2002_EuroJEntom,Table 1,
+Moye_11,1/MDR,16,29.4,0.4357714,0.4357714,Population,Lab colony,Cpip,NA,Ciota_2014_JMedEntom,Figure 1,
+Moye_11,1/MDR,20,15.1,0.0937053,0.0937053,Population,Lab colony,Cpip,NA,Ciota_2014_JMedEntom,Figure 1,
+Moye_11,1/MDR,24,12.2,0.0887227,0.0887227,Population,Lab colony,Cpip,NA,Ciota_2014_JMedEntom,Figure 1,
+Moye_11,1/MDR,28,9.1,0.0344341,0.0344341,Population,Lab colony,Cpip,NA,Ciota_2014_JMedEntom,Figure 1,
+Moye_11,1/MDR,32,9.9,0.0641164,0.0641164,Population,Lab colony,Cpip,NA,Ciota_2014_JMedEntom,Figure 1,
+Moye_13,1/MDR,16,19.6,0.1943815,0.1943815,Population,Field-derived,Cpip,NA,Ciota_2014_JMedEntom,Figure 1,
+Moye_13,1/MDR,20,16.1,0.0546244,0.0546244,Population,Field-derived,Cpip,NA,Ciota_2014_JMedEntom,Figure 1,
+Moye_13,1/MDR,24,11.9,0.1243498,0.1243498,Population,Field-derived,Cpip,NA,Ciota_2014_JMedEntom,Figure 1,
+Moye_13,1/MDR,28,9.5,0.0232628,0.0232628,Population,Field-derived,Cpip,NA,Ciota_2014_JMedEntom,Figure 1,
+Moye_13,1/MDR,32,8.8,0.0576678,0.0576678,Population,Field-derived,Cpip,NA,Ciota_2014_JMedEntom,Figure 1,
+Moye_12,1/MDR,16,25.2,0.2332855,0.2332855,Population,Lab colony,Cqui,NA,Ciota_2014_JMedEntom,Figure 1,
+Moye_12,1/MDR,20,18.4,0.1385335,0.1385335,Population,Lab colony,Cqui,NA,Ciota_2014_JMedEntom,Figure 1,
+Moye_12,1/MDR,24,11.9,0.1896116,0.1896116,Population,Lab colony,Cqui,NA,Ciota_2014_JMedEntom,Figure 1,
+Moye_12,1/MDR,28,10.7,0.1007781,0.1007781,Population,Lab colony,Cqui,NA,Ciota_2014_JMedEntom,Figure 1,
+Moye_12,1/MDR,32,9.3,0.1232882,0.1232882,Population,Lab colony,Cqui,NA,Ciota_2014_JMedEntom,Figure 1,
+Moye_14,1/MDR,16,24.8,0.3293962,0.3293962,Population,Field-derived,Cqui,NA,Ciota_2014_JMedEntom,Figure 1,
+Moye_14,1/MDR,20,15.6,0.1800174,0.1800174,Population,Field-derived,Cqui,NA,Ciota_2014_JMedEntom,Figure 1,
+Moye_14,1/MDR,24,11.3,0.085207,0.085207,Population,Field-derived,Cqui,NA,Ciota_2014_JMedEntom,Figure 1,
+Moye_14,1/MDR,28,9.7,0.0319333,0.0319333,Population,Field-derived,Cqui,NA,Ciota_2014_JMedEntom,Figure 1,
+Moye_14,1/MDR,32,9.5,0.0345426,0.0345426,Population,Field-derived,Cqui,NA,Ciota_2014_JMedEntom,Figure 1,
+Shocket,1/MDR,16,18.2,0.302663438,0.302663438,NA,NA,Cres,NA,Ciota_2014_JMedEntom,Figure 1,
+Shocket,1/MDR,20,13.9,0.242130751,0.242130751,NA,NA,Cres,NA,Ciota_2014_JMedEntom,Figure 1,
+Shocket,1/MDR,24,10.8,0.181598063,0.181598063,NA,NA,Cres,NA,Ciota_2014_JMedEntom,Figure 1,
+Shocket,1/MDR,28,9.6,0.242130751,0.242130751,NA,NA,Cres,NA,Ciota_2014_JMedEntom,Figure 1,
+Shocket,1/MDR,32,9.4,0.181598063,0.181598063,NA,NA,Cres,NA,Ciota_2014_JMedEntom,Figure 1,
+Numazu_5,1/MDR,15,39.67,0.94,0.94,density,1,Cmol,NA,Olejnicek&Gelbic_2000_JofVectorEcology,Table 1,"Cuba strain, females"
+Numazu_5,1/MDR,15,57.33,3.3,3.3,density,5,Cmol,NA,Olejnicek&Gelbic_2000_JofVectorEcology,Table 1,"Cuba strain, females"
+Numazu_5,1/MDR,15,67,7.52,7.52,density,10,Cmol,NA,Olejnicek&Gelbic_2000_JofVectorEcology,Table 1,"Cuba strain, females"
+Numazu_5,1/MDR,22,19.25,1.92,1.92,density,1,Cmol,NA,Olejnicek&Gelbic_2000_JofVectorEcology,Table 1,"Cuba strain, females"
+Numazu_5,1/MDR,22,19,0.63,0.63,density,5,Cmol,NA,Olejnicek&Gelbic_2000_JofVectorEcology,Table 1,"Cuba strain, females"
+Numazu_5,1/MDR,22,25.67,0.94,0.94,density,10,Cmol,NA,Olejnicek&Gelbic_2000_JofVectorEcology,Table 1,"Cuba strain, females"
+Numazu_5,1/MDR,30,13.58,0.64,0.64,density,1,Cmol,NA,Olejnicek&Gelbic_2000_JofVectorEcology,Table 1,"Cuba strain, females"
+Numazu_5,1/MDR,30,14.06,2.52,2.52,density,5,Cmol,NA,Olejnicek&Gelbic_2000_JofVectorEcology,Table 1,"Cuba strain, females"
+Numazu_5,1/MDR,30,15.45,3.51,3.51,density,10,Cmol,NA,Olejnicek&Gelbic_2000_JofVectorEcology,Table 1,"Cuba strain, females"
+Numazu_6,1/MDR,15,47.75,4.44,4.44,density,1,Cmol,NA,Olejnicek&Gelbic_2000_JofVectorEcology,Table 2,"Mosul strain, females"
+Numazu_6,1/MDR,15,46.67,3.35,3.35,density,5,Cmol,NA,Olejnicek&Gelbic_2000_JofVectorEcology,Table 2,"Mosul strain, females"
+Numazu_6,1/MDR,15,50,4.24,4.24,density,10,Cmol,NA,Olejnicek&Gelbic_2000_JofVectorEcology,Table 2,"Mosul strain, females"
+Numazu_6,1/MDR,22,23.62,1.94,1.94,density,1,Cmol,NA,Olejnicek&Gelbic_2000_JofVectorEcology,Table 2,"Mosul strain, females"
+Numazu_6,1/MDR,22,31,3.96,3.96,density,5,Cmol,NA,Olejnicek&Gelbic_2000_JofVectorEcology,Table 2,"Mosul strain, females"
+Numazu_6,1/MDR,22,37.5,2.22,2.22,density,10,Cmol,NA,Olejnicek&Gelbic_2000_JofVectorEcology,Table 2,"Mosul strain, females"
+Numazu_6,1/MDR,30,13.27,0.45,0.45,density,1,Cmol,NA,Olejnicek&Gelbic_2000_JofVectorEcology,Table 2,"Mosul strain, females"
+Numazu_6,1/MDR,30,14.2,1.6,1.6,density,5,Cmol,NA,Olejnicek&Gelbic_2000_JofVectorEcology,Table 2,"Mosul strain, females"
+Numazu_6,1/MDR,30,15,0.71,0.71,density,10,Cmol,NA,Olejnicek&Gelbic_2000_JofVectorEcology,Table 2,"Mosul strain, females"
+Shocket,1/MDR,12,1000,NA,NA,NA,NA,Cino,NA,Shelton_1973_MosquitoNews,Figure 1,
+Shocket,1/MDR,15,19,NA,NA,NA,NA,Cino,NA,Shelton_1973_MosquitoNews,Figure 1,
+Shocket,1/MDR,20,13.9,NA,NA,NA,NA,Cino,NA,Shelton_1973_MosquitoNews,Figure 1,
+Shocket,1/MDR,23,13.7,NA,NA,NA,NA,Cino,NA,Shelton_1973_MosquitoNews,Figure 1,
+Shocket,1/MDR,26,11.1,NA,NA,NA,NA,Cino,NA,Shelton_1973_MosquitoNews,Figure 1,
+Shocket,1/MDR,29,1000,NA,NA,NA,NA,Cino,NA,Shelton_1973_MosquitoNews,Figure 1,
+Shocket,1/MDR,32,1000,NA,NA,NA,NA,Cino,NA,Shelton_1973_MosquitoNews,Figure 1,
+Shocket,1/MDR,35,1000,NA,NA,NA,NA,Cino,NA,Shelton_1973_MosquitoNews,Figure 1,
+Shocket,1/MDR,12,25.3,NA,NA,NA,NA,Cres,NA,Shelton_1973_MosquitoNews,Figure 2,
+Shocket,1/MDR,15,13,NA,NA,NA,NA,Cres,NA,Shelton_1973_MosquitoNews,Figure 2,
+Shocket,1/MDR,20,10.2,NA,NA,NA,NA,Cres,NA,Shelton_1973_MosquitoNews,Figure 2,
+Shocket,1/MDR,23,9,NA,NA,NA,NA,Cres,NA,Shelton_1973_MosquitoNews,Figure 2,
+Shocket,1/MDR,26,6.7,NA,NA,NA,NA,Cres,NA,Shelton_1973_MosquitoNews,Figure 2,
+Shocket,1/MDR,29,6.4,NA,NA,NA,NA,Cres,NA,Shelton_1973_MosquitoNews,Figure 2,
+Shocket,1/MDR,32,1000,NA,NA,NA,NA,Cres,NA,Shelton_1973_MosquitoNews,Figure 2,Did not complete development
+Shocket,1/MDR,35,1000,NA,NA,NA,NA,Cres,NA,Shelton_1973_MosquitoNews,Figure 2,Did not complete development
+Numazu,1/MDR,12,16.75,NA,NA,NA,NA,Cqui,NA,Shelton_1973_MosquitoNews,Figure 3,
+Numazu,1/MDR,15,11.49,NA,NA,NA,NA,Cqui,NA,Shelton_1973_MosquitoNews,Figure 3,
+Numazu,1/MDR,20,7.96,NA,NA,NA,NA,Cqui,NA,Shelton_1973_MosquitoNews,Figure 3,
+Numazu,1/MDR,23,7.97,NA,NA,NA,NA,Cqui,NA,Shelton_1973_MosquitoNews,Figure 3,
+Numazu,1/MDR,26,7.47,NA,NA,NA,NA,Cqui,NA,Shelton_1973_MosquitoNews,Figure 3,
+Numazu,1/MDR,29,6.45,NA,NA,NA,NA,Cqui,NA,Shelton_1973_MosquitoNews,Figure 3,
+Numazu,1/MDR,32,6.97,NA,NA,NA,NA,Cqui,NA,Shelton_1973_MosquitoNews,Figure 3,
+Numazu,1/MDR,35,1000,NA,NA,NA,NA,Cqui,NA,Shelton_1973_MosquitoNews,Figure 3,Did not complete development
+Shocket,1/MDR,12,16.7,NA,NA,NA,NA,Csal,NA,Shelton_1973_MosquitoNews,Figure 4,
+Shocket,1/MDR,15,11.5,NA,NA,NA,NA,Csal,NA,Shelton_1973_MosquitoNews,Figure 4,
+Shocket,1/MDR,20,8,NA,NA,NA,NA,Csal,NA,Shelton_1973_MosquitoNews,Figure 4,
+Shocket,1/MDR,23,8,NA,NA,NA,NA,Csal,NA,Shelton_1973_MosquitoNews,Figure 4,
+Shocket,1/MDR,26,7.5,NA,NA,NA,NA,Csal,NA,Shelton_1973_MosquitoNews,Figure 4,
+Shocket,1/MDR,29,6.4,NA,NA,NA,NA,Csal,NA,Shelton_1973_MosquitoNews,Figure 4,
+Shocket,1/MDR,32,7,NA,NA,NA,NA,Csal,NA,Shelton_1973_MosquitoNews,Figure 4,
+Shocket,1/MDR,35,1000,NA,NA,NA,NA,Csal,NA,Shelton_1973_MosquitoNews,Figure 4,Did not complete development
+Shocket,1/MDR,12,1000,NA,NA,NA,NA,Asol,NA,Shelton_1973_MosquitoNews,Figure 7,Did not complete development
+Shocket,1/MDR,15,19.2,NA,NA,NA,NA,Asol,NA,Shelton_1973_MosquitoNews,Figure 7,
+Shocket,1/MDR,20,14.9,NA,NA,NA,NA,Asol,NA,Shelton_1973_MosquitoNews,Figure 7,
+Shocket,1/MDR,23,9,NA,NA,NA,NA,Asol,NA,Shelton_1973_MosquitoNews,Figure 7,
+Shocket,1/MDR,26,6.9,NA,NA,NA,NA,Asol,NA,Shelton_1973_MosquitoNews,Figure 7,
+Shocket,1/MDR,29,5.8,NA,NA,NA,NA,Asol,NA,Shelton_1973_MosquitoNews,Figure 7,
+Shocket,1/MDR,32,5.3,NA,NA,NA,NA,Asol,NA,Shelton_1973_MosquitoNews,Figure 7,
+Shocket,1/MDR,35,5.3,NA,NA,NA,NA,Asol,NA,Shelton_1973_MosquitoNews,Figure 7,
+Numazu,1/MDR,12,1000,NA,NA,NA,NA,Atri,NA,Shelton_1973_MosquitoNews,Figure 8,Did not complete development
+Numazu,1/MDR,15,21.6,NA,NA,NA,NA,Atri,NA,Shelton_1973_MosquitoNews,Figure 8,
+Numazu,1/MDR,20,13.8,NA,NA,NA,NA,Atri,NA,Shelton_1973_MosquitoNews,Figure 8,
+Numazu,1/MDR,23,11,NA,NA,NA,NA,Atri,NA,Shelton_1973_MosquitoNews,Figure 8,
+Numazu,1/MDR,26,10.8,NA,NA,NA,NA,Atri,NA,Shelton_1973_MosquitoNews,Figure 8,
+Numazu,1/MDR,29,11,NA,NA,NA,NA,Atri,NA,Shelton_1973_MosquitoNews,Figure 8,
+Numazu,1/MDR,32,10,NA,NA,NA,NA,Atri,NA,Shelton_1973_MosquitoNews,Figure 8,
+Numazu,1/MDR,35,1000,NA,NA,NA,NA,Atri,NA,Shelton_1973_MosquitoNews,Figure 8,Did not complete development
+Numazu_1,1/MDR,15,31.35,0.46,0.46,NA,NA,Cqui,NA,Rueda_Patel_Axtell_Stinner_1990_JMedEntomol,Table 1,
+Numazu_1,1/MDR,20,12.07,0.14,0.14,NA,NA,Cqui,NA,Rueda_Patel_Axtell_Stinner_1990_JMedEntomol,Table 1,
+Numazu_1,1/MDR,25,10.52,0.12,0.12,NA,NA,Cqui,NA,Rueda_Patel_Axtell_Stinner_1990_JMedEntomol,Table 1,
+Numazu_1,1/MDR,27,7.07,0.05,0.05,NA,NA,Cqui,NA,Rueda_Patel_Axtell_Stinner_1990_JMedEntomol,Table 1,
+Numazu_1,1/MDR,30,7.21,0.06,0.06,NA,NA,Cqui,NA,Rueda_Patel_Axtell_Stinner_1990_JMedEntomol,Table 1,
+Numazu_1,1/MDR,34,7.08,0.06,0.06,NA,NA,Cqui,NA,Rueda_Patel_Axtell_Stinner_1990_JMedEntomol,Table 1,
+Numazu_1,1/MDR,25,20.02,0.12,0.12,insecticide concentration,0,Cqui,NA,Mpho_2001_Chemosphere,Figure 1,
+Numazu_1,1/MDR,30,16.43,0.3,0.3,insecticide concentration,0,Cqui,NA,Mpho_2001_Chemosphere,Figure 1,
+Numazu_1,1/MDR,37,12.65,0.18,0.18,insecticide concentration,0,Cqui,NA,Mpho_2001_Chemosphere,Figure 1,
+Numazu_1,1/MDR,25,19.72,0.12,0.12,insecticide concentration,0.00011,Cqui,NA,Mpho_2001_Chemosphere,Figure 1,
+Numazu_1,1/MDR,30,16.49,0.24,0.24,insecticide concentration,0.00011,Cqui,NA,Mpho_2001_Chemosphere,Figure 1,
+Numazu_1,1/MDR,37,12.77,0.3,0.3,insecticide concentration,0.00011,Cqui,NA,Mpho_2001_Chemosphere,Figure 1,
+Numazu_3,1/MDR,15,26.7,NA,NA,Population,Coachella Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 1,
+Numazu_3,1/MDR,20,19.6,NA,NA,Population,Coachella Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 1,
+Numazu_3,1/MDR,25,12.6,NA,NA,Population,Coachella Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 1,
+Numazu_3,1/MDR,30,10.6,NA,NA,Population,Coachella Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 1,
+Numazu_3,1/MDR,35,9.8,NA,NA,Population,Coachella Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 1,
+Numazu_3,1/MDR,15,29.1,NA,NA,Population,San Joaquin Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 1,
+Numazu_3,1/MDR,20,22.4,NA,NA,Population,San Joaquin Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 1,
+Numazu_3,1/MDR,25,16.2,NA,NA,Population,San Joaquin Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 1,
+Numazu_3,1/MDR,30,10.4,NA,NA,Population,San Joaquin Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 1,
+Numazu_3,1/MDR,35,10.8,NA,NA,Population,San Joaquin Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 1,
+Numazu_6,1/MDR,14,34,NA,NA,Population,Coachella Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,20,25,NA,NA,Population,Coachella Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,26,12,NA,NA,Population,Coachella Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,32,9,NA,NA,Population,Coachella Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,14,30,NA,NA,Population,Coachella Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,20,19,NA,NA,Population,Coachella Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,26,11,NA,NA,Population,Coachella Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,32,9,NA,NA,Population,Coachella Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,14,35,NA,NA,Population,Coachella Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,20,25,NA,NA,Population,Coachella Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,26,14,NA,NA,Population,Coachella Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,32,11,NA,NA,Population,Coachella Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,14,36,NA,NA,Population,San Joaquin Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,20,25,NA,NA,Population,San Joaquin Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,26,14,NA,NA,Population,San Joaquin Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,32,8,NA,NA,Population,San Joaquin Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,20,20,NA,NA,Population,San Joaquin Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,26,12,NA,NA,Population,San Joaquin Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,32,11,NA,NA,Population,San Joaquin Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,14,35,NA,NA,Population,San Joaquin Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,20,24,NA,NA,Population,San Joaquin Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,26,15,NA,NA,Population,San Joaquin Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Numazu_6,1/MDR,32,12,NA,NA,Population,San Joaquin Valley,Ctar,NA,Reisen_1995_JMedEntomol,Table 2,
+Moye_005,1/MDR,19,15.6,NA,NA,Population,Coachella Valley,Ctar,WNV,Dodson_2012_Parasites&Vectors,Table 2,Day to first emergence (not mean)
+Moye_005,1/MDR,25,10,NA,NA,Population,Coachella Valley,Ctar,WNV,Dodson_2012_Parasites&Vectors,Table 2,Day to first emergence (not mean)
+Moye_005,1/MDR,31,9.2,NA,NA,Population,Coachella Valley,Ctar,WNV,Dodson_2012_Parasites&Vectors,Table 2,Day to first emergence (not mean)
+Moye_005,1/MDR,19,17,NA,NA,Population,Coachella Valley,Ctar,WNV,Dodson_2012_Parasites&Vectors,Table 2,Day to first emergence (not mean)
+Moye_005,1/MDR,25,9.8,NA,NA,Population,Coachella Valley,Ctar,WNV,Dodson_2012_Parasites&Vectors,Table 2,Day to first emergence (not mean)
+Moye_005,1/MDR,31,10.6,NA,NA,Population,Coachella Valley,Ctar,WNV,Dodson_2012_Parasites&Vectors,Table 2,Day to first emergence (not mean)
+Moye_006,1/MDR,19,17,NA,NA,Population,Yolo County,Ctar,WNV,Dodson_2012_Parasites&Vectors,Table 2,Day to first emergence (not mean)
+Moye_006,1/MDR,25,10.2,NA,NA,Population,Yolo County,Ctar,WNV,Dodson_2012_Parasites&Vectors,Table 2,Day to first emergence (not mean)
+Moye_006,1/MDR,31,7.6,NA,NA,Population,Yolo County,Ctar,WNV,Dodson_2012_Parasites&Vectors,Table 2,Day to first emergence (not mean)
+Moye_006,1/MDR,19,13.6,NA,NA,Population,Yolo County,Ctar,WNV,Dodson_2012_Parasites&Vectors,Table 2,Day to first emergence (not mean)
+Moye_006,1/MDR,25,10,NA,NA,Population,Yolo County,Ctar,WNV,Dodson_2012_Parasites&Vectors,Table 2,Day to first emergence (not mean)
+Moye_006,1/MDR,31,7.6,NA,NA,Population,Yolo County,Ctar,WNV,Dodson_2012_Parasites&Vectors,Table 2,Day to first emergence (not mean)
+Numazu_12,1/MDR,5,1000,NA,NA,NA,NA,Avex,NA,Trpis&Shemanchuk_1970_TheCanadianEntomologist,Results text,All larvae died in 1st instar
+Numazu_12,1/MDR,10,43,NA,NA,NA,NA,Avex,NA,Trpis&Shemanchuk_1970_TheCanadianEntomologist,Figure 1,Median time to pupation
+Numazu_12,1/MDR,15,17,NA,NA,NA,NA,Avex,NA,Trpis&Shemanchuk_1970_TheCanadianEntomologist,Figure 2,Median time to pupation
+Numazu_12,1/MDR,20,8,NA,NA,NA,NA,Avex,NA,Trpis&Shemanchuk_1970_TheCanadianEntomologist,Figure 3,Median time to pupation
+Numazu_12,1/MDR,25,6,NA,NA,NA,NA,Avex,NA,Trpis&Shemanchuk_1970_TheCanadianEntomologist,Figure 4,Median time to pupation
+Numazu_12,1/MDR,30,6,NA,NA,NA,NA,Avex,NA,Trpis&Shemanchuk_1970_TheCanadianEntomologist,Figure 5,Median time to pupation
+Numazu_7,1/MDR,21,31.88,0.6,0.6,Sex,Female,Avex,NA,Brust_1967_CanEntomol,Table 1,Converted from hours to days
+Numazu_7,1/MDR,26.5,16.06,0.54,0.54,Sex,Female,Avex,NA,Brust_1967_CanEntomol,Table 1,Converted from hours to days
+Numazu_7,1/MDR,32,13.02,0.46,0.46,Sex,Female,Avex,NA,Brust_1967_CanEntomol,Table 1,Converted from hours to days
+Shocket,1/MDR,21,36.52,0.71,0.71,Sex,Female,Anig,NA,Brust_1967_CanEntomol,Table 2,Converted from hours to days
+Shocket,1/MDR,26.5,15.46,0.48,0.48,Sex,Female,Anig,NA,Brust_1967_CanEntomol,Table 2,Converted from hours to days
+Shocket,1/MDR,32,18.19,0.52,0.52,Sex,Female,Anig,NA,Brust_1967_CanEntomol,Table 2,Converted from hours to days
+Shocket_109+110,1/MDR,10,39.8,1.9,1.9,NA,NA,Cpip,NA,Loetti_2011_JNatHist,Table 2,
+Shocket_109,1/MDR,15,21.6,1.6,1.6,NA,NA,Cpip,NA,Loetti_2011_JNatHist,Table 2,
+Shocket_109,1/MDR,20,13.3,2,2,NA,NA,Cpip,NA,Loetti_2011_JNatHist,Table 2,
+Shocket_109,1/MDR,25,10.2,1.9,1.9,NA,NA,Cpip,NA,Loetti_2011_JNatHist,Table 2,
+Shocket_109,1/MDR,30,8,1,1,NA,NA,Cpip,NA,Loetti_2011_JNatHist,Table 2,
+Shocket_109,1/MDR,33,11.5,NA,NA,NA,NA,Cpip,NA,Loetti_2011_JNatHist,Table 2,
+Shocket,1/MDR,16,20.5,20.1,20.9,Population,Low elevation,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,20,13.1,13,13.3,Population,Low elevation,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,24,9.9,9.7,10.2,Population,Low elevation,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,27,8.9,8.8,9.1,Population,Low elevation,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,31,8.3,8.2,8.3,Population,Low elevation,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,16,22.5,22.3,22.7,Population,Mid latitude,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,20,14.1,14,14.3,Population,Mid latitude,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,24,11,10.9,11.1,Population,Mid latitude,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,27,10.7,10.4,10.9,Population,Mid latitude,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,31,9.5,9.2,9.7,Population,Mid latitude,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,16,21.4,20.8,21.9,Population,Mid elevation,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,20,13.6,13.2,14,Population,Mid elevation,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,24,10.2,9.8,10.6,Population,Mid elevation,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,27,8.9,8.7,9.1,Population,Mid elevation,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,31,8.3,8.1,8.6,Population,Mid elevation,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,16,22.4,NA,NA,Population,High elevation,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,20,14.3,NA,NA,Population,High elevation,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,24,10.7,NA,NA,Population,High elevation,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,27,9.8,NA,NA,Population,High elevation,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,31,9.5,NA,NA,Population,High elevation,Cpip,NA,Ruybal_2016_Paras&Vec,Figure 2,
+Shocket,1/MDR,10,48.34,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 2 + Table 3,Pupation time (from larvae to pupa) + eclosion time (pupa + adult); translated from Chinese
+Shocket,1/MDR,15,30.17,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 2 + Table 3,Pupation time (from larvae to pupa) + eclosion time (pupa + adult); translated from Chinese
+Shocket,1/MDR,20,22.03,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 2 + Table 3,Pupation time (from larvae to pupa) + eclosion time (pupa + adult); translated from Chinese
+Shocket,1/MDR,25,16.64,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 2 + Table 3,Pupation time (from larvae to pupa) + eclosion time (pupa + adult); translated from Chinese
+Shocket,1/MDR,30,11.69,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 2 + Table 3,Pupation time (from larvae to pupa) + eclosion time (pupa + adult); translated from Chinese
+Shocket,1/MDR,35,10.4,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 2 + Table 3,Pupation time (from larvae to pupa) + eclosion time (pupa + adult); translated from Chinese
+Shocket,1/MDR,40,1000,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 2 + Table 3,0% pupation rate
+Numazu_11,1/MDR,10,1000,NA,NA,Population,Auckland NZ,Cqui,NA,Mogi_1992_AnnalsoftheEnt.SocietyofAmerica,Results text,Day length co-varied with temperature - 10 hr for 15 degrees
+Numazu_11,1/MDR,10,1000,NA,NA,Population,Auckland NZ,Cqui,NA,Mogi_1992_AnnalsoftheEnt.SocietyofAmerica,Results text,Day length co-varied with temperature - 10 hr for 15 degrees
+Numazu_11,1/MDR,10,1000,NA,NA,Population,Suva Fiji,Cqui,NA,Mogi_1992_AnnalsoftheEnt.SocietyofAmerica,Results text,Day length co-varied with temperature - 10 hr for 15 degrees
+Shocket,1/MDR,10,1000,NA,NA,NA,NA,Cpal,NA,Mogi_1992_AnnalsoftheEnt.SocietyofAmerica,Results text,Day length co-varied with temperature - 10 hr for 15 degrees
+Shocket,1/MDR,35,8,0.48,0.48,NA,NA,Cqui,NA,Teckle_1960_AJTMH,Table 1,Used old name fatigans which is now synonymous with quinquefasciatus
+Shocket,1/MDR,30,11,0.46,0.46,NA,NA,Cqui,NA,Teckle_1960_AJTMH,Table 1,Used old name fatigans which is now synonymous with quinquefasciatus
+Shocket,1/MDR,25,13,0.43,0.43,NA,NA,Cqui,NA,Teckle_1960_AJTMH,Table 1,Used old name fatigans which is now synonymous with quinquefasciatus
+Shocket,1/MDR,20,22,0.48,0.48,NA,NA,Cqui,NA,Teckle_1960_AJTMH,Table 1,Used old name fatigans which is now synonymous with quinquefasciatus
+Shocket,1/MDR,15,41,0.97,0.97,NA,NA,Cqui,NA,Teckle_1960_AJTMH,Table 1,Used old name fatigans which is now synonymous with quinquefasciatus
+Shocket,1/MDR,10,60,3.1,3.1,NA,NA,Cqui,NA,Teckle_1960_AJTMH,Table 1,Used old name fatigans which is now synonymous with quinquefasciatus
+Shocket,1/MDR,35,1000,NA,NA,NA,NA,Cpip,NA,Teckle_1960_AJTMH,Table 1,
+Shocket,1/MDR,30,12,0.24,0.24,NA,NA,Cpip,NA,Teckle_1960_AJTMH,Table 1,
+Shocket,1/MDR,25,14,0.72,0.72,NA,NA,Cpip,NA,Teckle_1960_AJTMH,Table 1,
+Shocket,1/MDR,20,26,1.45,1.45,NA,NA,Cpip,NA,Teckle_1960_AJTMH,Table 1,
+Shocket,1/MDR,15,48,1.94,1.94,NA,NA,Cpip,NA,Teckle_1960_AJTMH,Table 1,
+Shocket,1/MDR,10,64,3.8,3.8,NA,NA,Cpip,NA,Teckle_1960_AJTMH,Table 1,
+Shocket,1/MDR,15,34.6,0.6,0.6,Density,50,Ctar,NA,Buth_1990_JAMCA,Table 2,
+Shocket,1/MDR,20,18.2,0.5,0.5,Density,50,Ctar,NA,Buth_1990_JAMCA,Table 2,
+Shocket,1/MDR,25,12.8,0.4,0.4,Density,50,Ctar,NA,Buth_1990_JAMCA,Table 2,
+Shocket,1/MDR,15,22,0.4,0.4,Density,50,Cres,NA,Buth_1990_JAMCA,Table 2,
+Shocket,1/MDR,20,11.6,0.2,0.2,Density,50,Cres,NA,Buth_1990_JAMCA,Table 2,
+Shocket,1/MDR,25,8.1,0.5,0.5,Density,50,Cres,NA,Buth_1990_JAMCA,Table 2,
+Shocket,1/MDR,20,24.08,2.72,2.72,NA,NA,Cpal,NA,KiarieMakura_2015_Jpharm&BioSciences,Tables 1 + 2 + 3,
+Shocket,1/MDR,24,17.63,7.83,7.83,NA,NA,Cpal,NA,KiarieMakura_2015_Jpharm&BioSciences,Tables 1 + 2 + 4,
+Shocket,1/MDR,28,11.75,1.26,1.26,NA,NA,Cpal,NA,KiarieMakura_2015_Jpharm&BioSciences,Tables 1 + 2 + 5,
+Shocket,1/MDR,20,26.28,1.28,1.28,NA,NA,Cmol,NA,KiarieMakura_2015_Jpharm&BioSciences,Tables 1 + 2 + 6,
+Shocket,1/MDR,24,19.44,0.92,0.92,NA,NA,Cmol,NA,KiarieMakura_2015_Jpharm&BioSciences,Tables 1 + 2 + 7,
+Shocket,1/MDR,28,12.84,1.35,1.35,NA,NA,Cmol,NA,KiarieMakura_2015_Jpharm&BioSciences,Tables 1 + 2 + 8,
+Shocket,1/MDR,30,6.9,0.1,0.1,NA,NA,Cpip,NA,Madder_1983_JMedEntom,Table 6,
+Shocket,1/MDR,25,7,0.1,0.1,NA,NA,Cpip,NA,Madder_1983_JMedEntom,Table 6,
+Shocket,1/MDR,23,11.5,0.1,0.1,NA,NA,Cpip,NA,Madder_1983_JMedEntom,Table 6,
+Shocket,1/MDR,20,11.6,0.3,0.3,NA,NA,Cpip,NA,Madder_1983_JMedEntom,Table 6,
+Shocket,1/MDR,17,16,0.4,0.4,NA,NA,Cpip,NA,Madder_1983_JMedEntom,Table 6,
+Shocket,1/MDR,15,27.1,1.5,1.5,NA,NA,Cpip,NA,Madder_1983_JMedEntom,Table 6,
+Shocket,1/MDR,30,7.3,0.4,0.4,NA,NA,Cres,NA,Madder_1983_JMedEntom,Table 6,
+Shocket,1/MDR,25,8.5,0.3,0.3,NA,NA,Cres,NA,Madder_1983_JMedEntom,Table 6,
+Shocket,1/MDR,23,11.2,0.2,0.2,NA,NA,Cres,NA,Madder_1983_JMedEntom,Table 6,
+Shocket,1/MDR,20,14.3,0.3,0.3,NA,NA,Cres,NA,Madder_1983_JMedEntom,Table 6,
+Shocket,1/MDR,18,16,0.1,0.1,NA,NA,Cres,NA,Madder_1983_JMedEntom,Table 6,
+Shocket,1/MDR,15,26.5,0.6,0.6,NA,NA,Cres,NA,Madder_1983_JMedEntom,Table 6,
+Shocket,1/MDR,20,12.5,0.12,0.12,NA,NA,Cres,NA,Muturi_2011_JMedEntom,Table 3,
+Shocket,1/MDR,25,7.8,0.08,0.08,NA,NA,Cres,NA,Muturi_2011_JMedEntom,Table 3,
+Shocket,1/MDR,30,7.5,0.22,0.22,NA,NA,Cres,NA,Muturi_2011_JMedEntom,Table 3,
+Shocket,1/MDR,32,22.7,1.7,1.7,NA,NA,Cmel,NA,Mahmood_1998_JMedEntom,Table 2,
+Shocket,1/MDR,28,19.2,0.4,0.4,NA,NA,Cmel,NA,Mahmood_1998_JMedEntom,Table 2,
+Shocket,1/MDR,26,32.4,0.9,0.9,NA,NA,Cmel,NA,Mahmood_1998_JMedEntom,Table 2,
+Shocket,1/MDR,22,27.7,0.5,0.5,NA,NA,Cmel,NA,Mahmood_1998_JMedEntom,Table 2,
+Shocket,1/MDR,16,101.1,NA,NA,NA,NA,Cmel,NA,Mahmood_1998_JMedEntom,Table 2,
+Shocket,1/MDR,10,244.3,NA,NA,NA,NA,Cmel,NA,Mahmood_1998_JMedEntom,Table 2,

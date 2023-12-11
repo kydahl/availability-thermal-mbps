@@ -1,0 +1,369 @@
+trait.name,T,trait,ref,mosquito.species
+mu,10.82372552,0.091759667,Yang_et_al_2008_EpidInfect,Aedes aegypti
+mu,10.60066603,0.075675353,Yang_et_al_2008_EpidInfect,Aedes aegypti
+mu,15.3309921,0.035920552,Yang_et_al_2008_EpidInfect,Aedes aegypti
+mu,16.55244216,0.032425471,Yang_et_al_2008_EpidInfect,Aedes aegypti
+mu,20.04602109,0.042145005,Yang_et_al_2008_EpidInfect,Aedes aegypti
+mu,21.77042116,0.037210774,Yang_et_al_2008_EpidInfect,Aedes aegypti
+mu,25.61629688,0.030438368,Yang_et_al_2008_EpidInfect,Aedes aegypti
+mu,27.62920948,0.027156001,Yang_et_al_2008_EpidInfect,Aedes aegypti
+mu,31.34186139,0.044093837,Yang_et_al_2008_EpidInfect,Aedes aegypti
+mu,31.66115353,0.034199563,Yang_et_al_2008_EpidInfect,Aedes aegypti
+mu,32.56507293,0.044516297,Yang_et_al_2008_EpidInfect,Aedes aegypti
+mu,33.39482457,0.049883965,Yang_et_al_2008_EpidInfect,Aedes aegypti
+1/mu,18,21.9,Beserra_2009,Aedes aegypti
+1/mu,22,27.52,Beserra_2009,Aedes aegypti
+1/mu,26,25.46,Beserra_2009,Aedes aegypti
+1/mu,28,13.81,Beserra_2009,Aedes aegypti
+1/mu,32,13.44,Beserra_2009,Aedes aegypti
+1/mu,34,13.48,Beserra_2009,Aedes aegypti
+1/mu,18,15.71,Beserra_2009,Aedes aegypti
+1/mu,22,27.3,Beserra_2009,Aedes aegypti
+1/mu,26,40.54,Beserra_2009,Aedes aegypti
+1/mu,28,21.44,Beserra_2009,Aedes aegypti
+1/mu,32,16.76,Beserra_2009,Aedes aegypti
+1/mu,34,12.16,Beserra_2009,Aedes aegypti
+1/mu,18,22.67,Beserra_2009,Aedes aegypti
+1/mu,22,24.74,Beserra_2009,Aedes aegypti
+1/mu,26,38.36,Beserra_2009,Aedes aegypti
+1/mu,28,22.36,Beserra_2009,Aedes aegypti
+1/mu,32,11.22,Beserra_2009,Aedes aegypti
+1/mu,34,10.92,Beserra_2009,Aedes aegypti
+a,15,0.078125,Lardeux et al 2008,Anopheles pseudopunctipennis
+a,20,0.15625,Lardeux et al 2008,Anopheles pseudopunctipennis
+a,23,0.196078431,Lardeux et al 2008,Anopheles pseudopunctipennis
+a,25,0.285714286,Lardeux et al 2008,Anopheles pseudopunctipennis
+a,27,0.303030303,Lardeux et al 2008,Anopheles pseudopunctipennis
+a,29,0.37037037,Lardeux et al 2008,Anopheles pseudopunctipennis
+a,31,0.476190476,Lardeux et al 2008,Anopheles pseudopunctipennis
+a,33,0.416666667,Lardeux et al 2008,Anopheles pseudopunctipennis
+a,35,0.434782609,Lardeux et al 2008,Anopheles pseudopunctipennis
+a,22,0.136986301,Focks_Barrera_2006_Research&TrainingTropicalDis_Geneva_Paper,Aedes aegypti
+a,24,0.163934426,Focks_Barrera_2006_Research&TrainingTropicalDis_Geneva_Paper,Aedes aegypti
+a,26,0.238095238,Focks_Barrera_2006_Research&TrainingTropicalDis_Geneva_Paper,Aedes aegypti
+a,28,0.285714286,Focks_Barrera_2006_Research&TrainingTropicalDis_Geneva_Paper,Aedes aegypti
+a,30,0.344827586,Focks_Barrera_2006_Research&TrainingTropicalDis_Geneva_Paper,Aedes aegypti
+a,32,0.416666667,Focks_Barrera_2006_Research&TrainingTropicalDis_Geneva_Paper,Aedes aegypti
+a,21.68742415,0.167518059,Focks_et_al_1993a_JMedEntom,Aedes aegypti
+a,22.2943022,0.144213433,Focks_et_al_1993a_JMedEntom,Aedes aegypti
+a,22.38953929,0.168599215,Focks_et_al_1993a_JMedEntom,Aedes aegypti
+a,22.92476429,0.168082804,Focks_et_al_1993a_JMedEntom,Aedes aegypti
+a,24.39558634,0.25167012,Focks_et_al_1993a_JMedEntom,Aedes aegypti
+a,25.01425641,0.251952493,Focks_et_al_1993a_JMedEntom,Aedes aegypti
+a,25.87751143,0.202140476,Focks_et_al_1993a_JMedEntom,Aedes aegypti
+a,26.16176525,0.202270215,Focks_et_al_1993a_JMedEntom,Aedes aegypti
+a,27.47748918,0.307846963,Focks_et_al_1993a_JMedEntom,Aedes aegypti
+a,28.18628204,0.27698188,Focks_et_al_1993a_JMedEntom,Aedes aegypti
+a,40,0,Morin_et_al_2015,Aedes aegypti
+EFD,10.57413184,0.033741077,Yang_et_al_2008_EpidInfect,Aedes aegypti
+EFD,10.81052189,0.067996215,Yang_et_al_2008_EpidInfect,Aedes aegypti
+EFD,15.30290639,0.373021158,Yang_et_al_2008_EpidInfect,Aedes aegypti
+EFD,16.55096406,1.06293739,Yang_et_al_2008_EpidInfect,Aedes aegypti
+EFD,20.0580655,3.340506817,Yang_et_al_2008_EpidInfect,Aedes aegypti
+EFD,21.84793149,3.58010585,Yang_et_al_2008_EpidInfect,Aedes aegypti
+EFD,25.58830746,6.998562967,Yang_et_al_2008_EpidInfect,Aedes aegypti
+EFD,27.61388198,7.514493008,Yang_et_al_2008_EpidInfect,Aedes aegypti
+EFD,31.6687307,7.232226934,Yang_et_al_2008_EpidInfect,Aedes aegypti
+EFD,33.42559166,7.195214562,Yang_et_al_2008_EpidInfect,Aedes aegypti
+EFD,31.32446579,9.5151239,Yang_et_al_2008_EpidInfect,Aedes aegypti
+EFD,32.5359161,11.20797261,Yang_et_al_2008_EpidInfect,Aedes aegypti
+EFD,18,2.141552511,Beserra_2009,Aedes aegypti
+EFD,22,2.449127907,Beserra_2009,Aedes aegypti
+EFD,26,23.98271799,Beserra_2009,Aedes aegypti
+EFD,28,4.822592324,Beserra_2009,Aedes aegypti
+EFD,32,3.764880952,Beserra_2009,Aedes aegypti
+EFD,34,7.262611276,Beserra_2009,Aedes aegypti
+EFD,18,0.248249523,Beserra_2009,Aedes aegypti
+EFD,22,4.318681319,Beserra_2009,Aedes aegypti
+EFD,26,2.205229403,Beserra_2009,Aedes aegypti
+EFD,28,3.922574627,Beserra_2009,Aedes aegypti
+EFD,32,0.799522673,Beserra_2009,Aedes aegypti
+EFD,34,0.279605263,Beserra_2009,Aedes aegypti
+EFD,18,3.074547861,Beserra_2009,Aedes aegypti
+EFD,22,0.598221504,Beserra_2009,Aedes aegypti
+EFD,26,5.596976017,Beserra_2009,Aedes aegypti
+EFD,28,17.40608229,Beserra_2009,Aedes aegypti
+EFD,32,2.254901961,Beserra_2009,Aedes aegypti
+EFD,34,0.164835165,Beserra_2009,Aedes aegypti
+EFD,15,0,Calado&Navarro-Silva_2002,Aedes albopictus
+EFD,20,1.3,Calado&Navarro-Silva_2002,Aedes albopictus
+EFD,25,4.2,Calado&Navarro-Silva_2002,Aedes albopictus
+EFD,30,3.73,Calado&Navarro-Silva_2002,Aedes albopictus
+EFD,14,0,Joshi_1996,Aedes krombeini
+EFD,18,4.465217391,Joshi_1996,Aedes krombeini
+EFD,22,13.171875,Joshi_1996,Aedes krombeini
+EFD,26,14.41428571,Joshi_1996,Aedes krombeini
+EFD,30,13.68965517,Joshi_1996,Aedes krombeini
+EFD,33.5,0,Joshi_1996,Aedes krombeini
+EFD,35,0,Joshi_1996,Aedes krombeini
+PDR,22,0.04,Focks_Barrera_2006_Research&TrainingTropicalDis_Geneva_Paper,Aedes aegypti
+PDR,24,0.05,Focks_Barrera_2006_Research&TrainingTropicalDis_Geneva_Paper,Aedes aegypti
+PDR,26,0.07,Focks_Barrera_2006_Research&TrainingTropicalDis_Geneva_Paper,Aedes aegypti
+PDR,28,0.08,Focks_Barrera_2006_Research&TrainingTropicalDis_Geneva_Paper,Aedes aegypti
+PDR,30,0.1,Focks_Barrera_2006_Research&TrainingTropicalDis_Geneva_Paper,Aedes aegypti
+PDR,32,0.12,Focks_Barrera_2006_Research&TrainingTropicalDis_Geneva_Paper,Aedes aegypti
+PDR,12.7926332,0.031166238,Focks_et_al_1995_AJTMH,Aedes aegypti
+PDR,13.0444544,0.03996839,Focks_et_al_1995_AJTMH,Aedes aegypti
+PDR,23.75322701,0.050063629,Focks_et_al_1995_AJTMH,Aedes aegypti
+PDR,23.89829743,0.074975724,Focks_et_al_1995_AJTMH,Aedes aegypti
+PDR,23.95725071,0.098061249,Focks_et_al_1995_AJTMH,Aedes aegypti
+PDR,30.04481175,0.082955985,Focks_et_al_1995_AJTMH,Aedes aegypti
+PDR,28.946104,0.202740055,Focks_et_al_1995_AJTMH,Aedes aegypti
+PDR,31.93480856,0.143526165,Focks_et_al_1995_AJTMH,Aedes aegypti
+PDR,34.37511156,0.202355561,Focks_et_al_1995_AJTMH,Aedes aegypti
+PDR,34.95802345,0.20866162,Focks_et_al_1995_AJTMH,Aedes aegypti
+PDR,30,0.04,Watts_et_al_1987_AJTMH,Aedes aegypti
+PDR,32,0.142857143,Watts_et_al_1987_AJTMH,Aedes aegypti
+PDR,35,0.142857143,Watts_et_al_1987_AJTMH,Aedes aegypti
+PDR,30,0.083333333,Watts_et_al_1987_AJTMH,Aedes aegypti
+PDR,32.22,0.166666667,McLean_et_al_1974_CanJMicobiol,Aedes aegypti
+PDR,26.67,0.076923077,McLean_et_al_1974_CanJMicobiol,Aedes aegypti
+PDR,12.78,0.028571429,McLean_et_al_1974_CanJMicobiol,Aedes aegypti
+PDR,35,0.181818182,McLean_et_al_1974_CanJMicobiol,Aedes aegypti
+PDR,32.22,0.166666667,McLean_et_al_1974_CanJMicobiol,Aedes aegypti
+PDR,23.89,0.166666667,McLean_et_al_1974_CanJMicobiol,Aedes aegypti
+PDR,12.78,0.076923077,McLean_et_al_1974_CanJMicobiol,Aedes aegypti
+PDR,13,0.03125,McLeah_et_al_1975_MosquitoNews,Aedes aegypti
+PDR,21,0.03125,McLeah_et_al_1975_MosquitoNews,Aedes aegypti
+PDR,23.4,0.09091,Davis_1932_AmJEpidemiology,Aedes aegypti
+PDR,36,0.2,Davis_1932_AmJEpidemiology,Aedes aegypti
+PDR,8,0,Davis_1932_AmJEpidemiology,Aedes aegypti
+PDR,36,0.2,Davis_1932_AmJEpidemiology,Aedes aegypti
+PDR,31,0.16667,Davis_1932_AmJEpidemiology,Aedes aegypti
+PDR,21,0.05556,Davis_1932_AmJEpidemiology,Aedes aegypti
+PDR,20,0.033783784,Carrington_et_al_2013_PNTD,Aedes aegypti
+PDR,26,0.09009009,Carrington_et_al_2013_PNTD,Aedes aegypti
+PDR,30,0.19379845,Carrington_et_al_2013_PNTD,Aedes aegypti
+PDR,35,0.19379845,Carrington_et_al_2013_PNTD,Aedes aegypti
+PDR,21.98687916,0.111533588,Blanc_1930,Aedes aegypti
+PDR,22.50933058,0.067194369,Blanc_1930,Aedes aegypti
+PDR,23.97644601,0.056072407,Watts_1987,Aedes aegypti
+PDR,25.97645823,0.056105076,Watts_1987,Aedes aegypti
+PDR,25.9834218,0.084000718,Watts_1987,Aedes aegypti
+PDR,29.96823632,0.04030256,Watts_1987,Aedes aegypti
+PDR,29.97648266,0.056170527,Watts_1987,Aedes aegypti
+PDR,29.98344624,0.08414752,Watts_1987,Aedes aegypti
+PDR,31.98932252,0.145157829,Watts_1987,Aedes aegypti
+PDR,34.98934084,0.145486781,Watts_1987,Aedes aegypti
+PDR,25.98708684,0.113773716,Rohani_2009,Aedes aegypti
+PDR,27.98709906,0.113908294,Rohani_2009,Aedes aegypti
+PDR,29.99169258,0.205149123,Rohani_2009,Aedes aegypti
+PDR,29.98711128,0.114043191,Anderson_2006,Aedes aegypti
+PDR,29.99169258,0.205149123,Anderson_2006,Aedes aegypti
+PDR,29.99297534,0.264259887,Anderson_2006,Aedes aegypti
+PDR,29.99407485,0.350930332,Anderson_2006,Aedes aegypti
+PDR,29.99499111,0.482917404,Anderson_2006,Aedes aegypti
+PDR,27.99277987,0.253145199,Salazar_2007,Aedes aegypti
+PDR,21,0.1,Xiao_et_al_2014_Arch Virol,Aedes albopictus
+PDR,26,0.142857143,Xiao_et_al_2014_Arch Virol,Aedes albopictus
+PDR,31,0.25,Xiao_et_al_2014_Arch Virol,Aedes albopictus
+PDR,36,0.25,Xiao_et_al_2014_Arch Virol,Aedes albopictus
+pEA,22,0.90812,Westbrook_Thesis_2010,Aedes aegypti
+pEA,27,0.9359,Westbrook_Thesis_2010,Aedes aegypti
+pEA,32,0.81944,Westbrook_Thesis_2010,Aedes aegypti
+pEA,15,0.0311,Rueda_et_al_1990_EntSocAm,Aedes aegypti
+pEA,20,0.918,Rueda_et_al_1990_EntSocAm,Aedes aegypti
+pEA,25,0.6258,Rueda_et_al_1990_EntSocAm,Aedes aegypti
+pEA,27,0.8976,Rueda_et_al_1990_EntSocAm,Aedes aegypti
+pEA,30,0.6634,Rueda_et_al_1990_EntSocAm,Aedes aegypti
+pEA,34,0.5914,Rueda_et_al_1990_EntSocAm,Aedes aegypti
+pEA,10,0,Tun-Lin_et_al_2000_MedVetEnto,Aedes aegypti
+pEA,15,0.235,Tun-Lin_et_al_2000_MedVetEnto,Aedes aegypti
+pEA,20,0.9,Tun-Lin_et_al_2000_MedVetEnto,Aedes aegypti
+pEA,25,0.88,Tun-Lin_et_al_2000_MedVetEnto,Aedes aegypti
+pEA,27,0.93,Tun-Lin_et_al_2000_MedVetEnto,Aedes aegypti
+pEA,30,0.88,Tun-Lin_et_al_2000_MedVetEnto,Aedes aegypti
+pEA,35,0.67,Tun-Lin_et_al_2000_MedVetEnto,Aedes aegypti
+pEA,40,0,Tun-Lin_et_al_2000_MedVetEnto,Aedes aegypti
+pEA,20,0.56,Kamimura_et_al_2002_JapanSocMedEnt&Zoo,Aedes aegypti
+pEA,25,0.92,Kamimura_et_al_2002_JapanSocMedEnt&Zoo,Aedes aegypti
+pEA,30,0.94,Kamimura_et_al_2002_JapanSocMedEnt&Zoo,Aedes aegypti
+pEA,20,0.54,Kamimura_et_al_2002_JapanSocMedEnt&Zoo,Aedes aegypti
+pEA,25,0.82,Kamimura_et_al_2002_JapanSocMedEnt&Zoo,Aedes aegypti
+pEA,30,0.86,Kamimura_et_al_2002_JapanSocMedEnt&Zoo,Aedes aegypti
+pEA,20,0.7,Kamimura_et_al_2002_JapanSocMedEnt&Zoo,Aedes aegypti
+pEA,25,0.86,Kamimura_et_al_2002_JapanSocMedEnt&Zoo,Aedes aegypti
+pEA,30,1,Kamimura_et_al_2002_JapanSocMedEnt&Zoo,Aedes aegypti
+pEA,1,0,Eisen_et_al_2014,Aedes aegypti
+pEA,7,0,Eisen_et_al_2014,Aedes aegypti
+pEA,36,0,Eisen_et_al_2014,Aedes aegypti
+pEA,38,0,Eisen_et_al_2014,Aedes aegypti
+pEA,9,0,Eisen_et_al_2014,Aedes aegypti
+pEA,10,0,Eisen_et_al_2014,Aedes aegypti
+pEA,11,0,Eisen_et_al_2014,Aedes aegypti
+pEA,12,0,Eisen_et_al_2014,Aedes aegypti
+pEA,13,0,Eisen_et_al_2014,Aedes aegypti
+pEA,38,0,Eisen_et_al_2014,Aedes aegypti
+pEA,40,0,Eisen_et_al_2014,Aedes aegypti
+pEA,43,0,Eisen_et_al_2014,Aedes aegypti
+pEA,46,0,Eisen_et_al_2014,Aedes aegypti
+pEA,49,0,Eisen_et_al_2014,Aedes aegypti
+pEA,52,0,Eisen_et_al_2014,Aedes aegypti
+pEA,7,0,Eisen_et_al_2014,Aedes aegypti
+pEA,9,0,Eisen_et_al_2014,Aedes aegypti
+pEA,10,0,Eisen_et_al_2014,Aedes aegypti
+pEA,11,0,Eisen_et_al_2014,Aedes aegypti
+pEA,12,0,Eisen_et_al_2014,Aedes aegypti
+pEA,38,0,Eisen_et_al_2014,Aedes aegypti
+pEA,43,0,Eisen_et_al_2014,Aedes aegypti
+pEA,44,0,Eisen_et_al_2014,Aedes aegypti
+pEA,45,0,Eisen_et_al_2014,Aedes aegypti
+pEA,46,0,Eisen_et_al_2014,Aedes aegypti
+pEA,47,0,Eisen_et_al_2014,Aedes aegypti
+pEA,48,0,Eisen_et_al_2014,Aedes aegypti
+pEA,49,0,Eisen_et_al_2014,Aedes aegypti
+pEA,52,0,Eisen_et_al_2014,Aedes aegypti
+MDR,15,0.01807,Rueda_et_al_1990_EntSocAm,Aedes aegypti
+MDR,20,0.08045,Rueda_et_al_1990_EntSocAm,Aedes aegypti
+MDR,27,0.08532,Rueda_et_al_1990_EntSocAm,Aedes aegypti
+MDR,25,0.15723,Rueda_et_al_1990_EntSocAm,Aedes aegypti
+MDR,30,0.14577,Rueda_et_al_1990_EntSocAm,Aedes aegypti
+MDR,34,0.1626,Rueda_et_al_1990_EntSocAm,Aedes aegypti
+MDR,15,0.02519,Tun-Lin_et_al_2000_MedVetEnto,Aedes aegypti
+MDR,20,0.07299,Tun-Lin_et_al_2000_MedVetEnto,Aedes aegypti
+MDR,25,0.10309,Tun-Lin_et_al_2000_MedVetEnto,Aedes aegypti
+MDR,30,0.11905,Tun-Lin_et_al_2000_MedVetEnto,Aedes aegypti
+MDR,35,0.13889,Tun-Lin_et_al_2000_MedVetEnto,Aedes aegypti
+MDR,20,0.00104,Kamimura_et_al_2002_JapanSocMedEnt&Zoo,Aedes aegypti
+MDR,25,0.09634,Kamimura_et_al_2002_JapanSocMedEnt&Zoo,Aedes aegypti
+MDR,30,0.1218,Kamimura_et_al_2002_JapanSocMedEnt&Zoo,Aedes aegypti
+MDR,20,0.06215,Kamimura_et_al_2002_JapanSocMedEnt&Zoo,Aedes aegypti
+MDR,25,0.09285,Kamimura_et_al_2002_JapanSocMedEnt&Zoo,Aedes aegypti
+MDR,30,0.12804,Kamimura_et_al_2002_JapanSocMedEnt&Zoo,Aedes aegypti
+MDR,20,0.06427,Kamimura_et_al_2002_JapanSocMedEnt&Zoo,Aedes aegypti
+MDR,25,0.08467,Kamimura_et_al_2002_JapanSocMedEnt&Zoo,Aedes aegypti
+MDR,30,0.13333,Kamimura_et_al_2002_JapanSocMedEnt&Zoo,Aedes aegypti
+MDR,20,0.062663185,Ezeakacha_Dissertation_2015,Aedes albopictus
+MDR,20,0.060913091,Ezeakacha_Dissertation_2015,Aedes albopictus
+MDR,20,0.054318904,Ezeakacha_Dissertation_2015,Aedes albopictus
+MDR,27,0.12064632,Ezeakacha_Dissertation_2015,Aedes albopictus
+MDR,27,0.112511735,Ezeakacha_Dissertation_2015,Aedes albopictus
+MDR,27,0.095997154,Ezeakacha_Dissertation_2015,Aedes albopictus
+MDR,34,0.101061142,Ezeakacha_Dissertation_2015,Aedes albopictus
+MDR,34,0.095663265,Ezeakacha_Dissertation_2015,Aedes albopictus
+MDR,34,0.084262451,Ezeakacha_Dissertation_2015,Aedes albopictus
+MDR,15,0.032876712,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,15,0.027952481,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,15,0.029813665,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,15,0.032476319,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,15,0.028985507,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,15,0.03033367,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,15,0.033333333,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,15,0.029739777,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,20,0.104347826,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,20,0.082379863,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,20,0.089241448,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,20,0.092273892,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,20,0.071319409,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,20,0.071784646,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,20,0.106904232,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,20,0.082987552,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,25,0.144578313,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,25,0.145228216,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,25,0.131004367,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,25,0.176322418,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,25,0.122511485,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,25,0.108583247,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,25,0.128824477,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,25,0.105527638,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,30,0.211764706,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,30,0.199445983,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,30,0.162162162,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,30,0.171428571,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,30,0.154340836,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,30,0.115226337,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,30,0.147239264,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,30,0.151679307,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,35,0.190800681,Delatte_etal_2009_JMedEnto,Aedes albopictus
+MDR,35,0.181818182,Delatte_etal_2009_JMedEnto,Aedes albopictus
+pEA,5,0,Delatte_etal_2009_JMedEnto,Aedes albopictus
+pEA,10,0,Delatte_etal_2009_JMedEnto,Aedes albopictus
+pEA,15,0.363636364,Delatte_etal_2009_JMedEnto,Aedes albopictus
+pEA,20,0.476923077,Delatte_etal_2009_JMedEnto,Aedes albopictus
+pEA,25,0.469230769,Delatte_etal_2009_JMedEnto,Aedes albopictus
+pEA,30,0.385714286,Delatte_etal_2009_JMedEnto,Aedes albopictus
+pEA,35,0.015789474,Delatte_etal_2009_JMedEnto,Aedes albopictus
+pEA,40,0,Delatte_etal_2009_JMedEnto,Aedes albopictus
+pEA,22,0.880885312,Westbrook_Thesis_2010,Aedes albopictus
+pEA,27,0.984909457,Westbrook_Thesis_2010,Aedes albopictus
+pEA,32,0.89416499,Westbrook_Thesis_2010,Aedes albopictus
+pEA,22,0.908119658,Westbrook_Thesis_2010,Aedes albopictus
+pEA,27,0.935897436,Westbrook_Thesis_2010,Aedes albopictus
+pEA,32,0.819444444,Westbrook_Thesis_2010,Aedes albopictus
+pEA,25,0.891891892,Witwatana_Kittayaong_2006_Med&VetEnt,Aedes albopictus
+pEA,37,0.298327759,Witwatana_Kittayaong_2006_Med&VetEnt,Aedes albopictus
+pEA,15,0.625,Teng_Apperson_2000_JMedEnto,Aedes albopictus
+pEA,23,0.712264151,Teng_Apperson_2000_JMedEnto,Aedes albopictus
+pEA,31,0.804245283,Teng_Apperson_2000_JMedEnto,Aedes albopictus
+pEA,20,0.826839443,Muturi_et_al_2011_JMedEnto,Aedes albopictus
+pEA,25,0.994069568,Muturi_et_al_2011_JMedEnto,Aedes albopictus
+pEA,30,0.874589509,Muturi_et_al_2011_JMedEnto,Aedes albopictus
+pEA,20,0.73096605,Muturi_et_al_2011_JMedEnto,Aedes albopictus
+pEA,25,0.70858103,Muturi_et_al_2011_JMedEnto,Aedes albopictus
+pEA,30,0.539920058,Muturi_et_al_2011_JMedEnto,Aedes albopictus
+MDR,22,0.048077455,Alto_et_al_2001b_JMedEnto,Aedes albopictus
+MDR,26,0.054535139,Alto_et_al_2001b_JMedEnto,Aedes albopictus
+MDR,30,0.058846719,Alto_et_al_2001b_JMedEnto,Aedes albopictus
+MDR,18,0.040816327,Westbrook_et_al_2010_VecBorn&ZooDis,Aedes albopictus
+MDR,24,0.090909091,Westbrook_et_al_2010_VecBorn&ZooDis,Aedes albopictus
+MDR,32,0.111111111,Westbrook_et_al_2010_VecBorn&ZooDis,Aedes albopictus
+MDR,25,0.094382022,Witwatana_Kittayaong_2006_Med&VetEnt,Aedes albopictus
+MDR,37,0.130508475,Witwatana_Kittayaong_2006_Med&VetEnt,Aedes albopictus
+MDR,20,0.063694268,Muturi_et_al_2011_JMedEnto,Aedes albopictus
+MDR,25,0.101626016,Muturi_et_al_2011_JMedEnto,Aedes albopictus
+MDR,30,0.121506683,Muturi_et_al_2011_JMedEnto,Aedes albopictus
+MDR,20,0.064102564,Muturi_et_al_2011_JMedEnto,Aedes albopictus
+MDR,25,0.035335689,Muturi_et_al_2011_JMedEnto,Aedes albopictus
+MDR,30,0.063291139,Muturi_et_al_2011_JMedEnto,Aedes albopictus
+MDR,22,0.075543232,Westbrook_Thesis_2010,Aedes albopictus
+MDR,27,0.10843753,Westbrook_Thesis_2010,Aedes albopictus
+MDR,32,0.121396268,Westbrook_Thesis_2010,Aedes albopictus
+MDR,22,0.091743119,Westbrook_Thesis_2010,Aedes albopictus
+MDR,27,0.135869565,Westbrook_Thesis_2010,Aedes albopictus
+MDR,32,0.158227848,Westbrook_Thesis_2010,Aedes albopictus
+MDR,12,0.01818,Briegel_etal_2001_JMedEnto,Aedes albopictus
+MDR,17,0.02941,Briegel_etal_2001_JMedEnto,Aedes albopictus
+MDR,27,0.07143,Briegel_etal_2001_JMedEnto,Aedes albopictus
+MDR,32,0.03125,Briegel_etal_2001_JMedEnto,Aedes albopictus
+MDR,21,0.04376784,Yee_et al_2016 JAE_in_review,Aedes albopictus
+MDR,21,0.048780488,Yee_et al_2016 JAE_in_review,Aedes albopictus
+MDR,21,0.058541257,Yee_et al_2016 JAE_in_review,Aedes albopictus
+MDR,21,0.063263832,Yee_et al_2016 JAE_in_review,Aedes albopictus
+MDR,21,0.060371526,Yee_et al_2016 JAE_in_review,Aedes albopictus
+MDR,21,0.062151408,Yee_et al_2016 JAE_in_review,Aedes albopictus
+MDR,21,0.058823529,Yee_et al_2016 JAE_in_review,Aedes albopictus
+MDR,21,0.063636346,Yee_et al_2016 JAE_in_review,Aedes albopictus
+MDR,25,0.072192523,Yee_et al_2016 JAE_in_review,Aedes albopictus
+MDR,25,0.065246341,Yee_et al_2016 JAE_in_review,Aedes albopictus
+MDR,25,0.090329422,Yee_et al_2016 JAE_in_review,Aedes albopictus
+MDR,25,0.09185444,Yee_et al_2016 JAE_in_review,Aedes albopictus
+MDR,25,0.089051081,Yee_et al_2016 JAE_in_review,Aedes albopictus
+MDR,25,0.084905644,Yee_et al_2016 JAE_in_review,Aedes albopictus
+MDR,25,0.08349148,Yee_et al_2016 JAE_in_review,Aedes albopictus
+MDR,25,0.085127176,Yee_et al_2016 JAE_in_review,Aedes albopictus
+MDR,15,0.012539185,Calado_Navarro-Silva_2002b_RevSaudaPublica,Aedes albopictus
+MDR,20,0.025510204,Calado_Navarro-Silva_2002b_RevSaudaPublica,Aedes albopictus
+MDR,25,0.042087542,Calado_Navarro-Silva_2002b_RevSaudaPublica,Aedes albopictus
+MDR,30,0.054112554,Calado_Navarro-Silva_2002b_RevSaudaPublica,Aedes albopictus
+pEA,6,0,Jalil 1972,Aedes triseriatus
+pEA,8,0,Jalil 1972,Aedes triseriatus
+pEA,10,0.308333333,Jalil 1972,Aedes triseriatus
+pEA,12,0.383333333,Jalil 1972,Aedes triseriatus
+pEA,16,0.55,Jalil 1972,Aedes triseriatus
+pEA,20,0.716666667,Jalil 1972,Aedes triseriatus
+pEA,24,0.775,Jalil 1972,Aedes triseriatus
+pEA,28,0.716666667,Jalil 1972,Aedes triseriatus
+pEA,32,0.633333333,Jalil 1972,Aedes triseriatus
+pEA,36,0.175,Jalil 1972,Aedes triseriatus
+pEA,38,0,Jalil 1972,Aedes triseriatus
+MDR,6,0,Jalil 1972,Aedes triseriatus
+MDR,8,0,Jalil 1972,Aedes triseriatus
+MDR,10,0.016393443,Jalil 1972,Aedes triseriatus
+MDR,12,0.019230769,Jalil 1972,Aedes triseriatus
+MDR,16,0.027777778,Jalil 1972,Aedes triseriatus
+MDR,20,0.05,Jalil 1972,Aedes triseriatus
+MDR,24,0.083333333,Jalil 1972,Aedes triseriatus
+MDR,28,0.111111111,Jalil 1972,Aedes triseriatus
+MDR,32,0.142857143,Jalil 1972,Aedes triseriatus
+MDR,36,0.125,Jalil 1972,Aedes triseriatus
+MDR,38,0,Jalil 1972,Aedes triseriatus

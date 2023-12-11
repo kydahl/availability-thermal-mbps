@@ -1,0 +1,52 @@
+Ref,Trait Name,T,trait,ErrorPosSI,ErrorNegSI,Trait2.name,Trait,host.code,paras.code,Citation,Figure,Notes
+Verwillow_39,GCD,10,14.29,NA,NA,NA,NA,Ctar,NA,Reisen_1992_JMedEntomol,Figure 5,Reported as a; changed to GCD to match other data
+Verwillow_39,GCD,15,8.33,NA,NA,NA,NA,Ctar,NA,Reisen_1992_JMedEntomol,Figure 5,Reported as a; changed to GCD to match other data
+Verwillow_39,GCD,20,4.35,NA,NA,NA,NA,Ctar,NA,Reisen_1992_JMedEntomol,Figure 5,Reported as a; changed to GCD to match other data
+Verwillow_39,GCD,25,4,NA,NA,NA,NA,Ctar,NA,Reisen_1992_JMedEntomol,Figure 5,Reported as a; changed to GCD to match other data
+Verwillow_39,GCD,30,5.26,NA,NA,NA,NA,Ctar,NA,Reisen_1992_JMedEntomol,Figure 5,Reported as a; changed to GCD to match other data
+Verwillow_40,GCD,10,25,NA,NA,NA,NA,Cqui,NA,Reisen_1992_JMedEntomol,Figure 5,Reported as a; changed to GCD to match other data
+Verwillow_40,GCD,15,14.29,NA,NA,NA,NA,Cqui,NA,Reisen_1992_JMedEntomol,Figure 5,Reported as a; changed to GCD to match other data
+Verwillow_40,GCD,20,9.09,NA,NA,NA,NA,Cqui,NA,Reisen_1992_JMedEntomol,Figure 5,Reported as a; changed to GCD to match other data
+Verwillow_40,GCD,25,9.09,NA,NA,NA,NA,Cqui,NA,Reisen_1992_JMedEntomol,Figure 5,Reported as a; changed to GCD to match other data
+Verwillow_40,GCD,30,7.69,NA,NA,NA,NA,Cqui,NA,Reisen_1992_JMedEntomol,Figure 5,Reported as a; changed to GCD to match other data
+Verwillow_41,GCD,16,8.42276423,NA,NA,NA,NA,Cpip,NA,Ruybal_2016_Parasites&Vectors,Figure 5,We calculated the time difference between 1st and 2nd ovipositions - not directly reported in figure
+Verwillow_41,GCD,16,14.05691057,NA,NA,NA,NA,Cpip,NA,Ruybal_2016_Parasites&Vectors,Figure 5,We calculated the time difference between 1st and 2nd ovipositions - not directly reported in figure
+Verwillow_41,GCD,16,10.47154472,NA,NA,NA,NA,Cpip,NA,Ruybal_2016_Parasites&Vectors,Figure 5,We calculated the time difference between 1st and 2nd ovipositions - not directly reported in figure
+Verwillow_41,GCD,27,3.06646526,NA,NA,NA,NA,Cpip,NA,Ruybal_2016_Parasites&Vectors,Figure 5,We calculated the time difference between 1st and 2nd ovipositions - not directly reported in figure
+Verwillow_41,GCD,27,3.066465258,NA,NA,NA,NA,Cpip,NA,Ruybal_2016_Parasites&Vectors,Figure 5,We calculated the time difference between 1st and 2nd ovipositions - not directly reported in figure
+Verwillow_41,GCD,27,3.119335345,NA,NA,NA,NA,Cpip,NA,Ruybal_2016_Parasites&Vectors,Figure 5,We calculated the time difference between 1st and 2nd ovipositions - not directly reported in figure
+Verwillow_41,GCD,31,3.585365853,NA,NA,NA,NA,Cpip,NA,Ruybal_2016_Parasites&Vectors,Figure 5,We calculated the time difference between 1st and 2nd ovipositions - not directly reported in figure
+Verwillow_41,GCD,31,3.016260163,NA,NA,NA,NA,Cpip,NA,Ruybal_2016_Parasites&Vectors,Figure 5,We calculated the time difference between 1st and 2nd ovipositions - not directly reported in figure
+Verwillow_41,GCD,31,2.048780488,NA,NA,NA,NA,Cpip,NA,Ruybal_2016_Parasites&Vectors,Figure 5,We calculated the time difference between 1st and 2nd ovipositions - not directly reported in figure
+Verwillow_41,GCD,31,3.073170732,NA,NA,NA,NA,Cpip,NA,Ruybal_2016_Parasites&Vectors,Figure 5,We calculated the time difference between 1st and 2nd ovipositions - not directly reported in figure
+Verwillow_41,GCD,35,2.061933534,NA,NA,NA,NA,Cpip,NA,Ruybal_2016_Parasites&Vectors,Figure 5,We calculated the time difference between 1st and 2nd ovipositions - not directly reported in figure
+Slamani_21,GCD,10,25.51,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 4,Translated from Chinese paper
+Slamani_21,GCD,15,10.69,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 4,Translated from Chinese paper
+Slamani_21,GCD,20,7,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 4,Translated from Chinese paper
+Slamani_21,GCD,25,6.33,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 4,Translated from Chinese paper
+Slamani_21,GCD,30,4.43,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 4,Translated from Chinese paper
+Slamani_21,GCD,35,3.07,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 4,Translated from Chinese paper
+Slamani_21,GCD,40,1000,NA,NA,NA,NA,Cpip,NA,Ju-lin_2017_ChinJVectorBiol&Control,Table 4,0 ovipositions; Translated from Chinese paper
+Shocket,GCD,10,1000,NA,NA,NA,NA,Cpal,NA,Mogi_1992_AnnalsoftheEnt.SocietyofAmerica,Results text,Day length co-varied with temperature - 10 hr for 15 degrees
+Shocket,GCD,25,4.5,NA,NA,NA,NA,Cqui,NA,Teckle_1960_AJTMH,Table 9,Used old name fatigans which later is now synonymous with quinquefasciatus
+Shocket,GCD,20,8.5,NA,NA,NA,NA,Cqui,NA,Teckle_1960_AJTMH,Table 9,Used old name fatigans which later is now synonymous with quinquefasciatus
+Shocket,GCD,15,19,NA,NA,NA,NA,Cqui,NA,Teckle_1960_AJTMH,Table 9,Used old name fatigans which later is now synonymous with quinquefasciatus
+Shocket,GCD,10,37.5,NA,NA,NA,NA,Cqui,NA,Teckle_1960_AJTMH,Table 9,Used old name fatigans which later is now synonymous with quinquefasciatus
+Shocket,GCD,5,1000,NA,NA,NA,NA,Cqui,NA,Teckle_1960_AJTMH,Table 9,Used old name fatigans which later is now synonymous with quinquefasciatus; 0 ovipositions
+Shocket,GCD,25,4.5,NA,NA,NA,NA,Cpip,NA,Teckle_1960_AJTMH,Table 9,
+Shocket,GCD,20,8.5,NA,NA,NA,NA,Cpip,NA,Teckle_1960_AJTMH,Table 9,
+Shocket,GCD,15,17.5,NA,NA,NA,NA,Cpip,NA,Teckle_1960_AJTMH,Table 9,
+Shocket,GCD,10,32.5,NA,NA,NA,NA,Cpip,NA,Teckle_1960_AJTMH,Table 9,
+Shocket,GCD,5,1000,NA,NA,NA,NA,Cpip,NA,Teckle_1960_AJTMH,Table 9,0 ovipositions
+Shocket,GCD,30,3.5,1.9,1.9,NA,NA,Cpip,NA,Madder_1983_JMedEntom,Table 11,
+Shocket,GCD,25,4.8,0.77,0.77,NA,NA,Cpip,NA,Madder_1983_JMedEntom,Table 11,
+Shocket,GCD,22,5.6,0.71,0.71,NA,NA,Cpip,NA,Madder_1983_JMedEntom,Table 11,
+Shocket,GCD,20,6.1,0.57,0.57,NA,NA,Cpip,NA,Madder_1983_JMedEntom,Table 11,
+Shocket,GCD,17,15.2,1.3,1.3,NA,NA,Cpip,NA,Madder_1983_JMedEntom,Table 11,
+Shocket,GCD,2,1000,NA,NA,NA,NA,Cmel,NA,Mahmood_1997_JAMCA,Table 1,No eggs laid
+Shocket,GCD,10,23.2,3.06,3.06,NA,NA,Cmel,NA,Mahmood_1997_JAMCA,Table 1,
+Shocket,GCD,16,11.5,1.27,1.27,NA,NA,Cmel,NA,Mahmood_1997_JAMCA,Table 1,
+Shocket,GCD,22,5.7,0.48,0.48,NA,NA,Cmel,NA,Mahmood_1997_JAMCA,Table 1,
+Shocket,GCD,28,4.5,0.2,0.2,NA,NA,Cmel,NA,Mahmood_1997_JAMCA,Table 1,
+Shocket,GCD,32,1000,NA,NA,NA,NA,Cmel,NA,Mahmood_1997_JAMCA,Table 1,No eggs hatched
+Shocket,GCD,34,1000,NA,NA,NA,NA,Cmel,NA,Mahmood_1997_JAMCA,Table 1,No eggs laid
