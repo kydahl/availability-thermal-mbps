@@ -42,6 +42,20 @@ plot_bool <- FALSE
 source("code/get-thermal-trait-priors.R")
 write_rds(data.in.transform, "results/TPC_param_samples.rds")
 
+# Get summary statistics of each trait for each system
+table <- read_rds("results/TPC_param_samples.rds") %>% 
+  pivot_longer(cols = c("c","T0", "Tm"), names_to = "hyperparameter") %>% 
+  group_by(system_name = system_ID, trait, hyperparameter, `function` = func) %>% 
+  filter(!is.na(value)) %>% # removes T0 for Culex lifespan, which is linear and hence only has 2 parameters
+  mutate(mean = mean(value),
+            median = median(value),
+            lowHCI_89 = quantile(value, 0.055),
+            highHCI_89 = quantile(value, 0.945)) %>% 
+  dplyr::select(-c(value, sample_num, func, system_ID)) %>% 
+  distinct()
+
+write_csv(table, "results/TPC_fit_summary.csv")
+
 # # Alternatively, run this to load pre-processed data set
 # data.in.transform <- read_rds("results/TPC_param_samples.rds")
 
@@ -58,7 +72,7 @@ source("code/trait-transform.R")
 
 write_rds(data.in.params, "results/VecTPC_vals.rds", compress = "gz")
 
-# Mean values
+# Save trait mean values
 mean.Vec <- data.in.params %>%
   dplyr::select(-c(mosquito_species, pathogen, muL, etaL)) %>%
   pivot_longer(cols = lf:V0, names_to = "variable", values_to = "value") %>%
@@ -75,7 +89,7 @@ mean.Vec <- data.in.params %>%
 
 write_rds(mean.Vec, "results/meanVec_vals.rds", compress = "gz")
 
-# Median values (this one is used more frequently)
+# Save trait median values (this one is used more frequently)
 median.Vec <- data.in.params %>%
   dplyr::select(-c(mosquito_species, pathogen, muL, etaL)) %>%
   pivot_longer(cols = lf:V0, names_to = "variable", values_to = "value") %>%
