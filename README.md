@@ -1,5 +1,5 @@
-# Vertebrate host availability and the thermal properties of mosquito-borne parasite transmission
-A study using mosquito trait thermal performance curves and models of mosquito-host contact to evaluate the thermal properties of mosquito-borne parasite transmission.
+# Impacts of host availability and temperature on mosquito-borne parasite transmission
+Code and figures for a study of how host availability interacts with the thermal performance of mosquito traits to drive mosquito-borne parasite transmission.
 
 The publication
 ----------------------------
@@ -11,4 +11,4 @@ Notes
 ---------------------------
 Knit 'manuscript-figures.Rmd' to obtain the figures in the manuscript. For full caption descriptions, see the main text. Figures are output to the 'doc' folder.
 
-The data from the analyses conducted can be obtained by running the scripts in the 'code' folder get-mosquito-traits.R then get-analysis-dfs.R . Results are then output to the 'results' folder.
+The data from the analyses conducted can be obtained by running the scripts in the 'code' folder get-mosquito-traits.R then get-outputs.R . Results are then output to the 'results' folder.
