@@ -54,6 +54,14 @@ data.Host <- read_rds("results/Host_vals.rds")
 # Vector trait dataset
 data.Vec <- read_rds("results/VecTPC_vals.rds")
 
+# Thin out the vector trait data samples
+thin_size <- 100
+samples <- unique(data.Vec$sample_num)
+num_samples <- length(samples)
+sample_inds <- sample(samples, min(num_samples, thin_size), replace = FALSE)
+data.Vec <- data.Vec %>%
+  filter(sample_num %in% sample_inds)
+
 # R0 data
 data.R0 <- read_rds("results/R0_vals.rds")
 
@@ -72,28 +80,12 @@ appender_KH <- function(string) {
   unname(TeX(paste("$K_H = $", string)))}
 
 # 2) Set up mosquito trait data frames ----------------------------------------
+## Get summary statistics of vector traits across samples
+# Mean values
+mean.Vec <- read_rds("results/meanVec_vals.rds")
 
-# Get mean values of mosquito traits
-mean.Vec <- data.Vec %>% 
-  select(-c(KL, mosquito_species, pathogen, muL, etaL)) %>% 
-  pivot_longer(cols = lf:V0, names_to = "variable", values_to = "value") %>%
-  group_by(system_ID, Temperature, variable) %>% 
-  summarise(mean = mean(value)) %>% 
-  pivot_wider(names_from = "variable", values_from = "mean") %>% 
-  mutate(etaL = rhoL / (deltaL + eps)) %>%
-  # Aquatic-stage mosquito mortality rate. This should be ~infinite if deltaL = 0
-  mutate(muL = etaL - rhoL)
-
-# Get meadin values of mosquito traits
-median.Vec <- data.Vec %>% 
-  select(-c(KL, mosquito_species, pathogen, muL, etaL)) %>% 
-  pivot_longer(cols = lf:V0, names_to = "variable", values_to = "value") %>%
-  group_by(system_ID, Temperature, variable) %>% 
-  summarise(median = median(value)) %>% 
-  pivot_wider(names_from = "variable", values_from = "median") %>% 
-  mutate(etaL = rhoL / (deltaL + eps)) %>%
-  # Aquatic-stage mosquito mortality rate. This should be ~infinite if deltaL = 0
-  mutate(muL = etaL - rhoL)
+# Median values (this one is used more frequently)
+median.Vec <- read_rds("results/medianVec_vals.rds")
 
 # 3) R0 uncertainty -------------------------------------------------------
 
@@ -132,10 +124,6 @@ full.R0.HPD <- expand_grid(data.R0HPD,
   ) %>% 
   group_by(system_ID, sigmaH, KH) %>%
   mutate(norm_HPD_width = HPD_width / max(HPD_width))
-
-# Save R0 highest posterior density data
-write_rds(full.R0.HPD, "results/full_R0_HPD.rds")
-# full.R0.HPD <- read_rds("results/full_R0_HPD.rds")
 
 # Get focal parameter names
 temp_vars <- data.Vec %>% 
@@ -184,16 +172,16 @@ for (var_name in temp_vars) {
                        bV * betaV * V0 * exp(-1 / (lf * etaV)) / (KH * (gammaH + muH) + eps))) %>%
     # Basic reproduction number
     mutate(R0 = sqrt(RV*RH)) %>%
-    select(system_ID, sample_num, sigmaH, KH, Temperature, R0) %>% 
+    select(system_ID, sample_num, sigmaH, KH, Temperature, R0, HPD_width_var) %>% 
     # c) Calculate the 95% HPD at each temperature
     group_by(system_ID, sigmaH, KH, Temperature) %>% 
-    summarise(
+    mutate(
       HPD_low = hdi(R0, credMass = 0.95)[1],
       HPD_high = hdi(R0, credMass = 0.95)[2],
       HPD_width = HPD_high-HPD_low,
       .groups = "keep"
     ) %>% 
-    select(system_ID, sigmaH, KH, Temperature, HPD_width) %>% 
+    select(system_ID, sigmaH, KH, Temperature, HPD_width, HPD_width_var) %>% 
     right_join(full.R0.HPD %>% 
                  select(-c(HPD_low, HPD_high)) %>% 
                  rename(full_HPD_width = HPD_width)) %>% 
@@ -201,14 +189,14 @@ for (var_name in temp_vars) {
     group_by(system_ID, sigmaH, KH, focal_var, Temperature) %>% 
     # d) Normalize HPD width by the full HPD width when all parameters are allowed to vary
     mutate(rel_HPD_width = ifelse(full_HPD_width %in% c(0,eps), 0, HPD_width / full_HPD_width)) %>%
-    mutate(rel_HPD_width_var = HPD_width / HPD_width_var)
+    mutate(rel_HPD_width_var = HPD_width / HPD_width_var) %>% 
+    distinct()
   
   R0.HPD <- rbind(R0.HPD, temp_df)
 }
 
 # Save R0 relative highest posterior density data
 write_rds(R0.HPD, "results/R0_HPD_unc.rds")
-# R0.HPD <- read_rds("results/R0_HPD_unc.rds")
 
 # 4) ddT R0 uncertainty -------------------------------------------------------
 
@@ -252,9 +240,6 @@ full.ddTR0.HPD <- expand_grid(data.ddTR0HPD,
     HPD_width = max(eps,HPD_high-HPD_low),
     .groups = "keep"
   )
-
-# Save R0 highest posterior density data
-write_rds(full.ddTR0.HPD, "results/full_ddTR0_HPD.rds")
 
 # Get focal parameter names
 temp_vars <- data.Vec %>% 
@@ -335,7 +320,7 @@ KH_length = length(KH_vec)
 sigmaH_vec <- 100
 data.ToptHPD <- dplyr::filter(data.Host, sigmaH %in% sigmaH_vec) %>% 
   select(-KH) %>% 
-  full_join(as_tibble(list(KH = KH_vec)), by = character()) %>% 
+  cross_join(as_tibble(list(KH = KH_vec))) %>% 
   distinct()
 
 # Initialize full Topt HPD dataframe
@@ -387,9 +372,6 @@ full.Topt.HPD <- foreach(index_KH = 1:KH_length,
 # Close progress bar
 close(pb)
 
-# Save Topt highest posterior density data
-write_rds(full.Topt.HPD, "results/full_Topt_HPD.rds")
-
 # Get focal parameter names
 temp_vars <- data.Vec %>% 
   select(-c(system_ID, mosquito_species, pathogen, Temperature, sample_num,
@@ -410,7 +392,7 @@ for (var_name in temp_vars) {
     full_join(mean.Vec %>% 
                 select(-all_of(var_name))%>% 
                 distinct(),
-              by = join_by(system_ID, Temperature)) %>% 
+              by = join_by(system_ID, Temperature, KL)) %>% 
     mutate(V0 = ifelse(sigmaV_f * deltaL < (1 / lf),
                        0,
                        KL * rhoL * lf * (1 - 1 / (lf * sigmaV_f * deltaL)))) %>% 
@@ -547,19 +529,6 @@ full.dToptdKH.HPD <- foreach(index_KH = 2:KH_length,
                                dToptdKH.HPD_func(data.Vec, index_KH)
                              }
 
-# Save Topt highest posterior density data
-write_rds(full.dToptdKH.HPD, "results/full_dToptdKH_HPD.rds")
-
-# # Diagnostic plot
-test.plot <- full.dToptdKH.HPD %>%
-  ggplot(aes(x = KH, y = HPD_width)) +
-  geom_path() +
-  scale_x_continuous(
-    trans = 'log10'
-  ) +
-  facet_grid(rows = vars(system_ID), cols = vars(sigmaH), scales = "free")
-test.plot
-
 # Get focal parameter names
 temp_vars <- data.Vec %>% 
   select(-c(system_ID, mosquito_species, pathogen, Temperature, sample_num,
@@ -659,10 +628,12 @@ for (index_KH in unique(data.CTHPD$KH)) {
     mutate(CTwidth = CTmax - CTmin) %>% 
     # Add back values removed from filtering R0>1 above
     # and assign the right NA values
-    full_join(expand_grid(dplyr::filter(data.CTHPD, KH == index_KH), 
-                          data.Vec) %>% 
-                select(c(Model, system_ID, sample_num, sigmaH,KH)) %>% 
-                distinct()) %>% 
+    full_join(expand_grid(
+      dplyr::filter(data.CTHPD, KH == index_KH), data.Vec) %>% 
+                select(c(Model, system_ID, sample_num, sigmaH, KH)) %>% 
+                distinct(),
+      by = c("sigmaH", "Model", "KH", "system_ID", "sample_num")
+      ) %>% 
     replace_na(list(CTmin = Inf,
                     CTmax = -Inf,
                     CTwidth = 0)) %>% 
@@ -677,9 +648,6 @@ for (index_KH in unique(data.CTHPD$KH)) {
     ) %>% 
     rbind(full.CT.HPD)
 }
-
-# Save Topt highest posterior density data
-write_rds(full.CT.HPD, "results/full_CT_HPD.rds")
 
 # Get focal parameter names
 temp_vars <- data.Vec %>% 
@@ -703,7 +671,7 @@ for (var_name in temp_vars) {
                 mutate(muV = 1/lf) %>% 
                 select(-all_of(var_name))%>% 
                 distinct(),
-              by = c("system_ID", "Temperature")) %>% 
+              by = c("system_ID", "Temperature", "KL")) %>% 
     mutate(lf = 1/muV) %>%
     mutate(V0 = ifelse(sigmaV_f * deltaL < (1 / lf),
                        0,
@@ -817,6 +785,7 @@ data.CT <- data.Host %>%
   dplyr::filter(KH %in% 10^seq(-2,4))
 
 # Slice host trait data
+cluster_size <- parallel::detectCores() - 1
 sigmaH_slices <- slice_func(unique(data.CT$sigmaH), 2)
 KH_slices <- slice_func(unique(data.CT$KH), cluster_size)
 
@@ -869,139 +838,3 @@ all.density.df$sigmaH <- factor(all.density.df$sigmaH,
                                 levels = c(100, Inf))
 
 write_rds(all.density.df, "results/CTminmaxTopt_densities.rds")
-
-# Diagnostic plots --------------------------------------------------------
-
-###* Plot means of mosquito traits ----
-# plot.mean <- mean.Vec %>%
-#   pivot_longer(cols = V0:sigmaV_f, names_to = "variable", values_to = "value") %>%
-#   ggplot(mapping = aes(x = Temperature, y = value, color = system_ID)) +
-#   geom_path() +
-#   facet_wrap(~variable, scales = "free")
-# plot.mean
-
-###* Full R0 HPD diagnostic plot ----
-# R0.HPD.plot <- full.R0.HPD %>%
-#   arrange(system_ID, sigmaH) %>%
-#   ggplot(aes(x = Temperature, y = norm_HPD_width, color = as.factor(KH))) +
-#   geom_path(lwd = 1) +
-#   scale_color_viridis_d(
-#     name = "Vertebrate host population\ndensity (ind/ha)",
-#     breaks = 10^seq(-2, 4),
-#     labels = unname(c(0.01, 0.1, 1, 10, 100, TeX("$10^3$"), TeX("$10^4$"))),
-#     limits = 10^seq(-2, 4)
-#   ) +
-#   scale_y_continuous(name = "Normalized HPD width") +
-#   facet_grid(rows = vars(system_ID), cols =vars(sigmaH),
-#              labeller = labeller(sigmaH = as_labeller(appender_sigmaH,
-#                                                       default = label_parsed),
-#                                  KH = as_labeller(appender_KH,
-#                                                   default = label_parsed)),
-#              scales = "free") +
-#   theme_minimal(16)
-# R0.HPD.plot
-
-###* Full ddTR0 diagnostic plot ----
-# test.plot <- full.ddTR0.HPD %>%
-#   dplyr::filter(KH == 1) %>%
-#   ggplot(aes(x = Temperature, y = HPD_width)) +
-#   geom_path() +
-#   facet_grid(rows = vars(system_ID), cols = vars(sigmaH), scales = "free")
-# test.plot
-
-
-
-###* Full Topt diagnostic plot ----
-# test.plot <- full.Topt.HPD %>%
-#   # dplyr::filter(KH == 1e-2) %>%
-#   ggplot(aes(x = KH, y = HPD_width)) +
-#   geom_path() +
-#   scale_x_continuous(
-#     trans = 'log10'
-#   ) +
-#   facet_grid(rows = vars(system_ID), cols = vars(sigmaH), scales = "free")
-# test.plot
-
-###* Full CT diagnostic plot ----
-# test.plot <- full.CT.HPD %>%
-#   filter(is.finite(HPD_width)) %>%
-#   # filter(variable == "CTmin") %>%
-#   # dplyr::filter(KH == 1e-2) %>%
-#   ggplot(aes(x = KH, y = HPD_width, color = as.factor(sigmaH))) +
-#   geom_path() +
-#   scale_x_continuous(
-#     trans = 'log10'
-#   ) +
-#   facet_grid(rows = vars(system_ID), cols = vars(variable), scales = "free")
-# test.plot
-# ggsave("figures/results/test_plot.svg", 
-#        plot = test.plot,
-#        width = 16, height = 9)
-
-### * Topt density plot ----
-# plot.Topt.density <- Topt.density.df %>%
-#   ggplot(aes(x = Topt)) +
-#   geom_density(aes(color = as.factor(KH), linetype = as.factor(sigmaH)),
-#                lwd = 1, adjust = 1) +
-#   scale_color_viridis_d(
-#     name = "Vertebrate host population\ndensity (ind/ha)",
-#     breaks = 10^seq(-2, 5),
-#     labels = unname(c(0.01, 0.1, 1, 10, 100, TeX("$10^3$"), TeX("$10^4$"), TeX("$10^5$"))),
-#     option = "plasma"
-#   ) +
-#   facet_wrap(~system_ID, ncol = 1, scales = "free") +
-#   theme_minimal_grid()
-
-###* Density plots of CTmin, Topt, CTmax ----
-# plot.CT.density <- CT.density.df %>%
-#   ggplot(aes(x = CTmin)) +
-#   geom_density(aes(color = as.factor(KH), linetype = as.factor(sigmaH)),
-#                lwd = 1, adjust = 1) +
-#   scale_color_viridis_d(
-#     name = "Vertebrate host population\ndensity (ind/ha)",
-#     breaks = 10^seq(-2, 5),
-#     labels = unname(c(0.01, 0.1, 1, 10, 100, TeX("$10^3$"), TeX("$10^4$"), TeX("$10^5$"))),
-#     option = "plasma"
-#   ) +
-#   facet_wrap(~system_ID, ncol = 1, scales = "free") +
-#   theme_minimal_grid()
-
-###* Density plot of CTwidth ----
-# plot.CTwidth.density <- CT.density.df %>% 
-#   dplyr::filter(CTwidth > 0) %>% 
-#   ggplot(aes(x = CTwidth)) +
-#   geom_density(aes(color = as.factor(KH), linetype = as.factor(sigmaH)),
-#                lwd = 1, adjust = 1) +
-#   scale_color_viridis_d(
-#     name = "Vertebrate host population\ndensity (ind/ha)",
-#     breaks = 10^seq(-2, 5),
-#     labels = unname(c(0.01, 0.1, 1, 10, 100, TeX("$10^3$"), TeX("$10^4$"), TeX("$10^5$"))),
-#     option = "plasma"
-#   ) +
-#   facet_wrap(~system_ID, scales = "free", ncol = 1) +
-#   theme_minimal_grid()
-# plot.CTwidth.density
-
-###* Density plot of R0 ----
-# plot.R0.density <- data.R0 %>% 
-#   dplyr::filter(Temperature == 10) %>% 
-#   ggplot(aes(x = median)) +
-#   geom_density(aes(color = as.factor(KH), linetype = as.factor(sigmaH)),
-#                lwd = 1, adjust = 1) +
-#   scale_color_viridis_d(
-#     name = "Vertebrate host population\ndensity (ind/ha)",
-#     breaks = 10^seq(-2, 5),
-#     labels = unname(c(0.01, 0.1, 1, 10, 100, TeX("$10^3$"), TeX("$10^4$"), TeX("$10^5$"))),
-#     option = "plasma"
-#   ) +
-#   facet_wrap(~system_ID, scales = "free", ncol = 1) +
-#   theme_minimal_grid()
-# plot.R0.density
-
-
-
-
-
-
-
-

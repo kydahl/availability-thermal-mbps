@@ -46,8 +46,9 @@ doc/manuscript-figures_files
 *.tiff
 
 # TeX files
-*.tex
+/doc/*.tex
 *.svg
+*.log
 
 # Large data files
 *.rds

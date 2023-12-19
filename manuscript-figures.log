@@ -1,11 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.20)  11 DEC 2023 11:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.10)  18 DEC 2023 19:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**F:/GitHub/availability-thermal-mbps/doc/manuscript-figures.tex
-(F:/GitHub/availability-thermal-mbps/doc/manuscript-figures.tex
+**C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figu
+res.tex
+
+(C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es.tex
 LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-08-29>
+L3 programming layer <2023-06-30>
 (C:\Users\kydah\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Users\kydah\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
@@ -435,7 +438,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 ) (C:\Users\kydah\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 (C:\Users\kydah\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
+Package: hyperref 2023-06-25 v7.01a Hypertext links for LaTeX
 
 (C:\Users\kydah\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
 .sty
@@ -466,7 +469,7 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 ) (C:\Users\kydah\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ) (C:\Users\kydah\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+Package: nameref 2023-06-18 v2.52 Cross-referencing by name of section
 (C:\Users\kydah\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
@@ -480,7 +483,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 \Hy@linkcounter=\count298
 \Hy@pagecounter=\count299
 (C:\Users\kydah\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-06-25 v7.01a Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (C:\Users\kydah\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
@@ -488,7 +491,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count300
 (C:\Users\kydah\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-06-25 v7.01a Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -535,7 +538,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (C:\Users\kydah\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
+File: hpdftex.def 2023-06-25 v7.01a Hyperref driver for pdfTeX
 (C:\Users\kydah\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
@@ -575,7 +578,7 @@ File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box63
 ) (manuscript-figures.aux
 
-LaTeX Warning: Label `fig:dR0dvar_comp' multiply defined.
+LaTeX Warning: Label `fig:MosquitoThermalTraits' multiply defined.
 
 )
 \openout1 = `manuscript-figures.aux'.
@@ -730,287 +733,284 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 100.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 100.
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-1_contact_comparison-1.pdf, id=3, 505.89pt x 361.35pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-1_contact_comparison-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-1_contact_comparison-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-1_contact_comparison-1.pdf  used on input line 106.
-
+<C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es_files/figure-latex/fig-1_contact_comparison-1.pdf, id=3, 505.89pt x 361.35pt
+>
+File: C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-
+figures_files/figure-latex/fig-1_contact_comparison-1.pdf Graphic file (type pd
+f)
+<use C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-1_contact_comparison-1.pdf>
+Package pdftex.def Info: C:/Users/kydah/Documents/GitHub/availability-thermal-m
+bps/doc/manuscript-figures_files/figure-latex/fig-1_contact_comparison-1.pdf  u
+sed on input line 106.
 (pdftex.def)             Requested size: 469.76265pt x 335.54477pt.
 [1
 
 {C:/Users/kydah/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/kyda
 h/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-3_MosquitoThermalTraits-1.pdf, id=13, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-3_MosquitoThermalTraits-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-3_MosquitoThermalTraits-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-3_MosquitoThermalTraits-1.pdf  used on input line 1
-15.
+<C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es_files/figure-latex/fig-3_MosquitoThermalTraits-1.pdf, id=13, 650.43pt x 433.
+62pt>
+File: C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-
+figures_files/figure-latex/fig-3_MosquitoThermalTraits-1.pdf Graphic file (type
+ pdf)
+<use C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-3_MosquitoThermalTraits-1.pdf>
+Package pdftex.def Info: C:/Users/kydah/Documents/GitHub/availability-thermal-m
+bps/doc/manuscript-figures_files/figure-latex/fig-3_MosquitoThermalTraits-1.pdf
+  used on input line 115.
 (pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
-[2 <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-lat
-ex/fig-1_contact_comparison-1.pdf>]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-4_R0_TPCs-1.pdf, id=26, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-4_R0_TPCs-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-4_R0_TPCs-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-4_R0_TPCs-1.pdf  used on input line 124.
+[2 <C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-fi
+gures_files/figure-latex/fig-1_contact_comparison-1.pdf>]
+<C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es_files/figure-latex/fig-4_R0_TPCs-1.pdf, id=26, 650.43pt x 433.62pt>
+File: C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-
+figures_files/figure-latex/fig-4_R0_TPCs-1.pdf Graphic file (type pdf)
+<use C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-4_R0_TPCs-1.pdf>
+Package pdftex.def Info: C:/Users/kydah/Documents/GitHub/availability-thermal-m
+bps/doc/manuscript-figures_files/figure-latex/fig-4_R0_TPCs-1.pdf  used on inpu
+t line 124.
 (pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
-[3 <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-lat
-ex/fig-3_MosquitoThermalTraits-1.pdf>]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-5_Topt-1.pdf, id=40, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-5_Topt-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-5_Topt-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-5_Topt-1.pdf  used on input line 133.
+[3 <C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-fi
+gures_files/figure-latex/fig-3_MosquitoThermalTraits-1.pdf>]
+<C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es_files/figure-latex/fig-5_Topt-1.pdf, id=40, 650.43pt x 433.62pt>
+File: C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-
+figures_files/figure-latex/fig-5_Topt-1.pdf Graphic file (type pdf)
+<use C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-5_Topt-1.pdf>
+Package pdftex.def Info: C:/Users/kydah/Documents/GitHub/availability-thermal-m
+bps/doc/manuscript-figures_files/figure-latex/fig-5_Topt-1.pdf  used on input l
+ine 133.
 (pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
 [4{C:/Users/kydah/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.en
 c}{C:/Users/kydah/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc} <
-F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/f
-ig-4_R0_TPCs-1.pdf>]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-6_CT_Width-1.pdf, id=56, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-6_CT_Width-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-6_CT_Width-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-6_CT_Width-1.pdf  used on input line 142.
+C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figure
+s_files/figure-latex/fig-4_R0_TPCs-1.pdf>]
+<C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es_files/figure-latex/fig-6_CT_Width-1.pdf, id=56, 650.43pt x 433.62pt>
+File: C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-
+figures_files/figure-latex/fig-6_CT_Width-1.pdf Graphic file (type pdf)
+<use C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-6_CT_Width-1.pdf>
+Package pdftex.def Info: C:/Users/kydah/Documents/GitHub/availability-thermal-m
+bps/doc/manuscript-figures_files/figure-latex/fig-6_CT_Width-1.pdf  used on inp
+ut line 142.
 (pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
 [5{C:/Users/kydah/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.en
-c} <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-lat
-ex/fig-5_Topt-1.pdf>]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-S1_R0_heatmap_plots_all-1.pdf, id=71, 650.43pt x 794.97pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-S1_R0_heatmap_plots_all-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S1_R0_heatmap_plots_all-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-S1_R0_heatmap_plots_all-1.pdf  used on input line 1
-54.
+c} <C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-fi
+gures_files/figure-latex/fig-5_Topt-1.pdf>]
+<C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es_files/figure-latex/fig-7_explain_sensitivity-1.pdf, id=71, 650.43pt x 433.62
+pt>
+File: C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-
+figures_files/figure-latex/fig-7_explain_sensitivity-1.pdf Graphic file (type p
+df)
+<use C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-7_explain_sensitivity-1.pdf>
+Package pdftex.def Info: C:/Users/kydah/Documents/GitHub/availability-thermal-m
+bps/doc/manuscript-figures_files/figure-latex/fig-7_explain_sensitivity-1.pdf  
+used on input line 151.
+(pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
+[6 <C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-fi
+gures_files/figure-latex/fig-6_CT_Width-1.pdf>]
+<C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es_files/figure-latex/fig-S0_MosquitoDensity-1.pdf, id=85, 650.43pt x 433.62pt>
+
+File: C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-
+figures_files/figure-latex/fig-S0_MosquitoDensity-1.pdf Graphic file (type pdf)
+
+<use C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S0_MosquitoDensity-1.pdf>
+Package pdftex.def Info: C:/Users/kydah/Documents/GitHub/availability-thermal-m
+bps/doc/manuscript-figures_files/figure-latex/fig-S0_MosquitoDensity-1.pdf  use
+d on input line 163.
+(pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
+[7 <C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-fi
+gures_files/figure-latex/fig-7_explain_sensitivity-1.pdf>]
+<C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es_files/figure-latex/fig-S1_R0_heatmap_plots_all-1.pdf, id=100, 650.43pt x 794
+.97pt>
+File: C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-
+figures_files/figure-latex/fig-S1_R0_heatmap_plots_all-1.pdf Graphic file (type
+ pdf)
+<use C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S1_R0_heatmap_plots_all-1.pdf>
+Package pdftex.def Info: C:/Users/kydah/Documents/GitHub/availability-thermal-m
+bps/doc/manuscript-figures_files/figure-latex/fig-S1_R0_heatmap_plots_all-1.pdf
+  used on input line 172.
 (pdftex.def)             Requested size: 469.76817pt x 574.16112pt.
-[6 <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-lat
-ex/fig-6_CT_Width-1.pdf>] [7]
-Overfull \vbox (47.37817pt too high) has occurred while \output is active []
+[8 <C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-fi
+gures_files/figure-latex/fig-S0_MosquitoDensity-1.pdf>]
+Overfull \vbox (19.67554pt too high) has occurred while \output is active []
 
-[8 <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-lat
-ex/fig-S1_R0_heatmap_plots_all-1.pdf>]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-S2_Topt_plots_varyKH-1.pdf, id=104, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-S2_Topt_plots_varyKH-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S2_Topt_plots_varyKH-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-S2_Topt_plots_varyKH-1.pdf  used on input line 163.
+[9 <C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-fi
+gures_files/figure-latex/fig-S1_R0_heatmap_plots_all-1.pdf>]
+<C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es_files/figure-latex/fig-S2_Topt_plots_varyKH-1.pdf, id=126, 650.43pt x 433.62
+pt>
+File: C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-
+figures_files/figure-latex/fig-S2_Topt_plots_varyKH-1.pdf Graphic file (type pd
+f)
+<use C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S2_Topt_plots_varyKH-1.pdf>
+Package pdftex.def Info: C:/Users/kydah/Documents/GitHub/availability-thermal-m
+bps/doc/manuscript-figures_files/figure-latex/fig-S2_Topt_plots_varyKH-1.pdf  u
+sed on input line 181.
+(pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
+<C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es_files/figure-latex/fig-S3_Topt_plots_varysigmaH-1.pdf, id=127, 650.43pt x 43
+3.62pt>
+File: C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-
+figures_files/figure-latex/fig-S3_Topt_plots_varysigmaH-1.pdf Graphic file (typ
+e pdf)
+<use C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S3_Topt_plots_varysigmaH-1.pdf>
+Package pdftex.def Info: C:/Users/kydah/Documents/GitHub/availability-thermal-m
+bps/doc/manuscript-figures_files/figure-latex/fig-S3_Topt_plots_varysigmaH-1.pd
+f  used on input line 190.
+(pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
+[10 <C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S2_Topt_plots_varyKH-1.pdf>]
+<C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es_files/figure-latex/fig-S4_CTmin-1.pdf, id=140, 650.43pt x 433.62pt>
+File: C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-
+figures_files/figure-latex/fig-S4_CTmin-1.pdf Graphic file (type pdf)
+<use C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S4_CTmin-1.pdf>
+Package pdftex.def Info: C:/Users/kydah/Documents/GitHub/availability-thermal-m
+bps/doc/manuscript-figures_files/figure-latex/fig-S4_CTmin-1.pdf  used on input
+ line 199.
+(pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
+[11 <C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S3_Topt_plots_varysigmaH-1.pdf>]
+<C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es_files/figure-latex/fig-S5_CTmax-1.pdf, id=153, 650.43pt x 433.62pt>
+File: C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-
+figures_files/figure-latex/fig-S5_CTmax-1.pdf Graphic file (type pdf)
+<use C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S5_CTmax-1.pdf>
+Package pdftex.def Info: C:/Users/kydah/Documents/GitHub/availability-thermal-m
+bps/doc/manuscript-figures_files/figure-latex/fig-S5_CTmax-1.pdf  used on input
+ line 208.
+(pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
+[12 <C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S4_CTmin-1.pdf>]
+<C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es_files/figure-latex/fig-S6_CT_Range-1.pdf, id=179, 650.43pt x 433.62pt>
+File: C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-
+figures_files/figure-latex/fig-S6_CT_Range-1.pdf Graphic file (type pdf)
+<use C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S6_CT_Range-1.pdf>
+Package pdftex.def Info: C:/Users/kydah/Documents/GitHub/availability-thermal-m
+bps/doc/manuscript-figures_files/figure-latex/fig-S6_CT_Range-1.pdf  used on in
+put line 217.
+(pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
+[13 <C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S5_CTmax-1.pdf>]
+<C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es_files/figure-latex/fig-S7_CT_distributions-1.pdf, id=206, 650.43pt x 433.62p
+t>
+File: C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-
+figures_files/figure-latex/fig-S7_CT_distributions-1.pdf Graphic file (type pdf
+)
+<use C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S7_CT_distributions-1.pdf>
+Package pdftex.def Info: C:/Users/kydah/Documents/GitHub/availability-thermal-m
+bps/doc/manuscript-figures_files/figure-latex/fig-S7_CT_distributions-1.pdf  us
+ed on input line 226.
+(pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
+[14 <C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S6_CT_Range-1.pdf>]
+<C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es_files/figure-latex/fig-S8_R0_sensitivity-1.pdf, id=219, 650.43pt x 433.62pt>
 
+File: C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-
+figures_files/figure-latex/fig-S8_R0_sensitivity-1.pdf Graphic file (type pdf)
+<use C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S8_R0_sensitivity-1.pdf>
+Package pdftex.def Info: C:/Users/kydah/Documents/GitHub/availability-thermal-m
+bps/doc/manuscript-figures_files/figure-latex/fig-S8_R0_sensitivity-1.pdf  used
+ on input line 235.
 (pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-S3_Topt_plots_varysigmaH-1.pdf, id=105, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-S3_Topt_plots_varysigmaH-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S3_Topt_plots_varysigmaH-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-S3_Topt_plots_varysigmaH-1.pdf  used on input line 
-172.
+[15 <C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S7_CT_distributions-1.pdf>]
+<C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es_files/figure-latex/fig-S10_Topt_uncertainty-1.pdf, id=231, 650.43pt x 433.62
+pt>
+File: C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-
+figures_files/figure-latex/fig-S10_Topt_uncertainty-1.pdf Graphic file (type pd
+f)
+<use C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S10_Topt_uncertainty-1.pdf>
+Package pdftex.def Info: C:/Users/kydah/Documents/GitHub/availability-thermal-m
+bps/doc/manuscript-figures_files/figure-latex/fig-S10_Topt_uncertainty-1.pdf  u
+sed on input line 244.
 (pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
-[9 <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-lat
-ex/fig-S2_Topt_plots_varyKH-1.pdf>]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-S4_CTmin-1.pdf, id=118, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-S4_CTmin-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S4_CTmin-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-S4_CTmin-1.pdf  used on input line 181.
+[16 <C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S8_R0_sensitivity-1.pdf>]
+<C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es_files/figure-latex/fig-S11_CTmin_uncertainty-1.pdf, id=244, 650.43pt x 433.6
+2pt>
+File: C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-
+figures_files/figure-latex/fig-S11_CTmin_uncertainty-1.pdf Graphic file (type p
+df)
+<use C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S11_CTmin_uncertainty-1.pdf>
+Package pdftex.def Info: C:/Users/kydah/Documents/GitHub/availability-thermal-m
+bps/doc/manuscript-figures_files/figure-latex/fig-S11_CTmin_uncertainty-1.pdf  
+used on input line 253.
 (pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
-[10 <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S3_Topt_plots_varysigmaH-1.pdf>]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-S5_CTmax-1.pdf, id=131, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-S5_CTmax-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S5_CTmax-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-S5_CTmax-1.pdf  used on input line 190.
+[17 <C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S10_Topt_uncertainty-1.pdf>]
+<C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es_files/figure-latex/fig-S12_CTmax_uncertainty-1.pdf, id=256, 650.43pt x 433.6
+2pt>
+File: C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-
+figures_files/figure-latex/fig-S12_CTmax_uncertainty-1.pdf Graphic file (type p
+df)
+<use C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S12_CTmax_uncertainty-1.pdf>
+Package pdftex.def Info: C:/Users/kydah/Documents/GitHub/availability-thermal-m
+bps/doc/manuscript-figures_files/figure-latex/fig-S12_CTmax_uncertainty-1.pdf  
+used on input line 262.
 (pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
-[11 <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S4_CTmin-1.pdf>]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-S6_CT_Range-1.pdf, id=157, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-S6_CT_Range-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S6_CT_Range-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-S6_CT_Range-1.pdf  used on input line 199.
+[18 <C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S11_CTmin_uncertainty-1.pdf>]
+<C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figur
+es_files/figure-latex/fig-S13_CTwidth_uncertainty-1.pdf, id=269, 650.43pt x 433
+.62pt>
+File: C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-
+figures_files/figure-latex/fig-S13_CTwidth_uncertainty-1.pdf Graphic file (type
+ pdf)
+<use C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S13_CTwidth_uncertainty-1.pdf>
+Package pdftex.def Info: C:/Users/kydah/Documents/GitHub/availability-thermal-m
+bps/doc/manuscript-figures_files/figure-latex/fig-S13_CTwidth_uncertainty-1.pdf
+  used on input line 271.
 (pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
-[12 <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S5_CTmax-1.pdf>]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-S7_CT_distributions-1.pdf, id=183, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-S7_CT_distributions-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S7_CT_distributions-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-S7_CT_distributions-1.pdf  used on input line 208.
-(pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
-[13 <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S6_CT_Range-1.pdf>]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-S8_2_dR0dvar_uncertainty-1.pdf, id=197, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-S8_2_dR0dvar_uncertainty-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S8_2_dR0dvar_uncertainty-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-S8_2_dR0dvar_uncertainty-1.pdf  used on input line 
-217.
-(pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
-[14 <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S7_CT_distributions-1.pdf>]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-S8_3_dR0dvar_comparison-1.pdf, id=209, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-S8_3_dR0dvar_comparison-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S8_3_dR0dvar_comparison-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-S8_3_dR0dvar_comparison-1.pdf  used on input line 2
-26.
-(pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
-[15 <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S8_2_dR0dvar_uncertainty-1.pdf>]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-S8_4_dR0dvar_compzoom-1.pdf, id=223, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-S8_4_dR0dvar_compzoom-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S8_4_dR0dvar_compzoom-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-S8_4_dR0dvar_compzoom-1.pdf  used on input line 235
-.
-(pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
-[16 <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S8_3_dR0dvar_comparison-1.pdf>]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-S8_R0_uncertainty-1.pdf, id=236, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-S8_R0_uncertainty-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S8_R0_uncertainty-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-S8_R0_uncertainty-1.pdf  used on input line 244.
-(pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
-[17 <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S8_4_dR0dvar_compzoom-1.pdf>]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-S9_ddTR0_uncertainty-1.pdf, id=249, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-S9_ddTR0_uncertainty-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S9_ddTR0_uncertainty-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-S9_ddTR0_uncertainty-1.pdf  used on input line 253.
-
-(pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
-[18 <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S8_R0_uncertainty-1.pdf>]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-S10_Topt_uncertainty-1.pdf, id=262, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-S10_Topt_uncertainty-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S10_Topt_uncertainty-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-S10_Topt_uncertainty-1.pdf  used on input line 262.
-
-(pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
-[19 <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S9_ddTR0_uncertainty-1.pdf>]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-S10_2_dToptdKH_uncertainty-1.pdf, id=276, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-S10_2_dToptdKH_uncertainty-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S10_2_dToptdKH_uncertainty-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-S10_2_dToptdKH_uncertainty-1.pdf  used on input lin
-e 271.
-(pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
-[20 <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S10_Topt_uncertainty-1.pdf>]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-S11_CTmin_uncertainty-1.pdf, id=288, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-S11_CTmin_uncertainty-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S11_CTmin_uncertainty-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-S11_CTmin_uncertainty-1.pdf  used on input line 280
-.
-(pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
-[21 <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S10_2_dToptdKH_uncertainty-1.pdf>]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-S12_CTmax_uncertainty-1.pdf, id=300, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-S12_CTmax_uncertainty-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S12_CTmax_uncertainty-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-S12_CTmax_uncertainty-1.pdf  used on input line 289
-.
-(pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
-[22 <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S11_CTmin_uncertainty-1.pdf>]
-<F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-latex/
-fig-S13_CTwidth_uncertainty-1.pdf, id=313, 650.43pt x 433.62pt>
-File: F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-l
-atex/fig-S13_CTwidth_uncertainty-1.pdf Graphic file (type pdf)
-<use F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S13_CTwidth_uncertainty-1.pdf>
-Package pdftex.def Info: F:/GitHub/availability-thermal-mbps/doc/manuscript-fig
-ures_files/figure-latex/fig-S13_CTwidth_uncertainty-1.pdf  used on input line 2
-98.
-(pdftex.def)             Requested size: 469.76817pt x 313.17879pt.
-[23 <F:/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure-la
-tex/fig-S12_CTmax_uncertainty-1.pdf>] [24 <F:/GitHub/availability-thermal-mbps/
-doc/manuscript-figures_files/figure-latex/fig-S13_CTwidth_uncertainty-1.pdf>] (
-manuscript-figures.aux)
+[19 <C:/Users/kydah/Documents/GitHub/availability-thermal-mbps/doc/manuscript-f
+igures_files/figure-latex/fig-S12_CTmax_uncertainty-1.pdf>] [20 <C:/Users/kydah
+/Documents/GitHub/availability-thermal-mbps/doc/manuscript-figures_files/figure
+-latex/fig-S13_CTwidth_uncertainty-1.pdf>] (manuscript-figures.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-08-29>
+L3 programming layer <2023-06-30>
  ***********
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 17496 strings out of 475247
- 287960 string characters out of 5757792
- 1923801 words of memory out of 5000000
- 38525 multiletter control sequences out of 15000+600000
- 616325 words of font info for 154 fonts, out of 8000000 for 9000
+ 17454 strings out of 475551
+ 288371 string characters out of 5762554
+ 1922238 words of memory out of 5000000
+ 38188 multiletter control sequences out of 15000+600000
+ 616195 words of font info for 153 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 77i,7n,81p,3288b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,7n,81p,3310b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/kydah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
 b><C:/Users/kydah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pf
 b><C:/Users/kydah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb
@@ -1020,9 +1020,9 @@ C:/Users/kydah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C
 :/Users/kydah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/
 Users/kydah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/
 Users/kydah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
-Output written on manuscript-figures.pdf (24 pages, 5169678 bytes).
+Output written on manuscript-figures.pdf (20 pages, 1835776 bytes).
 PDF statistics:
- 404 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
- 28799 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 360 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
+ 28784 words of extra memory for PDF output out of 29859 (max. 10000000)
 

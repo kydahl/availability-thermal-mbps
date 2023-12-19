@@ -12,10 +12,10 @@ library(tidyverse)
 
 ## Set resolution for host trait variation
 # Host density vector: Number of values to include to consider for vertebrate host density
-KH_vec_length <- 300
+KH_vec_length <- 30 #300
 
 # Biting tolerance vector: Number of values to consider for biting tolerance
-sigmaH_vec_length <- 300
+sigmaH_vec_length <- 30 #300
 
 ## Host life history & behavioral traits
 # Host recruitment rate:

@@ -1,0 +1,23 @@
+\usepackage{amsmath,epsfig}
+\usepackage{amssymb,amsthm}
+\usepackage[all]{xy}
+\usepackage{xcolor}
+\usepackage{mathtools}
+\usepackage{mathrsfs}
+% Needed to have supplementary figures labled as 'S1', 'S2', etc.
+\newcommand{\beginsupplement}{
+  \setcounter{table}{0}  
+  \renewcommand{\thetable}{S\arabic{table}} 
+  \setcounter{figure}{0} 
+  \renewcommand{\thefigure}{S\arabic{figure}}
+}
+\newtheorem{lemma}{Lemma}
+\newtheorem{theorem}{Theorem}
+
+\usepackage{tabularx}
+\usepackage{makecell}
+\usepackage{multirow}
+
+% uncomment the following lines for line numbers
+%\usepackage[left]{lineno}
+%\linenumbers
