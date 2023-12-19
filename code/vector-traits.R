@@ -34,9 +34,9 @@ source("code/data-cleaning.R")
 
 # Run this to generate samples of trait TPC parameters from informed posterior distributions for the first time
 # Set parameters for MCMC
-n.chains <- 2 #5
-n.adapt <- 1000 #5000
-n.samps <- 1000 #5000
+n.chains <- 5
+n.adapt <- 5000
+n.samps <- 5000
 # Do you want to look at diagnostic plots?
 plot_bool <- FALSE
 source("code/get-thermal-trait-priors.R")
@@ -65,7 +65,7 @@ write_csv(table, "results/TPC_fit_summary.csv")
 Temps <- seq(10, 40, length.out = 601) # full: length.out = 601, thin: length.out = 301
 
 # Thin sample size
-thin_size <- 1000 # full = 5000, thin = 1000
+thin_size <- 5000 # full = 5000, thin = 1000
 
 plot_bool = FALSE
 source("code/trait-transform.R")

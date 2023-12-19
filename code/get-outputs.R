@@ -44,14 +44,6 @@ init.df <- tibble(
 # Load in vector trait data
 data.Vec <- read_rds("results/VecTPC_vals.rds")
 
-# Thin out the vector trait data samples
-thin_size <- 100
-samples <- unique(data.Vec$sample_num)
-num_samples <- length(samples)
-sample_inds <- sample(samples, min(num_samples, thin_size), replace = FALSE)
-data.Vec <- data.Vec %>%
-  filter(sample_num %in% sample_inds)
-
 # Load in host trait data
 data.Host <- read_rds("results/Host_vals.rds")
 

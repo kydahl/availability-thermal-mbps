@@ -54,14 +54,6 @@ data.Host <- read_rds("results/Host_vals.rds")
 # Vector trait dataset
 data.Vec <- read_rds("results/VecTPC_vals.rds")
 
-# Thin out the vector trait data samples
-thin_size <- 100
-samples <- unique(data.Vec$sample_num)
-num_samples <- length(samples)
-sample_inds <- sample(samples, min(num_samples, thin_size), replace = FALSE)
-data.Vec <- data.Vec %>%
-  filter(sample_num %in% sample_inds)
-
 # R0 data
 data.R0 <- read_rds("results/R0_vals.rds")
 
