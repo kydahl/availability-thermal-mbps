@@ -35,7 +35,7 @@ library(tidyverse)
 #    taken from Supplementary Data of Mordecai 2013. See Bayoh2001-lifespan-analysis.R for details)
 data.Mordecai2013 <- read.csv("data/raw/Mordecai_2013/Mordecai_2013_supp_data.csv", header = TRUE) %>%
   # Add in lifespan data
-  rbind(read_csv("data/clean/Bayoh2001_mortality.csv")) %>% 
+  rbind(read_csv("data/raw/Mordecai_2013/Bayoh2001_mortality.csv")) %>% 
   mutate(lead_author = "Mordecai") %>%
   # Make bc a probability
   mutate(trait = ifelse(trait.name == "bc", trait / 100, trait)) %>% 

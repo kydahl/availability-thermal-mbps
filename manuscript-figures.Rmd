@@ -168,12 +168,6 @@ all.density.df <- read_rds("results/CTminmaxTopt_densities.rds") %>%
   pathosystem_labeller() %>%
   filter(KH > 0.01)
 
-# Uncertainty data for the derivative of R0 wrt temperature
-ddTR0.HPD <- read_rds("results/ddTR0_HPD_unc.rds") %>%
-  ungroup() %>%
-  pathosystem_labeller() %>%
-  focalvar_labeller()
-
 # Uncertainty data for Topt
 Topt.HPD <- read_rds("results/Topt_HPD_unc.rds") %>%
   mutate(focal_var = ifelse(focal_var == "lf", "muV", focal_var)) %>%
@@ -184,14 +178,6 @@ Topt.HPD <- read_rds("results/Topt_HPD_unc.rds") %>%
 # Uncertainty data for critical thermal extrema
 CT.HPD <- read_rds("results/CT_HPD_unc.rds") %>%
   ungroup() %>%
-  pathosystem_labeller() %>%
-  focalvar_labeller()
-
-# Derivative of Topt with respect to host pop. density
-dToptdKH.HPD <- read_rds("results/dToptdKH_HPD_unc.rds") %>%
-  ungroup() %>%
-  distinct() %>%
-  filter(!is.na(HPD_width)) %>%
   pathosystem_labeller() %>%
   focalvar_labeller()
 

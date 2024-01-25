@@ -1,20 +1,39 @@
 # Results from scripts in '/code'
-This folder is populated after running scripts in '/code'
+This folder is populated after running the scripts provided in '/code'
+These data are compressed as .rds files and may become substantially larger when loaded into the R workspace.
 
-AllOutputs.csv
-  * Created by get-analysis-dfs.R
-  * Contains data on the basic reproduction number as a function of temperature, host traits, and pathosystem
-  * Over 2 GB in size
+VecTPC_vals.rds
+  * Data specifying the mosquito and parasite trait thermal performance curves
+  * Created by vector-traits.R
 
-MosquitoThermalResponse.csv
-  * Created by get-mosquito-traits.R
-  * Contains data on thermal performance of mosquito and parasite traits
+R0_TPC_vals.rds
+  * Values of the basic reproduction number R0 as a function of temperature
+  * Created by get-outputs.R
 
-ThermalCharacteristics.csv
-  * Created by get-analysis-dfs.R
-  * Contains summary data about how R0 varies with temperature
-    * thermal optimum, critical thermal thresholds for transmission, host population density thresholds for transmission
+R0_vals.rds
+  * Values of the basic reproduction number R0 evaluated across a high resolution range of temperature and host availability values
+  * Created by get-outputs.R
 
-  VectorTraits.csv
-  * Created by get-analysis-dfs.R
-  * Contains data on thermal performance of mosquito traits *only*
+Topt_vals.rds
+  * Values of the thermal optimum evaluated across a high resolution range of host availability values
+  * Created by get-outputs.R
+
+CT_vals.rds
+  * Values of the critical thermal minimum, maximum, and range width evaluated across a high resolution range of host availability values
+  * Created by get-outputs.R
+
+dR0dk_vals.rds
+  * Values of the local derivative of R0 with respect to temperature-dependent mosquito parameters
+  * Created by get-outputs.R
+
+CTminmaxTopt_densities.rds
+  * Distributions of the thermal optimum, critical thermal minimum, critical thermal maximum derived from the posterior distributions of the trait thermal performance curve hyperparameters.
+  * Created by sensitivity.R
+
+Topt_HPD_unc.rds
+  * Uncertainty in the thermal optimum measured using the widths of the highest posterior density interval
+  * Created by sensitivity.R
+
+CT_HPD_unc.rds.rds
+  * Uncertainty in the critical thermal minimum and maximum measured using the widths of the highest posterior density interval
+  * Created by sensitivity.R
